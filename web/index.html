@@ -1,548 +1,99 @@
 <!DOCTYPE html>
-<html lang="en" class="dark">
+<html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Antigravity — Business News Intelligence &amp; Strategic Synthesis</title>
-  <meta name="description" content="Verified daily executive business intelligence briefings across Marketing, Finance, Technology, and Corporate Strategy synthesized through a 5-dimensional strategic lens.">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Business News Archive — 5-Dimensional Strategic Lens</title>
+  <meta name="description" content="A daily business-news briefing for founders, executives, and allocators. In-depth context narratives paired with 5-dimensional strategic breakdowns across Marketing, Finance, Technology, and Strategy.">
+  <link rel="canonical" href="https://pereiraaaron26-lab.github.io/business-news-intelligence/">
   
-  <!-- Tailwind CSS CDN with typography plugin -->
-  <script src="https://cdn.tailwindcss.com"></script>
-  <script>
-    tailwind.config = {
-      darkMode: 'class',
-      theme: {
-        extend: {
-          fontFamily: {
-            serif: ['Newsreader', 'Georgia', 'serif'],
-            sans: ['Plus Jakarta Sans', '-apple-system', 'sans-serif'],
-            mono: ['JetBrains Mono', 'monospace']
-          },
-          colors: {
-            paper: {
-              light: '#fcfbfa',
-              dark: '#0c0e14',
-              surface: '#121620',
-              card: '#161c28',
-              border: '#1f2738'
-            },
-            accent: {
-              gold: '#c59b27',
-              emerald: '#10b981',
-              amber: '#f59e0b',
-              blue: '#3b82f6',
-              indigo: '#6366f1'
-            }
-          }
-        }
-      }
-    }
-  </script>
-
-  <!-- Lucide Icons -->
-  <script src="https://unpkg.com/lucide@latest"></script>
-
-  <!-- Custom Editorial Styles -->
+  <!-- Custom Paper & Ink Wabi-Sabi Stylesheet -->
   <link rel="stylesheet" href="styles.css">
 
   <!-- Offline / Local fallback data bundle -->
   <script src="data/briefing_data.js"></script>
 </head>
-<body class="bg-paper-light dark:bg-paper-dark text-slate-800 dark:text-slate-100 min-h-screen selection:bg-indigo-600 selection:text-white transition-colors duration-200 antialiased">
+<body>
 
-  <!-- ================= TOP MASTHEAD META BAR ================= -->
-  <div class="border-b border-slate-200 dark:border-paper-border bg-slate-100/60 dark:bg-paper-surface/60 text-slate-500 dark:text-slate-400 text-xs py-1.5 px-4 sm:px-8">
-    <div class="max-w-7xl mx-auto flex flex-wrap items-center justify-between gap-2">
-      <div class="flex items-center space-x-3">
-        <span class="font-mono font-bold tracking-wider uppercase text-[11px] text-slate-700 dark:text-slate-300">Daily Strategic Dispatch</span>
-        <span class="text-slate-300 dark:text-slate-700">•</span>
-        <span class="font-mono text-[11px]" id="nav-date-badge">November 8, 2026</span>
-        <span class="text-slate-300 dark:text-slate-700">•</span>
-        <span class="text-[11px]">180+ Feeds Monitored • 17 Tier-1 Primary Sources</span>
-      </div>
-      
-      <div class="flex items-center space-x-3 text-[11px] font-mono">
-        <span class="flex items-center space-x-1.5 text-emerald-600 dark:text-emerald-400">
-          <span class="w-2 h-2 rounded-full bg-emerald-500 animate-pulse inline-block"></span>
-          <span>Pipeline Active</span>
-        </span>
-        <span class="text-slate-300 dark:text-slate-700">|</span>
-        <a href="https://app.notion.com/p/Daily-Business-Intelligence-412c9631ecc080d7966ecaeb72d3285f" target="_blank" rel="noopener noreferrer" class="text-indigo-500 dark:text-indigo-400 hover:underline flex items-center space-x-1">
-          <span>Notion DB: 412c9631</span>
-          <i data-lucide="external-link" class="w-3 h-3"></i>
-        </a>
-      </div>
-    </div>
-  </div>
-
-  <!-- ================= MAIN HEADER & BRAND ================= -->
-  <header class="border-b border-slate-200 dark:border-paper-border bg-white dark:bg-paper-surface sticky top-0 z-40 backdrop-blur-md bg-opacity-90 dark:bg-opacity-90 transition-colors">
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
-      <div class="flex items-center justify-between">
-        
-        <!-- Brand / Identity -->
-        <div class="space-y-0.5">
-          <div class="flex items-center space-x-2.5">
-            <span class="font-serif italic font-bold text-2xl sm:text-3xl tracking-tight text-slate-900 dark:text-white">
-              Antigravity
-            </span>
-            <span class="px-2 py-0.5 rounded text-[11px] font-mono font-bold uppercase tracking-wider bg-slate-100 dark:bg-paper-card text-slate-700 dark:text-slate-300 border border-slate-200 dark:border-paper-border">
-              Intelligence Desk
-            </span>
-          </div>
-          <p class="text-xs text-slate-500 dark:text-slate-400 hidden sm:block">
-            5-Dimensional Strategic Synthesis &amp; Market Dynamics for Allocators and CXOs
-          </p>
-        </div>
-
-        <!-- Right Quick Actions -->
-        <div class="flex items-center space-x-2 sm:space-x-3">
-          <!-- Notion Shortcut -->
-          <a href="https://app.notion.com/p/Daily-Business-Intelligence-412c9631ecc080d7966ecaeb72d3285f" target="_blank" rel="noopener noreferrer" class="p-2 text-slate-600 dark:text-slate-400 hover:text-indigo-400 hover:bg-slate-100 dark:hover:bg-paper-card rounded-lg transition-colors flex items-center space-x-1 text-xs" title="Open Notion Database">
-            <i data-lucide="book-open" class="w-4 h-4 text-indigo-400"></i>
-            <span class="hidden md:inline font-medium">Notion</span>
-          </a>
-
-          <!-- Google Sheets Shortcut -->
-          <a href="https://script.google.com/macros/s/AKfycbxRhaLJx5LmnMADbuv3yMycpu4IOVw-ydsFAqRqkzOctHs60O0MwKI0kl6-O4HdA3d0QA/exec" target="_blank" rel="noopener noreferrer" class="p-2 text-slate-600 dark:text-slate-400 hover:text-emerald-500 hover:bg-slate-100 dark:hover:bg-paper-card rounded-lg transition-colors flex items-center space-x-1 text-xs" title="Open Google Sheets Ledger">
-            <i data-lucide="sheet" class="w-4 h-4 text-emerald-500"></i>
-            <span class="hidden md:inline font-medium">Sheets</span>
-          </a>
-
-          <!-- Diagnostics -->
-          <button id="btn-open-diagnostics" title="Pipeline Status & Architecture" class="p-2 text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white hover:bg-slate-100 dark:hover:bg-paper-card rounded-lg transition-colors">
-            <i data-lucide="activity" class="w-4 h-4"></i>
-          </button>
-
-          <!-- Copy All Markdown -->
-          <button id="btn-copy-all" title="Copy Full Daily Briefing in Markdown" class="hidden sm:flex items-center space-x-1.5 px-3 py-1.5 bg-slate-900 dark:bg-white text-white dark:text-slate-900 rounded-lg text-xs font-semibold hover:opacity-90 transition-opacity">
-            <i data-lucide="copy" class="w-3.5 h-3.5"></i>
-            <span>Copy Briefing</span>
-          </button>
-
-          <!-- Theme Toggle -->
-          <button id="btn-theme-toggle" title="Toggle Dark/Light Mode" class="p-2 text-slate-600 dark:text-slate-400 hover:text-amber-400 hover:bg-slate-100 dark:hover:bg-paper-card rounded-lg transition-colors">
-            <i data-lucide="sun" class="w-4 h-4 hidden dark:block"></i>
-            <i data-lucide="moon" class="w-4 h-4 block dark:hidden"></i>
-          </button>
-        </div>
-
-      </div>
-    </div>
-  </header>
-
-  <!-- ================= EDITORIAL HERO: THE MACRO CROSS-CURRENTS ================= -->
-  <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 space-y-8">
+  <div class="shell">
     
-    <section class="border border-slate-200 dark:border-paper-border rounded-2xl bg-white dark:bg-paper-surface p-6 sm:p-8 shadow-xs space-y-6">
+    <!-- Top Navigation -->
+    <nav class="topnav" aria-label="Primary">
+      <a href="./" class="topnav__brand">Daily Business Intelligence</a>
       
-      <!-- Top Section Info -->
-      <div class="flex flex-col sm:flex-row sm:items-center justify-between pb-4 border-b border-slate-100 dark:border-paper-border/60 gap-3">
-        <div class="flex items-center space-x-2 text-xs font-mono uppercase tracking-wider text-slate-500 dark:text-slate-400">
-          <span class="w-2 h-2 rounded-full bg-indigo-500 inline-block"></span>
-          <span>Executive Synthesis</span>
-          <span>•</span>
-          <span>Macro Forces &amp; Cross-Currents</span>
-        </div>
-        <div class="text-xs font-mono text-slate-400" id="hero-date">
-          Briefing Date: November 8, 2026
-        </div>
-      </div>
-
-      <!-- Macro Themes Grid -->
-      <div class="grid grid-cols-1 md:grid-cols-3 gap-6" id="macro-themes-grid">
-        <!-- Injected by JavaScript -->
-      </div>
-
-      <!-- Metrics Ribbon -->
-      <div class="pt-4 border-t border-slate-100 dark:border-paper-border/60 grid grid-cols-2 sm:grid-cols-4 gap-4 text-xs font-mono">
-        <div>
-          <span class="text-slate-400 block text-[11px]">DISPATCHES ANALYZED</span>
-          <span class="text-lg font-bold text-slate-900 dark:text-white" id="stat-total-stories">5 Stories</span>
-        </div>
-        <div>
-          <span class="text-slate-400 block text-[11px]">AVERAGE DEPTH</span>
-          <span class="text-lg font-bold text-slate-900 dark:text-white" id="stat-avg-words">~360 words</span>
-        </div>
-        <div>
-          <span class="text-slate-400 block text-[11px]">FEEDS PARSED</span>
-          <span class="text-lg font-bold text-emerald-600 dark:text-emerald-400">180+ Live Feeds</span>
-        </div>
-        <div>
-          <span class="text-slate-400 block text-[11px]">ANALYTICAL FRAMEWORK</span>
-          <span class="text-lg font-bold text-indigo-600 dark:text-indigo-400">2-Phase / 5-D Lens</span>
-        </div>
-      </div>
-
-    </section>
-
-    <!-- ================= CONTROLS & FILTER TOOLBAR ================= -->
-    <section class="space-y-4">
-      
-      <!-- Top Row: Verticals & View Switcher -->
-      <div class="flex flex-col lg:flex-row lg:items-center justify-between gap-4">
-        
-        <!-- Vertical Filter Tabs -->
-        <div class="flex items-center space-x-1.5 overflow-x-auto pb-2 lg:pb-0 scrollbar-none" id="vertical-tabs">
-          <button data-vertical="ALL" class="filter-tab active px-3.5 py-1.5 rounded-lg text-xs font-bold transition-all bg-slate-900 dark:bg-white text-white dark:text-slate-900 whitespace-nowrap shadow-xs">
-            All Verticals (5)
-          </button>
-          <button data-vertical="Marketing_GTM" class="filter-tab px-3.5 py-1.5 rounded-lg text-xs font-medium transition-all bg-white dark:bg-paper-surface hover:bg-slate-100 dark:hover:bg-paper-card text-slate-700 dark:text-slate-300 border border-slate-200 dark:border-paper-border whitespace-nowrap flex items-center space-x-1.5">
-            <span class="w-2 h-2 rounded-full bg-emerald-500"></span>
-            <span>Marketing &amp; GTM (2)</span>
-          </button>
-          <button data-vertical="Finance_MA" class="filter-tab px-3.5 py-1.5 rounded-lg text-xs font-medium transition-all bg-white dark:bg-paper-surface hover:bg-slate-100 dark:hover:bg-paper-card text-slate-700 dark:text-slate-300 border border-slate-200 dark:border-paper-border whitespace-nowrap flex items-center space-x-1.5">
-            <span class="w-2 h-2 rounded-full bg-amber-500"></span>
-            <span>Finance &amp; M&amp;A (1)</span>
-          </button>
-          <button data-vertical="Tech" class="filter-tab px-3.5 py-1.5 rounded-lg text-xs font-medium transition-all bg-white dark:bg-paper-surface hover:bg-slate-100 dark:hover:bg-paper-card text-slate-700 dark:text-slate-300 border border-slate-200 dark:border-paper-border whitespace-nowrap flex items-center space-x-1.5">
-            <span class="w-2 h-2 rounded-full bg-blue-500"></span>
-            <span>Technology (1)</span>
-          </button>
-          <button data-vertical="Business" class="filter-tab px-3.5 py-1.5 rounded-lg text-xs font-medium transition-all bg-white dark:bg-paper-surface hover:bg-slate-100 dark:hover:bg-paper-card text-slate-700 dark:text-slate-300 border border-slate-200 dark:border-paper-border whitespace-nowrap flex items-center space-x-1.5">
-            <span class="w-2 h-2 rounded-full bg-purple-500"></span>
-            <span>Corporate Strategy (1)</span>
-          </button>
-        </div>
-
-        <!-- View Switcher -->
-        <div class="flex items-center space-x-1 bg-slate-100 dark:bg-paper-surface p-1 rounded-xl border border-slate-200 dark:border-paper-border self-start lg:self-auto overflow-x-auto scrollbar-none">
-          <button id="view-cards-btn" class="view-btn active px-3 py-1.5 rounded-lg text-xs font-semibold flex items-center space-x-1.5 bg-white dark:bg-paper-card text-slate-900 dark:text-white shadow-xs transition-all whitespace-nowrap">
-            <i data-lucide="layout-grid" class="w-3.5 h-3.5"></i>
-            <span>Editorial Feed</span>
-          </button>
-          <button id="view-kanban-btn" class="view-btn px-3 py-1.5 rounded-lg text-xs font-semibold flex items-center space-x-1.5 text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white transition-all whitespace-nowrap">
-            <i data-lucide="kanban" class="w-3.5 h-3.5"></i>
-            <span>Notion Board</span>
-          </button>
-          <button id="view-matrix-btn" class="view-btn px-3 py-1.5 rounded-lg text-xs font-semibold flex items-center space-x-1.5 text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white transition-all whitespace-nowrap">
-            <i data-lucide="columns" class="w-3.5 h-3.5"></i>
-            <span>5-D Matrix</span>
-          </button>
-          <button id="view-ledger-btn" class="view-btn px-3 py-1.5 rounded-lg text-xs font-semibold flex items-center space-x-1.5 text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white transition-all whitespace-nowrap">
-            <i data-lucide="table" class="w-3.5 h-3.5"></i>
-            <span>Ledger Table</span>
-          </button>
-          <button id="view-notion-btn" class="view-btn px-3 py-1.5 rounded-lg text-xs font-semibold flex items-center space-x-1.5 text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white transition-all whitespace-nowrap">
-            <i data-lucide="book-open" class="w-3.5 h-3.5 text-indigo-400"></i>
-            <span>Notion Hub</span>
-          </button>
-        </div>
-
-      </div>
-
-      <!-- Search & Signal Tag Filters -->
-      <div class="bg-white dark:bg-paper-surface p-3.5 rounded-2xl border border-slate-200 dark:border-paper-border shadow-xs space-y-3">
-        <div class="flex flex-col sm:flex-row items-center gap-3">
-          <div class="relative w-full sm:flex-1">
-            <div class="absolute inset-y-0 left-0 pl-3.5 flex items-center pointer-events-none text-slate-400">
-              <i data-lucide="search" class="w-4 h-4"></i>
-            </div>
-            <input type="text" id="search-input" placeholder="Search headlines, metrics, mechanisms, mental models..." class="w-full pl-10 pr-10 py-2 bg-slate-50 dark:bg-paper-card border border-slate-200 dark:border-paper-border rounded-xl text-xs sm:text-sm focus:outline-none focus:ring-1 focus:ring-slate-400 dark:focus:ring-slate-600 text-slate-900 dark:text-white placeholder-slate-400 transition-colors">
-            <button id="btn-clear-search" class="absolute inset-y-0 right-0 pr-3.5 flex items-center text-slate-400 hover:text-slate-600 dark:hover:text-white hidden">
-              <i data-lucide="x" class="w-4 h-4"></i>
-            </button>
-          </div>
-
-          <div class="flex items-center space-x-2 w-full sm:w-auto justify-end">
-            <button id="btn-reset-filters" class="px-3 py-2 text-xs font-medium text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white bg-slate-100 dark:bg-paper-card hover:bg-slate-200 dark:hover:bg-slate-800 rounded-xl transition-colors flex items-center space-x-1">
-              <i data-lucide="rotate-ccw" class="w-3.5 h-3.5"></i>
-              <span>Reset</span>
-            </button>
-            <button id="btn-export-json" class="px-3 py-2 text-xs font-medium text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white bg-slate-100 dark:bg-paper-card hover:bg-slate-200 dark:hover:bg-slate-800 rounded-xl transition-colors flex items-center space-x-1">
-              <i data-lucide="download" class="w-3.5 h-3.5"></i>
-              <span>JSON</span>
-            </button>
-          </div>
-        </div>
-
-        <div class="flex items-center space-x-1.5 overflow-x-auto pb-1 scrollbar-none text-xs" id="signal-tags-container">
-          <span class="text-slate-400 font-mono uppercase text-[11px] pr-1 flex items-center whitespace-nowrap">
-            <i data-lucide="tag" class="w-3 h-3 mr-1"></i> Signals:
-          </span>
-          <!-- Injected by JavaScript -->
-        </div>
-      </div>
-
-    </section>
-
-    <!-- ================= VIEW 1: EXECUTIVE BRIEFING CARDS ================= -->
-    <section id="view-cards-container" class="space-y-6">
-      <!-- Story Cards dynamically rendered here -->
-    </section>
-
-    <!-- ================= VIEW 2: NOTION KANBAN BOARD ================= -->
-    <section id="view-kanban-container" class="hidden space-y-6">
-      <div class="bg-white dark:bg-paper-surface rounded-2xl border border-slate-200 dark:border-paper-border p-6 shadow-xs">
-        <div class="flex items-center justify-between mb-6">
-          <div>
-            <h2 class="text-lg font-bold text-slate-900 dark:text-white flex items-center space-x-2">
-              <i data-lucide="kanban" class="w-5 h-5 text-indigo-400"></i>
-              <span>Notion Board View (Grouped by Strategic Vertical)</span>
-            </h2>
-            <p class="text-xs text-slate-500 dark:text-slate-400">Board layout organizing briefings across Marketing, Finance, Technology, and Strategy.</p>
-          </div>
-          <span class="px-3 py-1 rounded-full text-xs font-mono font-semibold bg-indigo-500/10 text-indigo-400 border border-indigo-500/20">
-            4 Columns Active
-          </span>
-        </div>
-
-        <div id="kanban-board-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 items-start">
-          <!-- Injected by JavaScript -->
-        </div>
-      </div>
-    </section>
-
-    <!-- ================= VIEW 3: 5-DIMENSIONAL MATRIX ================= -->
-    <section id="view-matrix-container" class="hidden space-y-6">
-      <div class="bg-white dark:bg-paper-surface rounded-2xl border border-slate-200 dark:border-paper-border p-6 shadow-xs overflow-x-auto">
-        <div class="mb-4">
-          <h2 class="text-lg font-bold text-slate-900 dark:text-white flex items-center space-x-2">
-            <i data-lucide="grid" class="w-5 h-5 text-brand-400"></i>
-            <span>5-Dimensional Strategic Comparison Matrix</span>
-          </h2>
-          <p class="text-xs text-slate-500 dark:text-slate-400">Cross-story synthesis across Delta, Mechanism, Strategic Impact, Core Lesson, and Lateral Transfer.</p>
-        </div>
-
-        <div id="matrix-table-wrapper" class="min-w-[900px]">
-          <!-- Injected by JavaScript -->
-        </div>
-      </div>
-    </section>
-
-    <!-- ================= VIEW 4: FEED LEDGER TABLE ================= -->
-    <section id="view-ledger-container" class="hidden space-y-6">
-      <div class="bg-white dark:bg-paper-surface rounded-2xl border border-slate-200 dark:border-paper-border p-6 shadow-xs overflow-x-auto">
-        <div class="flex items-center justify-between mb-4">
-          <div>
-            <h2 class="text-lg font-bold text-slate-900 dark:text-white flex items-center space-x-2">
-              <i data-lucide="database" class="w-5 h-5 text-emerald-400"></i>
-              <span>Feed Ledger View (Google Sheets Schema)</span>
-            </h2>
-            <p class="text-xs text-slate-500 dark:text-slate-400">Structured multi-column data matching the Google Sheets <code>Feed_Ledger</code> database.</p>
-          </div>
-          <a href="https://script.google.com/macros/s/AKfycbxRhaLJx5LmnMADbuv3yMycpu4IOVw-ydsFAqRqkzOctHs60O0MwKI0kl6-O4HdA3d0QA/exec" target="_blank" rel="noopener noreferrer" class="px-3 py-1.5 text-xs font-semibold bg-emerald-500/10 text-emerald-400 border border-emerald-500/30 rounded-lg hover:bg-emerald-500/20 transition-colors flex items-center space-x-1.5">
-            <i data-lucide="external-link" class="w-3.5 h-3.5"></i>
-            <span>Open Apps Script Webhook</span>
-          </a>
-        </div>
-
-        <div id="ledger-table-wrapper" class="min-w-[1000px]">
-          <!-- Injected by JavaScript -->
-        </div>
-      </div>
-    </section>
-
-    <!-- ================= VIEW 5: NOTION WORKSPACE HUB ================= -->
-    <section id="view-notion-container" class="hidden space-y-6">
-      <div class="bg-white dark:bg-paper-surface rounded-2xl border border-slate-200 dark:border-paper-border p-6 sm:p-8 shadow-xs space-y-6">
-        
-        <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-4 pb-6 border-b border-slate-200 dark:border-paper-border">
-          <div class="flex items-center space-x-4">
-            <div class="w-12 h-12 rounded-2xl bg-indigo-500/10 border border-indigo-500/20 flex items-center justify-center text-indigo-400">
-              <i data-lucide="book-open" class="w-6 h-6"></i>
-            </div>
-            <div>
-              <h2 class="text-xl font-bold text-slate-900 dark:text-white flex items-center space-x-2">
-                <span>Notion Workspace Intelligence Hub</span>
-                <span class="px-2 py-0.5 rounded text-[11px] font-mono font-bold bg-emerald-500/10 text-emerald-400 border border-emerald-500/20">LIVE CONNECTED</span>
-              </h2>
-              <p class="text-xs text-slate-500 dark:text-slate-400">Database ID: <code>412c9631-ecc0-809c-968f-d9e6ebcaac04</code> • Page: Daily Business Intelligence</p>
-            </div>
-          </div>
-
-          <div class="flex items-center space-x-3">
-            <a href="https://app.notion.com/p/Daily-Business-Intelligence-412c9631ecc080d7966ecaeb72d3285f" target="_blank" rel="noopener noreferrer" class="px-4 py-2 bg-indigo-600 hover:bg-indigo-500 text-white rounded-xl text-xs font-semibold flex items-center space-x-2 transition-colors shadow-xs">
-              <span>Open in Notion App</span>
-              <i data-lucide="external-link" class="w-3.5 h-3.5"></i>
-            </a>
-          </div>
-        </div>
-
-        <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-          <div class="p-4 rounded-xl bg-slate-50 dark:bg-paper-card border border-slate-200 dark:border-paper-border space-y-1">
-            <span class="text-xs text-slate-400 font-mono">Notion Integration Token</span>
-            <div class="font-mono text-xs font-bold text-slate-700 dark:text-slate-300">Protected via Environment Secret</div>
-            <div class="text-[11px] text-emerald-500 font-medium">Internal Integration Active</div>
-          </div>
-          <div class="p-4 rounded-xl bg-slate-50 dark:bg-paper-card border border-slate-200 dark:border-paper-border space-y-1">
-            <span class="text-xs text-slate-400 font-mono">Database Schema</span>
-            <div class="font-mono text-xs font-bold text-slate-700 dark:text-slate-300">6 Synchronized Properties</div>
-            <div class="text-[11px] text-slate-400">Headline, Vertical, Source, URL, Date, Signals</div>
-          </div>
-          <div class="p-4 rounded-xl bg-slate-50 dark:bg-paper-card border border-slate-200 dark:border-paper-border space-y-1">
-            <span class="text-xs text-slate-400 font-mono">Ingestion Method</span>
-            <div class="font-mono text-xs font-bold text-slate-700 dark:text-slate-300">Automated SSG Ingestion</div>
-            <div class="text-[11px] text-indigo-400">via scripts/sync_from_notion.js</div>
-          </div>
-        </div>
-
-        <div class="rounded-xl border border-slate-200 dark:border-paper-border overflow-hidden bg-slate-900 shadow-inner">
-          <div class="bg-slate-800 px-4 py-2.5 flex items-center justify-between text-xs text-slate-300 font-mono border-b border-slate-700">
-            <div class="flex items-center space-x-2">
-              <span class="w-2.5 h-2.5 rounded-full bg-red-500"></span>
-              <span class="w-2.5 h-2.5 rounded-full bg-yellow-500"></span>
-              <span class="w-2.5 h-2.5 rounded-full bg-green-500"></span>
-              <span class="ml-2 text-slate-400">https://app.notion.com/p/Daily-Business-Intelligence...</span>
-            </div>
-            <a href="https://app.notion.com/p/Daily-Business-Intelligence-412c9631ecc080d7966ecaeb72d3285f" target="_blank" rel="noopener noreferrer" class="text-indigo-400 hover:text-indigo-300 flex items-center space-x-1">
-              <span>Launch Fullscreen ↗</span>
-            </a>
-          </div>
-          <div class="p-8 text-center space-y-4 bg-slate-950/60">
-            <div class="w-14 h-14 mx-auto rounded-2xl bg-indigo-500/10 border border-indigo-500/30 flex items-center justify-center text-indigo-400">
-              <i data-lucide="layout" class="w-7 h-7"></i>
-            </div>
-            <div class="max-w-md mx-auto space-y-2">
-              <h3 class="text-base font-bold text-white">Daily Business Intelligence Notion Database</h3>
-              <p class="text-xs text-slate-400">
-                View all analyzed briefings formatted with executive cards, 400-word context narratives, and 5-dimensional breakdown blocks directly inside Notion.
-              </p>
-            </div>
-            <a href="https://app.notion.com/p/Daily-Business-Intelligence-412c9631ecc080d7966ecaeb72d3285f" target="_blank" rel="noopener noreferrer" class="inline-flex items-center space-x-2 px-5 py-2.5 bg-indigo-600 hover:bg-indigo-500 text-white rounded-xl text-xs font-bold transition-all shadow-xs">
-              <i data-lucide="external-link" class="w-4 h-4"></i>
-              <span>Open Daily Business Intelligence in Notion</span>
-            </a>
-          </div>
-        </div>
-
-      </div>
-    </section>
-
-  </main>
-
-  <!-- ================= SLIDE-OUT EXECUTIVE READER DRAWER ================= -->
-  <div id="reader-drawer-backdrop" class="fixed inset-0 bg-black/60 backdrop-blur-sm z-50 opacity-0 pointer-events-none transition-opacity duration-300"></div>
-
-  <aside id="reader-drawer" class="fixed top-0 right-0 h-full w-full max-w-2xl bg-white dark:bg-paper-surface border-l border-slate-200 dark:border-paper-border z-50 transform translate-x-full transition-transform duration-300 shadow-2xl flex flex-col">
-    <div class="p-6 border-b border-slate-200 dark:border-paper-border flex items-center justify-between">
-      <div class="flex items-center space-x-2">
-        <span class="w-2.5 h-2.5 rounded-full bg-emerald-500"></span>
-        <span class="text-xs font-mono font-bold uppercase tracking-wider text-slate-500 dark:text-slate-400">Executive Reader Mode</span>
-      </div>
-      <div class="flex items-center space-x-2">
-        <button id="drawer-copy-btn" class="p-2 text-slate-500 hover:text-slate-900 dark:hover:text-white hover:bg-slate-100 dark:hover:bg-paper-card rounded-lg transition-colors text-xs flex items-center space-x-1">
-          <i data-lucide="copy" class="w-4 h-4"></i>
-          <span class="hidden sm:inline">Copy Dossier</span>
-        </button>
-        <button id="drawer-close-btn" class="p-2 text-slate-500 hover:text-red-400 hover:bg-slate-100 dark:hover:bg-paper-card rounded-lg transition-colors">
-          <i data-lucide="x" class="w-5 h-5"></i>
+      <div class="topnav__actions">
+        <button class="themetoggle" id="themetoggle" type="button" aria-label="Switch theme" title="Toggle dark/light theme">
+          <svg class="i-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+          </svg>
+          <svg class="i-sun" style="display:none" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <circle cx="12" cy="12" r="4"></circle>
+            <path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"></path>
+          </svg>
         </button>
       </div>
-    </div>
+    </nav>
 
-    <div class="flex-1 overflow-y-auto p-6 sm:p-8 space-y-6" id="drawer-content">
-      <!-- Injected by JavaScript -->
-    </div>
-  </aside>
+    <!-- Hero Section -->
+    <section class="hero">
+      <span class="hanko">Daily Digest</span>
+      <h1>Business <span class="hl--ochre">News Archive</span></h1>
+      <p>
+        A daily business-news briefing for founders, executives, and allocators. Every card carries the
+        verified reporting — and the 5-dimensional strategic angle an operator needs to understand.
+      </p>
+      <p class="hero__meta" id="hero-meta">
+        5 stories · November 8, 2026
+      </p>
+    </section>
 
-  <!-- ================= PIPELINE & ARCHITECTURE DIAGNOSTICS MODAL ================= -->
-  <div id="diagnostics-modal" class="fixed inset-0 bg-black/70 backdrop-blur-sm z-50 flex items-center justify-center p-4 opacity-0 pointer-events-none transition-opacity duration-200">
-    <div class="bg-white dark:bg-paper-surface rounded-2xl max-w-2xl w-full border border-slate-200 dark:border-paper-border shadow-2xl overflow-hidden transform scale-95 transition-transform duration-200">
-      
-      <div class="p-6 border-b border-slate-200 dark:border-paper-border flex items-center justify-between">
-        <div class="flex items-center space-x-3">
-          <div class="p-2 bg-slate-100 dark:bg-paper-card text-slate-700 dark:text-slate-300 rounded-xl">
-            <i data-lucide="network" class="w-5 h-5"></i>
-          </div>
-          <div>
-            <h3 class="font-bold text-slate-900 dark:text-white text-base">Pipeline &amp; Ecosystem Diagnostics</h3>
-            <p class="text-xs text-slate-500 dark:text-slate-400">Multi-platform intelligence synchronization</p>
-          </div>
-        </div>
-        <button id="modal-close-btn" class="p-2 text-slate-500 hover:text-slate-700 dark:hover:text-slate-300 rounded-lg">
-          <i data-lucide="x" class="w-5 h-5"></i>
+    <!-- Controls: Filter Chips & Search -->
+    <div class="controls" role="region" aria-label="Filter and search">
+      <div class="chips" id="chips-container" role="group" aria-label="Filter by category">
+        <button class="chip is-on" data-cat="all" aria-pressed="true">
+          All <span class="chip__n" id="chip-count-all">5</span>
+        </button>
+        <button class="chip" data-cat="Marketing_GTM" aria-pressed="false" style="--accent:var(--indigo);--tint:var(--wash-indigo)">
+          <span class="chip__dot"></span>
+          Marketing &amp; GTM <span class="chip__n" id="chip-count-marketing">2</span>
+        </button>
+        <button class="chip" data-cat="Finance_MA" aria-pressed="false" style="--accent:var(--moss);--tint:var(--wash-moss)">
+          <span class="chip__dot"></span>
+          Finance &amp; M&amp;A <span class="chip__n" id="chip-count-finance">1</span>
+        </button>
+        <button class="chip" data-cat="Tech" aria-pressed="false" style="--accent:var(--mizu);--tint:var(--wash-mizu)">
+          <span class="chip__dot"></span>
+          Technology <span class="chip__n" id="chip-count-tech">1</span>
+        </button>
+        <button class="chip" data-cat="Business" aria-pressed="false" style="--accent:var(--ochre);--tint:var(--wash-ochre)">
+          <span class="chip__dot"></span>
+          Strategy <span class="chip__n" id="chip-count-business">1</span>
         </button>
       </div>
 
-      <div class="p-6 space-y-4 text-xs sm:text-sm">
-        <div class="space-y-2.5">
-          <div class="font-bold text-slate-900 dark:text-white uppercase tracking-wider text-xs font-mono">Connected Platforms</div>
-          
-          <div class="p-3.5 rounded-xl bg-slate-50 dark:bg-paper-card border border-slate-200 dark:border-paper-border flex items-center justify-between">
-            <div class="flex items-center space-x-3">
-              <i data-lucide="sheet" class="w-5 h-5 text-emerald-500"></i>
-              <div>
-                <div class="font-bold text-slate-900 dark:text-white">Google Sheets Database</div>
-                <div class="text-xs text-slate-400 font-mono">Tab: Feed_Ledger • Apps Script Webhook</div>
-              </div>
-            </div>
-            <span class="px-2.5 py-1 rounded-full text-xs font-bold bg-emerald-500/10 text-emerald-500 border border-emerald-500/30">Active</span>
-          </div>
-
-          <div class="p-3.5 rounded-xl bg-slate-50 dark:bg-paper-card border border-slate-200 dark:border-paper-border flex items-center justify-between">
-            <div class="flex items-center space-x-3">
-              <i data-lucide="book-open" class="w-5 h-5 text-indigo-400"></i>
-              <div>
-                <div class="font-bold text-slate-900 dark:text-white">Notion Database</div>
-                <div class="text-xs text-slate-400 font-mono">DB ID: 412c9631-ecc0-809c-968f-d9e6ebcaac04</div>
-              </div>
-            </div>
-            <span class="px-2.5 py-1 rounded-full text-xs font-bold bg-indigo-500/10 text-indigo-400 border border-indigo-500/30">Active</span>
-          </div>
-
-          <div class="p-3.5 rounded-xl bg-slate-50 dark:bg-paper-card border border-slate-200 dark:border-paper-border flex items-center justify-between">
-            <div class="flex items-center space-x-3">
-              <i data-lucide="file-text" class="w-5 h-5 text-slate-400"></i>
-              <div>
-                <div class="font-bold text-slate-900 dark:text-white">Local Markdown Archives</div>
-                <div class="text-xs text-slate-400 font-mono">workspace/briefings/briefing_YYYY-MM-DD.md</div>
-              </div>
-            </div>
-            <span class="px-2.5 py-1 rounded-full text-xs font-bold bg-slate-500/10 text-slate-400 border border-slate-500/30">Synced</span>
-          </div>
-        </div>
-
-        <div class="space-y-1.5 pt-2">
-          <div class="font-bold text-slate-900 dark:text-white uppercase tracking-wider text-xs font-mono">Daily Pipeline Automation</div>
-          <div class="p-3 rounded-xl bg-slate-900 text-slate-200 font-mono text-xs overflow-x-auto flex items-center justify-between">
-            <code>powershell.exe -ExecutionPolicy Bypass -File .\scripts\run_daily_intelligence.ps1</code>
-            <button id="copy-cmd-btn" class="ml-2 px-2 py-1 bg-slate-800 hover:bg-slate-700 text-slate-300 rounded text-xs transition-colors">
-              Copy
-            </button>
-          </div>
-        </div>
+      <div class="search-wrapper">
+        <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true">
+          <circle cx="11" cy="11" r="7"></circle>
+          <path d="M20 20l-3.5-3.5"></path>
+        </svg>
+        <input type="search" id="search-input" class="search-input" placeholder="Search headlines, mechanisms, takeaways…" autocomplete="off">
       </div>
-
     </div>
+
+    <!-- Cards Grid Container -->
+    <main class="cards-grid" id="cards-container">
+      <!-- Article cards injected by app.js -->
+    </main>
+
+    <!-- Clean Minimal Footer -->
+    <footer class="footer">
+      <div>Daily Business Intelligence Archive · 5-Dimensional Strategic Synthesis</div>
+      <div>Updated Daily</div>
+    </footer>
+
   </div>
 
-  <!-- Toast -->
-  <div id="toast" class="fixed bottom-6 right-6 z-50 bg-slate-900 dark:bg-white text-white dark:text-slate-900 px-4 py-3 rounded-xl shadow-2xl border border-slate-700 dark:border-slate-300 text-xs font-medium flex items-center space-x-2 transform translate-y-12 opacity-0 pointer-events-none transition-all duration-300">
-    <i data-lucide="check-circle" class="w-4 h-4 text-emerald-400 dark:text-emerald-600"></i>
-    <span id="toast-message">Copied to clipboard!</span>
-  </div>
-
-  <!-- Footer -->
-  <footer class="border-t border-slate-200 dark:border-paper-border bg-white dark:bg-paper-surface py-12 mt-16 transition-colors">
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col md:flex-row items-center justify-between gap-6">
-      <div class="space-y-1 text-center md:text-left">
-        <div class="flex items-center justify-center md:justify-start space-x-2">
-          <span class="font-serif font-bold tracking-tight text-slate-900 dark:text-white text-base">ANTIGRAVITY BUSINESS INTELLIGENCE</span>
-          <span class="text-xs px-2 py-0.5 rounded-full font-mono font-semibold bg-slate-100 dark:bg-paper-card text-slate-500">v2.0</span>
-        </div>
-        <p class="text-xs text-slate-500 dark:text-slate-400">
-          Daily verified intelligence across Marketing, Finance, Technology, and Corporate Strategy.
-        </p>
-      </div>
-
-      <div class="flex items-center space-x-6 text-xs text-slate-500 dark:text-slate-400">
-        <a href="https://github.com/pereiraaaron26-lab" target="_blank" rel="noopener noreferrer" class="hover:text-slate-900 dark:hover:text-white transition-colors flex items-center space-x-1">
-          <i data-lucide="github" class="w-4 h-4"></i>
-          <span>GitHub</span>
-        </a>
-        <a href="https://script.google.com/macros/s/AKfycbxRhaLJx5LmnMADbuv3yMycpu4IOVw-ydsFAqRqkzOctHs60O0MwKI0kl6-O4HdA3d0QA/exec" target="_blank" rel="noopener noreferrer" class="hover:text-emerald-500 transition-colors flex items-center space-x-1">
-          <i data-lucide="sheet" class="w-4 h-4 text-emerald-500"></i>
-          <span>Sheets</span>
-        </a>
-        <a href="https://app.notion.com/p/Daily-Business-Intelligence-412c9631ecc080d7966ecaeb72d3285f" target="_blank" rel="noopener noreferrer" class="hover:text-indigo-400 transition-colors flex items-center space-x-1">
-          <i data-lucide="book-open" class="w-4 h-4 text-indigo-400"></i>
-          <span>Notion</span>
-        </a>
-      </div>
-    </div>
-  </footer>
-
+  <!-- Application Logic -->
   <script src="app.js"></script>
 </body>
 </html>
