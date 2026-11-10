@@ -20,7 +20,7 @@ Run `scripts/fetch_business_news.ps1` or use grounded web search across Tier-1 s
 - **Overall Business**: Reuters, Bloomberg, FT, Economic Times, Nikkei Asia, S&P Global.
 
 ### Step 3: Analyze Each Story (Comprehensive Summary + 5-Dimensional Lens)
-For every selected story (2 to 3 per vertical), provide:
+Target **10 curated articles per daily briefing** (allocated as 3 Marketing & GTM, 3 Finance & M&A, 2 Technology, and 2 Corporate Strategy). For every selected story, provide:
 
 #### Phase A: Comprehensive News Context & Narrative (~400 words)
 A thorough, rigorous journalistic narrative detailing:

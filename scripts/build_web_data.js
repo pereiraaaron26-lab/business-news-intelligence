@@ -251,7 +251,19 @@ dirs.forEach(d => {
   if (!fs.existsSync(d)) fs.mkdirSync(d, { recursive: true });
 });
 
-const briefingFile = path.join(baseDir, 'workspace', 'briefings', 'briefing_2026-11-08.md');
+const briefingsDir = path.join(baseDir, 'workspace', 'briefings');
+let briefingFile = path.join(briefingsDir, 'briefing_2026-11-08.md');
+
+if (fs.existsSync(briefingsDir)) {
+  const mdFiles = fs.readdirSync(briefingsDir)
+    .filter(f => f.startsWith('briefing_') && f.endsWith('.md'))
+    .sort()
+    .reverse();
+  if (mdFiles.length > 0) {
+    briefingFile = path.join(briefingsDir, mdFiles[0]);
+  }
+}
+
 const parsed = parseMarkdownBriefing(briefingFile);
 
 // Save latest.json to all targets
