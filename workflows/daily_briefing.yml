@@ -1,0 +1,63 @@
+name: 10 AM Daily Business Intelligence Automation
+
+on:
+  schedule:
+    # 04:30 UTC = 10:00 AM IST (Indian Standard Time, UTC+5:30)
+    - cron: '30 4 * * *'
+  workflow_dispatch: # Allows manual trigger from GitHub Actions tab
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "daily-briefing"
+  cancel-in-progress: false
+
+jobs:
+  run-daily-briefing:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Execute Cloud Daily Intelligence Pipeline
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+          SHEETS_WEBHOOK_URL: ${{ secrets.SHEETS_WEBHOOK_URL }}
+        run: |
+          node scripts/cloud_daily_intelligence.js
+          node scripts/sync_from_notion.js
+
+      - name: Commit and Push Updated Briefings & Web Assets
+        run: |
+          git config --global user.name "Antigravity Cloud Analyst"
+          git config --global user.email "analyst@antigravity.internal"
+          git add workspace/briefings/ data/ docs/
+          if git diff --staged --quiet; then
+            echo "No new briefings to commit."
+          else
+            git commit -m "chore(briefing): daily business intelligence update [skip ci]"
+            git push origin main
+          fi
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload Pages Artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

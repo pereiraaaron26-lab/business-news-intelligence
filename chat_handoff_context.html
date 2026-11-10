@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Antigravity Business News Analyst - Project Handoff</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.6;
+      color: #1a1a1a;
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 0 20px;
+    }
+    h1 { color: #1a365d; border-bottom: 2px solid #e2e8f0; padding-bottom: 12px; }
+    h2 { color: #2b6cb0; margin-top: 32px; border-bottom: 1px solid #edf2f7; padding-bottom: 8px; }
+    h3 { color: #2d3748; }
+    code { background: #edf2f7; padding: 2px 6px; border-radius: 4px; font-size: 0.9em; font-family: monospace; }
+    pre { background: #2d3748; color: #f7fafc; padding: 16px; border-radius: 8px; overflow-x: auto; }
+    table { width: 100%; border-collapse: collapse; margin: 20px 0; }
+    th, td { border: 1px solid #cbd5e0; padding: 10px 12px; text-align: left; }
+    th { background: #ebf8ff; color: #2c5282; }
+    .badge { display: inline-block; background: #e2e8f0; padding: 2px 8px; border-radius: 12px; font-size: 0.8em; font-weight: bold; }
+    blockquote { border-left: 4px solid #3182ce; padding-left: 16px; color: #4a5568; margin-left: 0; background: #f7fafc; padding: 12px 16px; border-radius: 0 8px 8px 0; }
+  </style>
+</head>
+<body>
+  <h1>Antigravity Business News Analyst: Project &amp; Chat Handoff Document</h1>
+  <p><strong>Generated:</strong> November 8, 2026<br>
+  <strong>Active Project Workspace:</strong> <code>A:\News Agent Skill - AGY</code><br>
+  <strong>Target Next Phase:</strong> Webpage &amp; GitHub Portfolio Deployment</p>
+
+  <h2>1. Executive Summary</h2>
+  <p>The <strong>Business News Analyst</strong> is an automated intelligence pipeline built on Antigravity. It ingests verified daily business news from Tier-1 Indian and global sources, synthesizes the developments through an in-depth 2-phase framework (a ~400-word comprehensive context narrative followed by the 5-Dimensional Strategic Analytical Lens), and publishes the structured output into a unified multi-platform stack: Google Sheets (database), Notion (executive reading cards), and future GitHub Pages website.</p>
+
+  <h2>2. Live Credentials &amp; Endpoints</h2>
+  <table>
+    <tr><th>Platform</th><th>Target ID / URL</th><th>Role &amp; Notes</th></tr>
+    <tr>
+      <td><strong>Google Sheets</strong></td>
+      <td><code>Feed_Ledger</code> tab<br>Webhook: <code>https://script.google.com/macros/s/AKfycbxRhaLJx5LmnMADbuv3yMycpu4IOVw-ydsFAqRqkzOctHs60O0MwKI0kl6-O4HdA3d0QA/exec</code></td>
+      <td>Central database ledger for raw metrics, summaries, and 5-D analytical columns (A through K).</td>
+    </tr>
+    <tr>
+      <td><strong>Notion Database</strong></td>
+      <td>Database ID: <code>412c9631-ecc0-809c-968f-d9e6ebcaac04</code><br>Page: <code>Daily Business Intelligence</code><br>Token: <code>[REDACTED_NOTION_TOKEN]</code></td>
+      <td>Executive reading dashboard. Cards hold: ~400-word Narrative Summary + 5-D Breakdown blocks.</td>
+    </tr>
+  </table>
+
+  <h2>3. The 2-Phase Analytical Lens</h2>
+  <ul>
+    <li><strong>Phase A: Comprehensive News Context (~400 words)</strong> — Rigorous journalistic background, corporate players, timelines, and market dynamics.</li>
+    <li><strong>Phase B: The 5-Dimensional Strategic Lens</strong>
+      <ol>
+        <li><strong>The Delta (What Changed)</strong>: Metrics, baselines, and deal multiples.</li>
+        <li><strong>The Mechanism (How It Changed)</strong>: Pricing, regulatory, or supply-chain driver.</li>
+        <li><strong>Strategic Impact</strong>: Margins, distributor ROIC, and channel conflict.</li>
+        <li><strong>Core Lesson</strong>: Transferable principle or mental model.</li>
+        <li><strong>Lateral Transfer</strong>: 2 cross-industry applications.</li>
+      </ol>
+    </li>
+  </ul>
+
+  <h2>4. Core Scripts Inventory</h2>
+  <table>
+    <tr><th>Script</th><th>Command &amp; Purpose</th></tr>
+    <tr><td><code>scripts/run_daily_intelligence.ps1</code></td><td><strong>1-Click Master Runner</strong>: Pulls news &rarr; pushes to Google Sheets &rarr; pushes to Notion.</td></tr>
+    <tr><td><code>scripts/fetch_business_news.ps1</code></td><td>Fetches 180+ daily feeds from Mint, ET, HBR, TechCrunch, Moneycontrol.</td></tr>
+    <tr><td><code>scripts/sync_briefing_to_destinations.ps1</code></td><td>Pushes ~400-word context narrative and 5-D analysis blocks to Sheets &amp; Notion.</td></tr>
+    <tr><td><code>scripts/sync_to_sheets.ps1</code></td><td>Pushes raw ledger batches to Google Sheets.</td></tr>
+    <tr><td><code>scripts/sync_to_notion.ps1</code></td><td>Pushes formatted cards to Notion.</td></tr>
+  </table>
+
+  <h2>5. Instructions for the Next Chat (Building the Webpage)</h2>
+  <blockquote>
+    "We have an active Business News Intelligence pipeline in <code>A:\News Agent Skill - AGY</code>. It stores daily business briefings with ~400-word context narratives and 5-dimensional strategic breakdowns in Google Sheets and Markdown files. Let's build a modern web application hosted on GitHub."
+  </blockquote>
+</body>
+</html>

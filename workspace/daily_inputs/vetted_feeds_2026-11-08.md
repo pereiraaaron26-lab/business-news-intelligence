@@ -1,0 +1,582 @@
+﻿# Verified Daily Business, GTM, M&A & Moneycontrol Pro Feed Input (2026-11-08)
+Generated UTC: 2026-11-08 08:20
+
+## Marketing_GTM
+
+- **[MONEYCONTROL] [MC-PRO] [GTM / CHANNEL SIGNAL] [Moneycontrol] Stocks to Watch Today: Tata Steel, Data Patterns, Voltas, Aster DM, GE Shipping, Gland Pharma, Finolex Cables, Cohance Lifesciences, Annu Projects, Lenskart in focus on Muhurat Trading** (2026-11-08 05:31 UTC)
+  - Link: https://www.moneycontrol.com/news/business/markets/stocks-to-watch-today-tata-steel-data-patterns-voltas-aster-dm-ge-shipping-gland-pharma-finolex-cables-cohance-lifesciences-annu-projects-lenskart-in-focus-on-muhurat-trading-14074756.html
+  - Snippet: Keywords: Stocks to watch, stocks in focus today, stocks in focus, share market today, top stocks, shares in focus today, shares today, today stocks to watch, trending stocks, trending stocks today, markets today, buzzing stocks, stocks today, stock market today,Tata Steel,Data Patterns India,Voltas,Aster DM Quality Care,Great Eastern Shipping Company,Gland Pharma,Blue Dart Express,Siemens,Finolex Cables,Cohance Lifesciences,Aarti Drugs,Lenskart Solutions,Alivus Life Sciences,Billionbrains Garage Ventures,V2 Retail,Windlas Biotech,JSW Cement,
+- **[GTM / CHANNEL SIGNAL] [CAPITAL / TREASURY TREND] [ET Retail (India Channel & D2C)] Honasa Consumer Q2 revenue jumps 36 pc to Rs 731 crore, EBITDA nearly doubles to Rs 93 crore** (2026-11-06 08:30 UTC)
+  - Link: https://retail.economictimes.indiatimes.com/news/health-and-beauty/honasa-consumer-q2-revenue-jumps-36-pc-to-rs-731-crore-ebitda-nearly-doubles-to-rs-93-crore/135600176
+  - Snippet: Achieving remarkable success, Honasa Consumer Ltd reported a record revenue of Rs 731 crore for Q2 FY27, marking its highest growth since its IPO. The company also saw its EBITDA nearly double to Rs 93 crore, signalling operational efficiency. Mamaearth continues to thrive, while The Derma Co. expands its distribution. Honasa is dedicated to innovation and new product launches to further cement it...
+- **[GTM / CHANNEL SIGNAL] [ET Retail (India Channel & D2C)] CBI books Kishore Biyani, Future Retail in alleged Rs 904-cr bank fraud** (2026-11-07 02:54 UTC)
+  - Link: https://retail.economictimes.indiatimes.com/news/food-entertainment/personal-care-pet-supplies-liquor/cbi-books-kishore-biyani-future-retail-in-alleged-rs-904-cr-bank-fraud/135624978
+  - Snippet: The Central Bureau of Investigation (CBI) has initiated an FIR against Future Retail Ltd and its founder, Kishore Biyani, in connection with an alleged bank fraud amounting to Rs 904.32 crore linked to the State Bank of India. Multiple locations in Mumbai have been searched as part of this investigation, examining claims of fund embezzlement and misuse among affiliated entities.
+- **[GTM / CHANNEL SIGNAL] [Modern Retail (GTM & Commerce)] How delivery apps came to be ‘discovery platforms’** (2026-11-07 05:00 UTC)
+  - Link: https://www.modernretail.co/podcasts/how-delivery-apps-came-to-be-discovery-platforms/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss
+  - Snippet: DoorDash’s Instacart deal shows delivery apps investing further into retail discovery, ad tech and AI-driven shopping.
+- **[Marketing Week] How might new salary transparency legislation impact marketing jobs?** (2026-11-06 14:29 UTC)
+  - Link: https://www.marketingweek.com/salary-transparency-legislation-marketing/
+  - Snippet: The Prime Minister is urging companies to start advertising salary expectations ahead of legislation, with just two-fifths currently doing so. Source
+- **[ET Retail (India Channel & D2C)] Jewellers report brisk Dhanteras sales as gold price drop lures buyers; volumes seen flat** (2026-11-07 02:42 UTC)
+  - Link: https://retail.economictimes.indiatimes.com/news/apparel-fashion/jewellery/jewellers-report-brisk-dhanteras-sales-as-gold-price-drop-lures-buyers-volumes-seen-flat/135624683
+  - Snippet: Volumes, however, are likely to remain roughly flat from a year earlier because prices are still well above last year s levels, said Rajesh Rokde, chairman of the All India Gem and Jewellery Domestic Council (GJC).
+- **[Adweek] Ticker: Carson Daly Named Saturday Today Co-Anchor** (2026-11-06 18:45 UTC)
+  - Link: https://www.adweek.com/tvnewser/ticker-carson-daly-named-saturday-today-co-anchor/
+  - Snippet: CNBC announced executive moves affecting dayside and news gathering operations.
+- **[Adweek] Meerkat&#8217;s Dustin Black Makes an Art of Staying Curious** (2026-11-06 13:16 UTC)
+  - Link: https://www.adweek.com/agencies/meerkats-dustin-black-makes-an-art-of-staying-curious/
+  - Snippet: The CCO's lovingly crafted larger-than-life fish and birds carry a message about creativity.
+- **[Harvard Business Review] The Promise—and Peril—of an AI-Assisted Board** (2026-11-06 13:15 UTC)
+  - Link: http://feeds.harvardbusiness.org/2026/11/the-promise-and-peril-of-an-ai-assisted-board
+  - Snippet: HBS professor Suraj Srinivasan on ways in which AI can help bridge the relationship between the board and executive team.
+- **[Harvard Business Review] The Risks of Decentralizing Your Organization** (2026-11-06 13:05 UTC)
+  - Link: http://feeds.harvardbusiness.org/2026/11/the-risks-of-decentralizing-your-organization
+  - Snippet: Three mistakes companies make when giving business units more accountability.
+- **[Marketing Week] Morrisons on its ‘disruptive’ Christmas reinvention of Goldilocks and the Three Bears** (2026-11-08 06:00 UTC)
+  - Link: https://www.marketingweek.com/morrisons-christmas-goldilocks-three-bears/
+  - Snippet: The grocer is utilising the creative idea across every one of its touchpoints, following a 40% jump in social media spend over the past year. Source
+- **[Adweek] Pastor Talarico, 3 Billion Views, and $56 Million on Broadcast: How James Talarico&#8217;s Team Flipped Texas** (2026-11-06 16:37 UTC)
+  - Link: https://www.adweek.com/media/pastor-talarico-3-billion-views-and-56-million-on-broadcast-how-james-talaricos-team-flipped-texas/
+  - Snippet: The U.S. senator-elect's creative director and paid media strategist explain how a Pflugerville state rep turned viral clips into a historic win.
+- **[Adweek] Amazon is Letting Customers Text Its Shopping Assistant** (2026-11-06 09:00 UTC)
+  - Link: https://www.adweek.com/commerce/amazon-is-letting-customers-text-its-shopping-assistant/
+  - Snippet: Amazon is giving customers the ability to text its AI shopping assistant, and serving up ads along the way.
+- **[ET Retail (India Channel & D2C)] Ambani&#039;s Reliance may not get Campa moment in biscuit market, Britannia CEO says** (2026-11-06 11:00 UTC)
+  - Link: https://retail.economictimes.indiatimes.com/news/food-entertainment/personal-care-pet-supplies-liquor/ambanis-reliance-may-not-get-campa-moment-in-biscuit-market-britannia-ceo-says/135603231
+  - Snippet: Reliance Industries Independence biscuits are entering India s competitive biscuit market with packs starting at Rs 5, but Britannia CEO Rakshit Hargave says disrupting the category will be harder than its Campa cola play. With biscuits already priced at Rs 5 and Rs 10, aggressive discounts could hurt margins. Britannia is also raising prices and shrinking pack sizes amid rising input costs.
+- **[Adweek] 9 Marketing Moves to Know This Week: McDonald&#8217;s, Netflix, and More** (2026-11-06 10:01 UTC)
+  - Link: https://www.adweek.com/brand-marketing/9-marketing-moves-to-know-this-week-mcdonalds-netflix-and-more/
+  - Snippet: A roundup of this week's biggest marketing leadership moves
+- **[Adweek] #AskNewser: CNN, NBC News and NewsNation Executives Reflect on Their Election Night Coverage** (2026-11-06 16:46 UTC)
+  - Link: https://www.adweek.com/tvnewser/asknewser-cnn-nbc-news-and-newsnation-executives-reflect-on-their-election-night-coverage/
+  - Snippet: Executives were surprised by how early they were able to call some of the races on election night.
+- **[Marketing Week] ‘Scouse soul is critical’: Liverpool FC launches biggest brand platform to date for Christmas** (2026-11-06 09:00 UTC)
+  - Link: https://www.marketingweek.com/liverpool-fc-biggest-brand-platform-christmas/
+  - Snippet: Since joining the club in June, senior vice-president of marketing and digital Hannah Pym is building on LFC’s global brand ambitions. Source
+- **[Adweek] Brandweek 2026: The ‘Why’ Test Behind Mars’ Boldest Ideas ft. Rankin Carroll** (2026-11-06 11:47 UTC)
+  - Link: https://www.adweek.com/brand-marketing/brandweek-2026-the-why-test-behind-mars-boldest-ideas-ft-rankin-carroll/
+  - Snippet: How Mars takes big risks without getting reckless.
+- **[Modern Retail (GTM & Commerce)] Foot Locker puts employees front and center in its holiday campaign** (2026-11-06 13:00 UTC)
+  - Link: https://www.modernretail.co/marketing/foot-locker-puts-employees-front-and-center-in-its-holiday-campaign/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss
+  - Snippet: Foot Locker's seasonal campaign, called "Joy to the Sole," is indicative of the company's new marketing direction as it looks to spur growth.
+- **[Adweek] Fox Corp. Completes $22 Billion Deal for Roku** (2026-11-06 13:42 UTC)
+  - Link: https://www.adweek.com/convergent-tv/fox-corp-completes-22-billion-deal-for-roku/
+  - Snippet: Roku will be folded into Fox Digital Platforms, which also houses Tubi, Fox One, and Red Seat Ventures.
+- **[ET Brand Equity] Fireworks lit up adland on Dhanteras Eve** (2026-11-07 01:45 UTC)
+  - Link: https://brandequity.economictimes.indiatimes.com/news/research/advertising/fireworks-lit-up-adland-on-dhanteras-eve/135619600
+  - Snippet: WPP and Publicis Groupe have engaged in a public dispute regarding agency selection practices and pitch methodologies. Publicis challenged WPP s decisions, particularly regarding the Coca-Cola North American media review. Cindy Rose from WPP questioned agencies securing business without traditional pitches while emphasizing the need for due diligence. In contrast, Publicis defended its approach, s...
+- **[Adweek] Entries Now Open for the 2027 ADWEEK Marketing Vanguard Awards** (2026-11-06 10:11 UTC)
+  - Link: https://www.adweek.com/brand-marketing/entries-now-open-for-the-2027-adweek-marketing-vanguard-awards/
+  - Snippet: Entries are now open for the 2027 ADWEEK Marketing Vanguard Awards, presented by Brand Finance. The best CMOs exceed not only their board’s expectations, but their customers’. Weaving brand building [ ]
+- **[ET Retail (India Channel & D2C)] FDA suspends 105 food business licences, Blinkit, Zepto among them; orders closure of 7 outlets** (2026-11-07 02:43 UTC)
+  - Link: https://retail.economictimes.indiatimes.com/news/food-entertainment/personal-care-pet-supplies-liquor/fda-suspends-105-food-business-licences-blinkit-zepto-among-them-orders-closure-of-7-outlets/135624691
+  - Snippet: Maharashtra FDA has suspended the licences of 105 food outlets, including those linked to Blinkit and Zepto, and ordered seven establishments to shut following inspections ahead of Diwali. The two-day drive uncovered hygiene and food safety violations, leading to the seizure of 39,485 kg of food articles worth Rs 1.35 crore.
+
+## Finance_MA
+
+- **[MONEYCONTROL] [CAPITAL / TREASURY TREND] [Moneycontrol] 'Don't be afraid': Maharashtra woman buys Rs 70 lakh house without home loan, shares 3-year savings strategy** (2026-11-08 04:47 UTC)
+  - Link: https://www.moneycontrol.com/news/trends/don-t-be-afraid-maharashtra-woman-buys-rs-70-lakh-house-without-home-loan-shares-3-year-savings-strategy-14074774.html
+  - Snippet: Keywords: Home Buying, Debt-Free Home, Rs 70 Lakh House, Savings Strategy, Financial Planning, Sales Incentives, Shahad, Maharashtra, Home Loan, Personal Finance, Money Management, Real Estate,
+- **[M&A / DEAL SIGNAL] [CAPITAL / TREASURY TREND] [Mint Markets & Capital] Upcoming IPO: Coca-Cola India bottler HCCH files DRHP for public issue, majority shareholder to sell up to 15% stake** (2026-11-07 18:11 UTC)
+  - Link: https://www.livemint.com/market/ipo/upcoming-ipo-coca-cola-india-bottler-hcch-files-drhp-for-public-issue-majority-shareholder-to-sell-up-to-15-stake-11794070690577.html
+  - Snippet: The proposed IPO nbsp;will be entirely an offer for sale, meaning the company will not receive any fresh capital from the issue
+- **[CAPITAL / TREASURY TREND] [Mint Companies & M&A Deals] More private equity, venture capital funds plan to create equity value beyond fees, carry: Fundamentum’s Ashish Kumar** (2026-11-08 04:30 UTC)
+  - Link: https://www.livemint.com/companies/private-equity-venture-capital-funds-india-fundamentum-11793940542898.html
+  - Snippet: Some Indian fund managers want to earn from owning valuable firms of their own, not just from fees and profit share, says Fundamentum’s Ashish Kumar. He expects four or five to try within three years, though most have no firm plans yet.
+- **[MONEYCONTROL] [Moneycontrol] 'Mini malls with chandeliers': Bengaluru techie stunned by Gurgaon's fancy wine shops, sparks debate** (2026-11-08 04:40 UTC)
+  - Link: https://www.moneycontrol.com/news/trends/mini-malls-with-chandeliers-bengaluru-techie-stunned-by-gurgaon-s-fancy-wine-shops-sparks-debate-14074758.html
+  - Snippet: Keywords: Gurgaon wine shops, Gurugram liquor stores, Bengaluru techie viral post, Gurgaon viral news, fancy wine shops in Gurgaon, luxury liquor stores, Gurgaon wine shops viral post, Gurgaon chandeliers wine shops, Gurgaon premium liquor stores, Laphroaig whisky, Gurgaon roads, Gurgaon civic infrastructure, Gurgaon drainage system, viral X post, social media reactions
+- **[MONEYCONTROL] [Moneycontrol] Muhurat Trading 2026 Live: Sensex, Nifty set for special Diwali session after seven-day rally; Nifty above 25,000** (2026-11-08 05:30 UTC)
+  - Link: https://www.moneycontrol.com/news/business/markets/muhurat-trading-2026-stock-market-live-updates-sensex-nifty-nse-bse-samvat-2083-liveblog-14074830.html
+  - Snippet: Keywords: Muhurat Trading 2026 LIVE, Muhurat Trading 2026 live updates, Diwali Muhurat Trading 2026 LIVE,Muhurat Trading today, Muhurat Trading Samvat 2083, Sensex live, Nifty live, Muhurat Trading, stock recommendations, Diwali stock market
+- **[M&A / DEAL SIGNAL] [Mint Markets & Capital] Muhurat Trading 2026 prediction today for Nifty 50, Sensex, Bank Nifty on Diwali 2026 special session** (2026-11-08 06:29 UTC)
+  - Link: https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-prediction-today-for-nifty-50-sensex-bank-nifty-on-diwali-2026-special-session-11794119093334.html
+  - Snippet: Indian markets are set for Muhurat trading on November 8, with analysts broadly positive after Nifty 50’s rally above 25,000. Some profit-taking or consolidation is possible. nbsp;
+- **[MONEYCONTROL] [Moneycontrol] Muhurat Trading Plan: Can Nifty 50 extend its rally for 8th straight session, Bank Nifty hold above 59,000?** (2026-11-08 07:43 UTC)
+  - Link: https://www.moneycontrol.com/news/business/markets/muhurat-trading-plan-can-nifty-50-extend-its-rally-for-8th-straight-session-bank-nifty-hold-above-59-000-14074874.html
+  - Snippet: Keywords: Nifty 50, NSE Nifty,Bank Nifty,Nifty Trading Plan,Bank Nifty Trading Plan,Nifty Trading Strategy,Bank Nifty Trading Strategy,Nifty Strategy,Bank Nifty Strategy
+- **[GTM / CHANNEL SIGNAL] [Mint Industry & Capex] FMCG giants find their sweet spot in India** (2026-11-06 08:33 UTC)
+  - Link: https://www.livemint.com/industry/global-fmcg-companies-india-fmcg-earnings-india-11793851128647.html
+  - Snippet: Strong demand for packaged foods and personal care items helped top brands turn in a standout September quarter show despite 22-month-high retail inflation and the RBI’s first rate hike since 2023, prompting many to step up their capital commitments in India.
+- **[MONEYCONTROL] [Moneycontrol] 'Extortion at the highest level': Trump orders DOJ to investigate Democrats after midterm sweep** (2026-11-08 03:35 UTC)
+  - Link: https://www.moneycontrol.com/news/business/extortion-at-the-highest-level-trump-orders-doj-to-investigate-democrats-after-midterm-sweep-14074706.html
+  - Snippet: Keywords: Donald Trump latest news, Trump DOJ investigation Democrats, Trump extortion allegations, US midterm elections 2026, Trump Truth Social post, Donald Trump Democrats conflict, Elissa Slotkin Trump, US Justice Department investigation, Trump impeachment threats, Democrats win Congress
+- **[MONEYCONTROL] [Moneycontrol] Gold, silver prices next week: Why analysts warn of fresh pressure despite a strong rally** (2026-11-08 06:15 UTC)
+  - Link: https://www.moneycontrol.com/news/business/commodities/gold-silver-prices-next-week-why-analysts-warn-of-fresh-pressure-despite-a-strong-rally-14074831.html
+  - Snippet: Keywords: gold price prediction next week, gold rate next week, silver price prediction, gold price outlook November 2026, gold silver prices today, MCX gold price, MCX silver price, gold price forecast India, US inflation gold prices, Diwali 2026 gold rates
+- **[MONEYCONTROL] [Moneycontrol] Indian tourists eat on floor at Vietnam airport, Harsh Goenka's reaction sparks debate on civic sense** (2026-11-08 05:58 UTC)
+  - Link: https://www.moneycontrol.com/news/trends/indian-tourists-eat-on-floor-at-vietnam-airport-harsh-goenka-s-reaction-sparks-debate-on-civic-sense-14074820.html
+  - Snippet: Keywords: Harsh Goenka viral post, Indian tourists in Vietnam, Vietnam airport viral video, Indian tourists eating on airport floor, Harsh Goenka on Indian tourists, Indian tourists civic sense, Indian tourists viral video, Vietnam airport incident, Indian tourists littering, civic sense debate, Indian tourists abroad, responsible tourism, Indian tourists travel etiquette, viral X post, Harsh Goenka latest news
+- **[MONEYCONTROL] [Moneycontrol] Indian Oil plans to buy ships as crude freight costs hit $10 a barrel amid Iran-US tensions** (2026-11-08 05:46 UTC)
+  - Link: https://www.moneycontrol.com/news/business/indian-oil-plans-to-buy-ships-as-crude-freight-costs-hit-10-a-barrel-amid-iran-us-tensions-14074807.html
+  - Snippet: Keywords: Indian Oil Corporation, Indian Oil ship purchase, IOC crude oil tankers, Indian Oil LPG carriers, Strait of Hormuz crisis, Iran US tensions, crude oil freight rates, Indian Oil shipping strategy, IOC Q2 FY27 earnings, Indian Oil Make in India ships
+- **[M&A / DEAL SIGNAL] [Mint Markets & Capital] Nifty, Sensex log worst Samvat returns in 15 years. What lies ahead in 2083?** (2026-11-08 04:42 UTC)
+  - Link: https://www.livemint.com/market/stock-market-news/nifty-sensex-worst-samvat-returns-15-years-equity-investors-samvat-2083-11793888291373.html
+  - Snippet: The next sustainable market rally will have to be driven by earnings growth rather than merely liquidity or valuation expansion, one expert said.
+- **[MONEYCONTROL] [Moneycontrol] Trade Spotlight: How should you trade Motilal Oswal, Adani Green Energy, ITC, SBI, Va Tech Wabag, Groww, and others on Muhurat Trading?** (2026-11-08 07:10 UTC)
+  - Link: https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-motilal-oswal-adani-green-energy-itc-sbi-va-tech-wabag-groww-and-others-on-muhurat-trading-14074847.html
+  - Snippet: Keywords: Top Trading Ideas by experts,Trade Spotlight, Buy Ideas,Top Buy Ideas,Top Picks,Stock Picks,Top Stock Picks,Share Tips,Share Market Tips,Stock Tips,Stock Market Tips,Motilal Oswal Financial Services,GAIL India,Adani Green Energy,Force Motors,ITC,State Bank of India,Va Tech Wabag,NTPC,Billionbrains Garage Ventures, Groww
+- **[MONEYCONTROL] [Moneycontrol] Trade Setup for Muhurat Trading: Top 15 things to know before the opening bell** (2026-11-08 03:49 UTC)
+  - Link: https://www.moneycontrol.com/news/business/markets/trade-setup-for-muhurat-trading-top-15-things-to-know-before-the-opening-bell-14074677.html
+  - Snippet: Keywords: Nifty Trade Setup for Muhurat session,Bank NIfty Trade Setup for Muhurat session,NSE Nifty,India VIX,Bank Nifty
+- **[MONEYCONTROL] [Moneycontrol] 'Wearing a mask? Everything fine?' Author Ravinder Singh questions Delhi's toxic air normalisation** (2026-11-08 04:22 UTC)
+  - Link: https://www.moneycontrol.com/news/trends/wearing-a-mask-everything-fine-author-ravinder-singh-questions-delhi-s-toxic-air-normalisation-14074752.html
+  - Snippet: Keywords: Ravinder Singh viral post, Delhi air pollution, Delhi AQI today, Delhi pollution news, Delhi air quality, Delhi AQI November 8, wearing masks in Delhi, Delhi toxic air, Delhi pollution crisis, Delhi residents mask, Very Poor AQI Delhi, Delhi air pollution viral post, Mumbai air pollution, Kolkata air pollution
+- **[MONEYCONTROL] [Moneycontrol] Why Maharashtra minister Girish Mahajan is asking some farmers to return their Rs 5,000 aid** (2026-11-08 03:31 UTC)
+  - Link: https://www.moneycontrol.com/news/business/why-maharashtra-minister-girish-mahajan-is-asking-some-farmers-to-return-their-rs-5-000-aid-14074704.html
+  - Snippet: Keywords: Maharashtra drought relief 2026, Girish Mahajan farmers appeal, Maharashtra Rs 5000 farmer aid, Girish Mahajan latest news, Maharashtra farmer relief money return, Devendra Fadnavis farmer scheme, Maharashtra Diwali farmer assistance, CM Relief Fund Maharashtra, Maharashtra drought assistance scheme, Maharashtra farmers latest news
+- **[M&A / DEAL SIGNAL] [Mint Companies & M&A Deals] Why Beijing blocked SoftBank’s $5.4 billion ABB Robotics deal? Setback for Masayoshi Son’s physical AI ambitions** (2026-11-07 17:15 UTC)
+  - Link: https://www.livemint.com/companies/why-beijing-blocked-softbank-s-5-4-billion-abb-robotics-deal-setback-for-masayoshi-son-s-physical-ai-ambitions-11794061545591.html
+  - Snippet: The acquisition was expected to strengthen SoftBank’s revenue and profitability as the Japanese investment firm continues to expand its AI portfolio and awaits a potential financial boost from OpenAI’s anticipated public listing
+- **[MONEYCONTROL] [Moneycontrol] 'They are like family': Surat businessman surprises 20 employees with Rs 1 lakh Diwali bonus** (2026-11-08 05:48 UTC)
+  - Link: https://www.moneycontrol.com/news/trends/they-are-like-family-surat-businessman-surprises-20-employees-with-rs-1-lakh-diwali-bonus-14074795.html
+  - Snippet: Keywords: Surat businessman, Diwali bonus, ₹1 lakh cash gift, employees, festive generosity, Ramswaroop Munde, viral video, employee appreciation, Diwali celebrations, Gujarat
+- **[MONEYCONTROL] [Moneycontrol] Petrol with 31% ethanol? Suresh Gopi tells Karnataka, Kerala to test fuel, warns against politics** (2026-11-08 04:09 UTC)
+  - Link: https://www.moneycontrol.com/news/business/petrol-with-31-ethanol-suresh-gopi-tells-karnataka-kerala-to-test-fuel-warns-against-politics-14074748.html
+  - Snippet: Keywords: E20 petrol controversy, ethanol in petrol India, Suresh Gopi ethanol petrol, Karnataka petrol ethanol test, 31 percent ethanol petrol, Kerala petrol testing, E20 fuel India, ethanol blending 20 percent, Karnataka government ethanol findings, petrol ethanol content India
+- **[M&A / DEAL SIGNAL] [Mint Companies & M&A Deals] OpenAI raises $11 billion at $1.25 trillion valuation amid concerns over AI spending and regulation** (2026-11-07 03:41 UTC)
+  - Link: https://www.livemint.com/companies/news/openai-raises-11-billion-at-1-25-trillion-valuation-amid-concerns-over-ai-spending-and-regulation-11794022360992.html
+  - Snippet: OpenAI has secured $11 billion in the first tranche of a funding round valuing it at $1.25 trillion, with the total potentially reaching $20 billion. The fundraising comes amid a tech sell-off and growing investor concerns over AI spending and regulation.
+- **[MONEYCONTROL] [Moneycontrol] Rs 5,000 Diwali aid, electricity bill waiver: Fadnavis outlines relief for drought-hit farmers** (2026-11-08 03:06 UTC)
+  - Link: https://www.moneycontrol.com/news/business/rs-5-000-diwali-aid-electricity-bill-waiver-fadnavis-outlines-relief-for-drought-hit-farmers-14074678.html
+  - Snippet: Keywords: Maharashtra drought 2026, Devendra Fadnavis farmers relief, Maharashtra Rs 5000 farmer aid, Maharashtra farmer Diwali payment, Fadnavis latest announcement, Maharashtra farmer electricity bill waiver, Maharashtra drought relief scheme, farmer financial assistance Maharashtra, Nagpur farmers drought, Maharashtra government farmer schemes
+- **[CAPITAL / TREASURY TREND] [CNBC Finance & Deals] The AI ‘credit card’ is getting costlier as CoreWeave bond yield tops 16%** (2026-11-06 17:09 UTC)
+  - Link: https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html
+  - Snippet: Coreweave's steep yields reflect stress in the AI debt markets as investors worry about a data center slowdown. What comes next.
+- **[CAPITAL / TREASURY TREND] [Mint Companies & M&A Deals] Tata Power's $650 million debt battle: Why Singapore court ordered seizure, sale of shares in local firm** (2026-11-07 07:23 UTC)
+  - Link: https://www.livemint.com/companies/tata-powers-650-million-debt-battle-why-singapore-court-ordered-seizure-sale-of-shares-in-local-firm-11794035897676.html
+  - Snippet: The latest enforcement order was issued after the SICC, on August 26, 2026, dismissed all of Tata Power's applications to set aside the arbitration awards issued in Kleros's favour.
+- **[MONEYCONTROL] [Moneycontrol] Diwali Muhurat Trading 2026: How to trade Nifty, Bank Nifty today? Key levels, support, resistance, strategies** (2026-11-08 07:26 UTC)
+  - Link: https://www.moneycontrol.com/news/business/markets/diwali-muhurat-trading-2026-how-to-trade-nifty-bank-nifty-today-key-levels-support-resistance-strategies-14074864.html
+  - Snippet: Keywords: Muhurat Trading 2026, Muhurat Trading today, Nifty today, Bank Nifty today, Nifty trading strategy, Bank Nifty trading strategy, Nifty support and resistance, Bank Nifty support and resistance, Nifty options data, Bank Nifty options data, Nifty 25000, Bank Nifty 60000, Diwali Muhurat Trading, Samvat 2083, stock market today, Nifty outlook, Bank Nifty outlook, NSE BSE Muhurat Trading timings
+- **[MONEYCONTROL] [Moneycontrol] Dhanteras sales boom or price illusion? Why Indians spent more on gold and appliances without buying much more** (2026-11-08 05:26 UTC)
+  - Link: https://www.moneycontrol.com/news/business/dhanteras-sales-boom-or-price-illusion-why-indians-spent-more-on-gold-and-appliances-without-buying-much-more-14074800.html
+  - Snippet: Keywords: Dhanteras 2026 sales, Dhanteras gold sales 2026, India festive spending 2026, gold sales Rs 60000 crore, Dhanteras gold demand, India gold sales volume, World Gold Council India 2026, festive appliance sales India, Haier festive sales 2026, Godrej appliance sales, premium consumer durables India, gold prices Dhanteras 2026
+- **[MONEYCONTROL] [Moneycontrol] Diwali Stock Picks 2026: Adani Power, MCX, Azad Engineering, HUL, Paytm among 41 stocks for Muhurat Trading with up to 109% upside** (2026-11-08 06:44 UTC)
+  - Link: https://www.moneycontrol.com/news/business/markets/diwali-stock-picks-2026-adani-power-mcx-azad-engineering-hul-paytm-among-41-stocks-for-muhurat-trading-with-up-to-109-upside-14074818.html
+  - Snippet: Keywords: diwali stock picks 2026, diwali stock picks 2026 today, diwali stock market trading, samvat 2083 stock picks, samvat 2083 stock recommendations, samvat 2083 stock picks pdf, stocks for muhurat trading
+- **[MONEYCONTROL] [Moneycontrol] Bengaluru airport: Heated argument breaks out between SpiceJet staff and passengers after last-minute cancellations** (2026-11-08 05:04 UTC)
+  - Link: https://www.moneycontrol.com/news/trends/bengaluru-airport-heated-argument-breaks-out-between-spicejet-staff-and-passengers-after-last-minute-cancellations-14074794.html
+  - Snippet: Keywords: SpiceJet flight cancellation, SpiceJet Bengaluru airport, Bengaluru airport news, SpiceJet passengers clash with staff, SpiceJet flight cancellations today, Bengaluru airport viral video, SpiceJet passengers stranded, 35 passengers stranded, SpiceJet staff argument, Bengaluru airport passenger protest, SpiceJet latest news, flight cancellation controversy, airline staff abuse, SpiceJet viral video, Kempegowda International Airport
+- **[MONEYCONTROL] [Moneycontrol] ‘Enemy will no longer dare attack’: Iran naval commander issues fresh warning as US launches new task force** (2026-11-08 04:39 UTC)
+  - Link: https://www.moneycontrol.com/news/business/enemy-will-no-longer-dare-attack-iran-naval-commander-issues-fresh-warning-as-us-launches-new-task-force-14074776.html
+  - Snippet: Keywords: Iran US tensions, Iran warning to US, Iran US conflict latest news, Mohsen Razzaqi, Iran naval commander warning, CENTCOM Task Force Iron Gate, Iran military retaliation, Iran missile and drone forces, US Iran military tensions, Iran US war latest updates
+- **[Mint Companies & M&A Deals] Sony raises PlayStation sales forecast ahead of GTA 6 launch, reveals Marvel’s Wolverine sales figure** (2026-11-07 15:57 UTC)
+  - Link: https://www.livemint.com/companies/news/sony-raises-playstation-sales-forecast-ahead-of-gta-6-launch-reveals-marvel-s-wolverine-sales-figure-11794063969955.html
+  - Snippet: Sony has raised its PlayStation business sales and profit forecasts by 6%, citing stronger sales of third-party games. The company has also revealed that Marvel's Wolverine sold 2.4 million copies in its first 50 days.
+- **[Mint Companies & M&A Deals] Singapore Airlines' $1.6 bn cabin revamp: Bigger beds, privacy door for business class, Sanjeev Kapoor’s thalis and more** (2026-11-08 06:46 UTC)
+  - Link: https://www.livemint.com/companies/news/singapore-airlines-1-6-bn-cabin-revamp-bigger-beds-privacy-door-for-business-class-sanjeev-kapoor-s-thalis-and-more-11794119291629.html
+  - Snippet: Singapore Airlines will invest more than S$2 billion to overhaul cabins across aircraft, with new products arriving from the second half of 2027. First class will feature double beds, business class privacy doors, and more than 100 updated dishes, including creations by Indian chef Sanjeev Kapoor.
+- **[CNBC Finance & Deals] Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline** (2026-11-07 15:23 UTC)
+  - Link: https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html
+  - Snippet: Berkshire Hathaway said Saturday it accelerated its share repurchases during the third quarter, as operating and overall profits took a hit.
+- **[Mint Companies & M&A Deals] Tata Steel beats Q2 profit estimates on strong demand, cost savings** (2026-11-07 11:32 UTC)
+  - Link: https://www.livemint.com/companies/company-results/tata-steel-q2-profit-iron-ore-demand-noel-tata-steel-production-11794048612978.html
+  - Snippet: Tata Steel management expects the second half of FY27 to be stronger than the first, supported by higher volumes, improved realisations and seasonally stronger demand.
+- **[Mint Companies & M&A Deals] NIT Raipur, AKSI Aerospace join hands, set-up Centre Of Excellence: What will the new partnership focus on?** (2026-11-07 18:33 UTC)
+  - Link: https://www.livemint.com/companies/news/nit-raipur-aksi-aerospace-join-hands-set-up-centre-of-excellence-what-will-the-new-partnership-focus-on-11794072162179.html
+  - Snippet: NIT Raipur and AKSI Aerospace Group plan to establish a Centre of Excellence for aerospace and autonomous technologies, alongside a manufacturing facility. The partnership will connect research with industrial production, provide hands-on training, and support India’s indigenous drone capabilities.
+- **[CNBC Finance & Deals] Stocks making the biggest moves premarket: Moderna, Airbnb, Cloudflare, Affirm & more** (2026-11-06 13:05 UTC)
+  - Link: https://www.cnbc.com/2026/11/06/stocks-making-the-biggest-moves-premarket-moderna-airbnb-cloudflare-affirm-more.html
+  - Snippet: These are some of the stocks posting the largest moves premarket.
+- **[Mint Industry & Capex] Bengaluru-Goa Vande Bharat: New train may disrupt schedules of 13 trains, affect 15,000 passengers, says report** (2026-11-07 11:50 UTC)
+  - Link: https://www.livemint.com/industry/infrastructure/bengalurugoa-vande-bharat-new-train-may-disrupt-schedules-of-13-trains-affect-15-000-passengers-says-report-11794048937524.html
+  - Snippet: The upcoming Bengaluru-Goa Vande Bharat Express could disrupt the schedules of 13 existing trains and affect nearly 15,000 passengers along the Western Ghats route. The new service will receive priority on the 55-km Sakleshpur-Subrahmanya Road stretch.
+- **[Mint Companies & M&A Deals] ONGC Videsh’s eyes on two Venezuela oil projects; know what finance head Anupam Agarwal said on $500 mn dividend** (2026-11-07 08:21 UTC)
+  - Link: https://www.livemint.com/companies/ongc-videsh-s-eyes-on-two-venezuela-oil-projects-know-what-finance-head-anupam-agarwal-said-on-500-mn-dividend-11794039002471.html
+  - Snippet: ONGC Videsh, the overseas investment arm of ONGC, has over $500 million in pending dividend from its stakes in the two projects: San Cristobal and Carabobo 1 field.
+- **[Mint Markets & Capital] Buying gold or silver this Diwali? Which precious metal offers bigger upside in Samvat 2083? Check targets, strategy** (2026-11-08 08:12 UTC)
+  - Link: https://www.livemint.com/market/commodities/buying-gold-or-silver-this-diwali-which-precious-metal-offers-bigger-upside-in-samvat-2083-check-targets-strategy-11794124125357.html
+  - Snippet: Religare Broking’s Diwali 2026 report recommends accumulating gold at ₹1,30,000–1,35,000 per 10 grams and silver at ₹1,50,000–1,63,000 per kg. It sets targets and support levels for both metals.
+- **[Mint Companies & M&A Deals] NMC Healthcare founder BR Shetty held liable for $5.4 billion fraud in Abu Dhabi - All you need to know about the case** (2026-11-08 03:31 UTC)
+  - Link: https://www.livemint.com/companies/news/nmc-healthcare-founder-br-shetty-held-liable-for-5-4-billion-fraud-in-abu-dhabi-all-you-need-to-know-about-the-case-11794107578149.html
+  - Snippet: A UAE court held NMC Health co-founder BR Shetty and former CEO Prasanth Manghat liable for knowingly participating in fraudulent trading, including concealing billions in borrowings. The court set $5.397 billion as starting point for assessing their contributions to NMC’s assets.
+- **[Mint Economy & Policy] No fresh curbs on broken rice exports as India banks on steady paddy procurement** (2026-11-07 00:31 UTC)
+  - Link: https://www.livemint.com/economy/no-fresh-curbs-on-broken-rice-exports-as-india-banks-on-paddy-procurement-11793964472557.html
+  - Snippet: India is the world's largest rice exporter, shipping out 8.08 lakh tonnes of broken rice in calendar year 2025. India banned broken rice exports on 9 September 2022 amid concerns over domestic availability and rising prices, and lifted the restriction on 7 March 2025.
+- **[Mint Industry & Capex] Reliance Jio  ₹10,000 3-year recharge plan launched ahead of Diwali: JioHotstar, Canva Pro Lite &amp; more; check benefits** (2026-11-07 15:48 UTC)
+  - Link: https://www.livemint.com/industry/telecom/reliance-jio-rs-10-000-three-year-recharge-plan-launched-ahead-of-diwali-jiohotstar-canva-pro-lite-more-check-be-11794062122701.html
+  - Snippet: Reliance Jio has launched a ₹10,000 prepaid plan with 36-month validity, available nationwide from November 7. It includes 2.5GB of daily high-speed data, unlimited calls and 5G, plus digital subscriptions and cloud storage.
+- **[Mint Companies & M&A Deals] Reliance’s Independence Power Up biscuits get a motorsport makeover with Ajith Kumar Racing** (2026-11-07 17:13 UTC)
+  - Link: https://www.livemint.com/companies/reliances-independence-power-up-biscuits-get-a-motorsport-makeover-with-ajith-kumar-racing-11794069428432.html
+  - Snippet: Reliance Consumer Products Ltd (RCPL) to roll out an expanded range of Independence biscuit which will be availble in nine variants. Trial packs will be rolled out across Tamil Nadu at ₹5.
+- **[Mint Companies & M&A Deals] Berkshire surprised with record buybacks, but pace slowed as the stock rose** (2026-11-08 01:55 UTC)
+  - Link: https://www.livemint.com/companies/news/berkshire-surprised-with-record-buybacks-but-pace-slowed-as-the-stock-rose-11794102777738.html
+  - Snippet: Also noteworthy from the company’s third-quarter results were big revenue and earnings gains for the company’s railroad unit, BNSF, and a drop in profits for its huge insurance group.
+- **[Mint Markets & Capital] PSU dividend record dates this week: CONCOR, ONGC, NBCC, RITES, HUDCO, NLC- Check amount, record date, payment timeline** (2026-11-08 07:51 UTC)
+  - Link: https://www.livemint.com/market/stock-market-news/upcoming-psu-dividend-record-dates-concor-ongc-nbcc-rites-hudco-nlc-india-check-amount-record-date-payment-tim-11794120757556.html
+  - Snippet: Investors tracking PSU dividends should note record dates of November 11 for CONCOR, HUDCO, NBCC (India) and RITES, and November 12 for ONGC and NLC India. Declared payouts range from ₹0.25 to ₹8 per share.
+- **[Mint Markets & Capital] Wheat Hits Lowest Since June Ahead of Black Sea Peace Talks** (2026-11-08 07:14 UTC)
+  - Link: https://www.livemint.com/market/wheat-hits-lowest-since-june-ahead-of-black-sea-peace-talks-11794122080754.html
+  - Snippet: Wheat futures touched the lowest since the end of June as traders anticipate next week’s planned US-led talks with delegations from Ukraine and Russia.
+- **[Mint Companies & M&A Deals] Who is Angan Guha? Ex-Wipro and Chicago Booth biz leader now CEO for Americas 2 Strategic Market Unit - Achievements** (2026-11-07 09:13 UTC)
+  - Link: https://www.livemint.com/companies/people/who-is-angan-guha-ex-wipro-biz-leader-now-ceo-of-the-americas-2-strategic-market-unit-education-achievements-11794042316526.html
+  - Snippet: Wipro has appointed former executive Angan Guha to lead its Americas 2 Strategic Market Unit, nearly four years after he left the IT major to join Birlasoft. His return comes amid slowing revenue growth in the business.
+- **[Mint Industry & Capex] Varanasi’s urban ropeway to cut travel time to Kashi Vishwanath Temple from 45 to 15 minutes: Check fares, route** (2026-11-06 10:42 UTC)
+  - Link: https://www.livemint.com/industry/infrastructure/varanasis-urban-ropeway-to-cut-travel-time-to-kashi-vishwanath-temple-from-45-to-15-minutes-check-fares-route-11793960422307.html
+  - Snippet: The 3.85-km ropeway corridor will connect Varanasi Cantt railway station with Godowlia, cutting the travel time between the two locations from around 45 minutes to approximately 15-16 minutes.
+- **[Mint Industry & Capex] 90 women, many in their 20s, operate Pune’s Hinjewadi-Shivajinagar Metro corridor, India’s first all-women pilot team** (2026-11-07 14:19 UTC)
+  - Link: https://www.livemint.com/industry/infrastructure/90-women-many-in-their-20s-operate-pune-s-hinjewadi-shivajinagar-metro-corridor-india-s-first-all-women-pilot-team-11794057476054.html
+  - Snippet: Pune's 23.3-km Hinjewadi-Shivajinagar Metro corridor has made history with 90 women train pilots operating its services. Many in their 20s, the women underwent months of training before taking charge of the country's first all-women-operated Metro line.
+- **[Mint Companies & M&A Deals] Why Deepinder Goyal's Temple is drawing social media scrutiny** (2026-11-07 07:00 UTC)
+  - Link: https://www.livemint.com/companies/why-deepinder-goyals-temple-is-drawing-social-media-scrutiny-11793967006723.html
+  - Snippet: Eternal founder Deepinder Goyal’s ₹85,000 Temple wearable has drawn scrutiny from doctors over claims about brain blood flow and its unvalidated Entropy metric. Goyal says it is a fitness and wellness product, not a medical device. nbsp;
+- **[CNBC Finance & Deals] Why the prognosis for healthcare stocks is uncertain ahead of Congress’ new makeup** (2026-11-07 16:02 UTC)
+  - Link: https://www.cnbc.com/2026/11/07/healthcare-stocks-may-face-trouble-due-to-midterm-results.html
+  - Snippet: Healthcare stocks may struggle to find momentum as the Democrats get ready to take over Congress.
+- **[Mint Companies & M&A Deals] Who is Sunil D'Souza? Meet Voltas' new Chairman, his career, education and why Noel Tata is stepping down** (2026-11-07 05:57 UTC)
+  - Link: https://www.livemint.com/companies/people/voltas-gets-a-new-chairman-who-is-sunil-dsouza-his-career-and-education-and-why-is-noel-tata-stepping-down-11794030619663.html
+  - Snippet: Voltas has appointed Tata Consumer Products CEO Sunil D'Souza as Chairman from November 12, replacing Noel Tata, who retires at 70 under Tata Group governance guidelines. D'Souza brings over 30 years of experience across HUL, PepsiCo and Whirlpool.
+- **[Mint Industry & Capex] 1,100 passengers vs 15,000 commuters: Bengaluru-Goa Vande Bharat may disrupt schedules of 13 trains** (2026-11-08 07:34 UTC)
+  - Link: https://www.livemint.com/industry/infrastructure/1100-passengers-vs-15-000-commuters-bengaluru-goa-vande-bharat-may-disrupt-schedules-of-13-trains-11794121002272.html
+  - Snippet: The proposed Bengaluru-Goa Vande Bharat Express could affect the schedules of 13 existing trains, inconveniencing nearly 15,000 regular passengers. The new service is expected to offer faster, more comfortable travel, but its priority through the ghat section may lead to delays and revised timings.
+- **[Mint Markets & Capital] US markets next week 9-14 Nov: After crash and bounce back, investors eye inflation data, tech earnings, and more** (2026-11-07 18:30 UTC)
+  - Link: https://www.livemint.com/market/us-markets-next-week-9-14-nov-after-crash-and-bounce-back-investors-eye-inflation-data-tech-earnings-and-more-11794072283036.html
+  - Snippet: Concerns that political developments following the US midterm elections could slow the expansion of data centres have added to uncertainty surrounding technology and AI companies
+- **[Mint Markets & Capital] Top 12 Diwali Muhurat Trading stock picks 2026: Up to 41% gain! Buy Jio Platforms, Adani Ports, 10 more by KC Securities** (2026-11-08 07:15 UTC)
+  - Link: https://www.livemint.com/market/stock-market-news/top-12-diwali-muhurat-trading-stock-picks-2026-up-to-41-gain-buy-jio-platforms-adani-ports-10-more-by-kc-securities-11794119726963.html
+  - Snippet: Diwali Muhurat trading 2026: Mahesh M Ojha of KC Securities believes the key benchmark indices Sensex and Nifty may end higher for the ninth straight ceremonial session
+- **[Mint Companies & M&A Deals] Air purifier sales surge amid worsening AQI: Blinkit, Zepto see demand spike; Amazon sales double in a week | Details** (2026-11-07 06:42 UTC)
+  - Link: https://www.livemint.com/companies/news/air-purifier-sales-surge-amid-worsening-aqi-blinkit-zepto-see-demand-spike-amazon-sales-double-in-a-week-details-11794033218216.html
+  - Snippet: Air-purifier sales are rising across e-commerce and quick-commerce platforms as pollution worsens and winter sets in. While demand remains strongest in Delhi-NCR, retailers are also reporting growing interest from other major cities and Tier 2 markets.
+- **[Mint Economy & Policy] The midterms give Fed more room to raise rates, mut maybe less reason to do so** (2026-11-07 01:54 UTC)
+  - Link: https://www.livemint.com/economy/the-midterms-give-fed-more-room-to-raise-rates-mut-maybe-less-reason-to-do-so-11794016324680.html
+  - Snippet: The election results point to a slowdown in spending on datacenters, which could help to curb inflation.
+- **[CNBC Finance & Deals] Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says** (2026-11-06 19:05 UTC)
+  - Link: https://www.cnbc.com/2026/11/06/fed-daly-interest-rates-inflation.html
+  - Snippet: San Francisco Fed President Mary Daly called Friday's jobs report "good news for American workers," but noted the pressure inflation is exerting on household finances
+- **[Mint Companies & M&A Deals] Adani Energy Solutions Step-Eleven says parent has funds to support power licence for proposed Noida data centre project** (2026-11-08 06:25 UTC)
+  - Link: https://www.livemint.com/companies/news/adani-energy-solutions-step-eleven-parent-has-funds-support-power-licence-proposed-noida-data-centre-project-investment-11794112060477.html
+  - Snippet: Adani Energy Solutions has reportedly responded to the Uttar Pradesh Electricity Regulatory Commission (UPERC) queries saying that its parent has ₹15,155.80 crore in adjusted net worth to support a proposed ₹211 crore Noida data centre power project. nbsp;
+- **[Mint Companies & M&A Deals] US intelligence believes Nvidia CEO Jensen Huang had relationship with 'Chinese spy': What we know** (2026-11-07 04:57 UTC)
+  - Link: https://www.livemint.com/companies/people/us-intelligence-believes-nvidia-ceo-jensen-huang-had-relationship-with-chinese-spy-what-we-know-11794025659314.html
+  - Snippet: US intelligence believes Nvidia CEO Jensen Huang had a relationship with a Chinese businesswoman suspected of spying for Beijing. The allegations have triggered fresh scrutiny of Nvidia's China links and security risks.
+- **[Mint Industry & Capex] AI-driven attacks put telecom security on govt radar** (2026-11-06 10:50 UTC)
+  - Link: https://www.livemint.com/industry/telecom/telecom-infra-cyber-security-dot-airtel-jio-vodafone-idea-bsnl-11793956076862.html
+  - Snippet: DoT has held multiple rounds of talks with Airtel, Jio, Vodafone Idea and BSNL to strengthen network firewalls as CERT-In flags increasingly sophisticated AI-enabled cyberattacks.
+- **[Mint Industry & Capex] Unpredictable revenue streams leave Indian film producers vulnerable to funding disputes** (2026-11-08 03:30 UTC)
+  - Link: https://www.livemint.com/industry/media/unpredictable-revenue-streams-indian-film-producers-vulnerable-funding-disputes-11793863398937.html
+  - Snippet: Given the risks in financing films against uncertain future revenue streams, the need is for contracts to clearly define repayment obligations and who bears the shortfall.
+- **[Mint Industry & Capex] Kanpur Metro: New steel arch bridge to open up more public transport options; check nearby property prices** (2026-11-08 03:11 UTC)
+  - Link: https://www.livemint.com/industry/infrastructure/kanpur-metro-new-steel-arch-bridge-to-open-up-more-public-transport-options-check-nearby-property-prices-11794107047378.html
+  - Snippet: Kanpur Metro is building a 67.5-metre steel arch bridge between Barra 7 and Barra 8 for Corridor 2. Its pillar-free design will keep the highway clear. The 8.6-km corridor will connect southern Kanpur neighbourhoods.
+- **[Mint Companies & M&A Deals] Kirloskar-backed NBFC Arka gets  ₹525 cr initial commitment from TPG’s Rise Funds** (2026-11-07 05:54 UTC)
+  - Link: https://www.livemint.com/companies/news/nbfc-india-arka-fincap-tpg-rise-funds-kirloskar-11794028463025.html
+  - Snippet: The investment could increase by another ₹275 crore, subject to Arka meeting specified business milestones and obtaining regulatory approvals.
+- **[Mint Markets & Capital] Diwali Muhurat trading 2026: Top 3 Samvat 2083 stock picks under  ₹100 — Suzlon, NHPC, South Bank by Sumeet Bagadia** (2026-11-08 04:06 UTC)
+  - Link: https://www.livemint.com/market/stock-market-news/diwali-muhurat-trading-2026-top-3-samvat-2083-stock-picks-under-rs-100-suzlon-nhpc-south-bank-by-sumeet-bagadia-11794109482297.html
+  - Snippet: Diwali Muhurat trading 2026: Sumeet Bagadia believes the key benchmark indices Sensex and Nifty may end higher for the ninth straight ceremonial session
+- **[Mint Economy & Policy] Iran war: IOC to buy crude, LPG carriers as Strait of Hormuz disruptions drive freight costs** (2026-11-08 07:00 UTC)
+  - Link: https://www.livemint.com/economy/iran-war-ioc-to-buy-crude-lpg-carriers-as-strait-of-hormuz-disruptions-drive-freight-costs-11794120543240.html
+  - Snippet: Indian Oil Corporation plans to buy crude and LPG carriers and explore shipbuilding in India as Strait of Hormuz disruptions drive up freight costs. The move complements efforts to diversify crude supplies, increase inventories and strengthen resilience across its energy supply chain.
+- **[Mint Companies & M&A Deals] Microsoft's $1 billion Amsterdam data centre project faces protests over AI infrastructure costs- details inside** (2026-11-07 10:49 UTC)
+  - Link: https://www.livemint.com/companies/news/microsofts-1-billion-amsterdam-data-centre-project-faces-protests-over-ai-infrastructure-costs-details-inside-11794048139305.html
+  - Snippet: More than 100 activists occupied Microsoft AI data centre construction site in Amsterdam on Nov 6 as part of a two-day campaign spanning 16 countries. Protesters have raised concerns over electricity and water consumption.
+- **[Mint Markets & Capital] Diwali Muhurat Trading 2026: PC Jeweller, Suzlon, Vedanta Power | 3 Samvat 2083 stock picks under  ₹50 by Mahesh Ojha** (2026-11-08 07:49 UTC)
+  - Link: https://www.livemint.com/market/stock-market-news/diwali-muhurat-trading-2026-pc-jeweller-suzlon-vedanta-power-3-samvat-2083-stock-picks-under-rs-50-by-mahesh-ojha-11794123128165.html
+  - Snippet: Diwali Muhurat Trading 2026: Mahesh M Ojha of KC Securities believes the Nifty 50 index has closed above 25,000 and is facing a hurdle at 25,200.
+- **[Mint Markets & Capital] LIVE: Muhurat Trading 2026 time is almost here; check top stock picks for special Diwali session ahead of Samvat 2083** (2026-11-08 04:29 UTC)
+  - Link: https://www.livemint.com/market/stock-market-news/diwali-muhurat-trading-2026-live-check-stock-picks-and-time-for-special-session-today-pre-open-normal-market-rules-11794111427408.html
+  - Snippet: Diwali Muhurat Trading 2026 LIVE: Since 2006, Sensex has ended lower on only four occasions, whereas the Nifty 50 index has ended lower on just five ceremonial special Diwali sessions
+- **[Mint Markets & Capital] MCX Diwali Muhurat Trading schedule 2026, session wise time today: Special, Main, Client Code Modification Window timing** (2026-11-08 05:42 UTC)
+  - Link: https://www.livemint.com/market/stock-market-news/mcx-diwali-muhurat-trading-schedule-2026-session-wise-time-today-special-main-client-code-modification-window-timing-11794113917078.html
+  - Snippet: MCX will hold its Diwali Muhurat Trading session on Sunday, November 8, to mark Samvat 2083. Trading runs from 2:20 pm to 3:30 pm, following a 2:05 pm special session.
+- **[Mint Markets & Capital] Diwali Muhurat Trading Stock Picks 2026 under  ₹200: Start Samvat 2083 with Ashok Leyland, Swiggy, PNB | By Anand Rathi** (2026-11-08 06:01 UTC)
+  - Link: https://www.livemint.com/market/stock-market-news/diwali-muhurat-trading-stock-picks-2026-under-rs-200-start-samvat-2083-with-ashok-leyland-swiggy-pnb-by-anand-rathi-11794114454674.html
+  - Snippet: Diwali Muhurat trading 2026: Ganesh Dongre of Anand Rathi believes the key benchmark indices Sensex and Nifty may end higher for the ninth straight ceremonial session
+- **[Mint Companies & M&A Deals] From 250,000-unit ambitions to a production wind-down: What went wrong with Elon Musk's Cybertruck?** (2026-11-07 02:09 UTC)
+  - Link: https://www.livemint.com/companies/news/from-250-000-unit-ambitions-to-a-production-wind-down-what-went-wrong-with-elon-musks-cybertruck-11794016680043.html
+  - Snippet: Tesla will wind down Cybertruck production at its Texas factory by mid-2027 to make room for its Cybercab robotaxi. The pickup struggled to meet sales expectations despite Musk's ambitious projection.
+- **[Mint Companies & M&A Deals] From campus to culinary success: How a 21-year-old Gurugram college student's cafe made  ₹15 lakh in 50 days** (2026-11-08 06:07 UTC)
+  - Link: https://www.livemint.com/companies/people/from-campus-to-culinary-success-how-a-21-year-old-gurugram-college-students-cafe-made-rs-15-lakh-in-50-days-11794117605607.html
+  - Snippet: At 21, Ananya Agarwal is balancing her final year of college with running Lume amp; Lime, a European-style vegetarian bistro in Gurugram. The cafe serves Italian, Mexican, and Mediterranean dishes prepared authentically and reportedly earned over ₹15 lakh in its first 50 days.
+- **[Mint Industry & Capex] Elon Musk's Starlink, Jio, OneWeb race in India: Report reveals who submitted security papers first and what's pending** (2026-11-07 14:22 UTC)
+  - Link: https://www.livemint.com/industry/telecom/elon-musks-starlink-jio-oneweb-race-in-india-report-reveals-who-submitted-security-papers-first-and-whats-pending-11794056505524.html
+  - Snippet: Starlink was the last of India’s three satellite internet providers to submit security compliance documents, according to a report. All three have reportedly received the necessary licences, although they are yet to complete remaining regulatory and security-related requirements.
+- **[Mint Industry & Capex] Floods and falling fire rates hurt general insurers in September quarter** (2026-11-06 09:03 UTC)
+  - Link: https://www.livemint.com/industry/floods-and-falling-fire-rates-hurt-general-insurers-in-september-quarter-11793939120500.html
+  - Snippet: Severe monsoon damage and aggressive price discounting in fire insurance pushed key players into underwriting losses, offsetting gains from strong investment returns.
+- **[Mint Companies & M&A Deals] How SBI is steadily catching up with HDFC Bank in the margin race** (2026-11-08 03:30 UTC)
+  - Link: https://www.livemint.com/companies/news/how-sbi-is-steadily-catching-up-with-hdfc-bank-in-the-margin-race-11793966592420.html
+  - Snippet: The difference between the net interest margins (NIMs) of India’s largest lender and its largest private lender has shrunk consistently over the years, data analysed by Mint showed.
+- **[Mint Industry & Capex] India moves to set standards for hydrogen-powered trucks** (2026-11-07 00:30 UTC)
+  - Link: https://www.livemint.com/industry/manufacturing/india-moves-to-set-standards-for-hydrogen-powered-trucks-11793960908339.html
+  - Snippet: Decarbonising freight transport is important because diesel trucks account for around 5% of India's vehicle fleet but contribute 34% of the transport sector's carbon emissions
+- **[Mint Markets & Capital] Diwali Muhurat Trading stock picks 2026: ICICI Bank, PVR Inox, Eternal among Geojit's 10 shares | Samvat 2083** (2026-11-08 07:24 UTC)
+  - Link: https://www.livemint.com/market/stock-market-news/diwali-muhurat-trading-stock-picks-2026-icici-bank-pvr-inox-eternal-among-geojits-10-shares-samvat-2083-11794118050114.html
+  - Snippet: Geojit has selected 10 stocks for Samvat 2083, spanning banking, infrastructure, technology, autos, hospitality, healthcare and entertainment. The brokerage cites growth prospects, earnings visibility and valuations, while warning that global headwinds may keep markets volatile.
+- **[Mint Markets & Capital] How anti-AI trade after US midterm election results is reviving Indian, Chinese stocks** (2026-11-08 01:34 UTC)
+  - Link: https://www.livemint.com/market/how-anti-ai-trade-after-us-midterm-election-results-is-reviving-indian-chinese-stocks-11794101102138.html
+  - Snippet: The unraveling of the AI trade after the US midterm elections is forcing investors to rethink their Asia playbook, reviving demand for out-of-favor Chinese and Indian stocks as well as companies poised to benefit from easing inflation and trade tensions.
+- **[Mint Markets & Capital] Muhurat trading time 2026: NSE, BSE to hold special Diwali trading session today; check market open timings** (2026-11-08 02:58 UTC)
+  - Link: https://www.livemint.com/market/stock-market-news/muhurat-trading-time-2026-nse-bse-to-hold-special-diwali-trading-session-today-check-market-open-timings-11794105055102.html
+  - Snippet: Indian exchanges will hold Diwali Muhurat Trading sessions, with equities trading from 2:20 pm to 3:30 pm and MCX following the same window. nbsp;
+- **[Mint Companies & M&A Deals] Mukesh Ambani vs Gautam Adani: India's richest wealth race since Diwali 2025 - Who won, who lost? Wealth rise in $ bn** (2026-11-07 07:11 UTC)
+  - Link: https://www.livemint.com/companies/people/mukesh-ambani-vs-gautam-adani-indias-richest-wealth-race-since-diwali-2025-who-won-who-lost-wealth-rise-in-bn-11794034360761.html
+  - Snippet: Gautam Adani's wealth rose by $30.8 billion to $119 billion over the past year, while Mukesh Ambani lost $16.3 billion, taking his fortune to $88.3 billion. Here's how India's richest billionaires fared.
+- **[Mint Markets & Capital] Muhurat Trading Stock Picks 2026 for Diwali Special Session: HDFC AMC, SBI, TechM, 3 others | Upside seen up to 35%** (2026-11-08 06:53 UTC)
+  - Link: https://www.livemint.com/market/stock-market-news/muhurat-trading-stock-picks-2026-for-diwali-special-session-hdfc-amc-sbi-techm-3-others-upside-seen-up-to-35-11794118582830.html
+  - Snippet: Anand Rathi has named six stocks for Samvat 2083, projecting average upside of about 36%: HDFC AMC, Tech Mahindra, SBI, Cemindia Projects, Shilpa Medicare and Indo-MIM. Its 12-month targets imply gains of 16% to 35%, with four stocks expected to rise more than 20%.
+- **[Mint Markets & Capital] Muhurat Trading Stock Picks 2026 for Diwali Special Session: HDFC AMC, SBI, TechM, 3 others | Upside seen up to 54%** (2026-11-08 06:40 UTC)
+  - Link: https://www.livemint.com/market/stock-market-news/muhurat-trading-stock-picks-2026-for-diwali-special-session-hdfc-amc-sbi-techm-3-others-upside-seen-up-to-54-11794103527940.html
+  - Snippet: Religare Broking has named eight stocks for Samvat 2083, citing company-specific growth drivers and potential earnings outperformance. The brokerage says investors should weigh fundamentals, valuations and risk.
+- **[Mint Industry & Capex] New York court revives 88-yr-old woman’s  ₹ ₹141 cr inheritance battle; daughter made her sign documents while medicated** (2026-11-06 16:19 UTC)
+  - Link: https://www.livemint.com/industry/real-estate/new-york-court-revives-88-yr-old-woman-s-141-cr-inheritance-battle-daughter-made-her-sign-documents-while-medicated-11793980657060.html
+  - Snippet: The dispute centres on whether Ann's daughter, Christine Giurdanella-Renzi, and the family's former lawyer can be barred from invoking the missed deadline because of alleged concealment and conflicts of interest.
+- **[Mint Companies & M&A Deals] Costa Rica shell entity and unauthorised foreign transactions - what ED raids at CoinDCX and Delta Exchange found** (2026-11-08 02:19 UTC)
+  - Link: https://www.livemint.com/companies/news/costa-rica-shell-entity-and-unauthorised-foreign-transactions-what-ed-raids-at-coindcx-and-delta-exchange-found-11794103231236.html
+  - Snippet: ED said searches at premises linked to CoinDCX and Delta Exchange uncovered evidence of alleged FEMA violations involving crypto derivatives, tokenised foreign stocks and cross-border transactions. The agency is investigating payments in stablecoins and transfers to overseas affiliates.
+- **[Mint Industry & Capex] Namma Metro Blue Line: When will Bengaluru airport Metro become operational? 18-month traffic curbs on key road** (2026-11-07 10:50 UTC)
+  - Link: https://www.livemint.com/industry/infrastructure/namma-metro-blue-line-when-will-bengaluru-airport-metro-become-operational-18-month-traffic-curbs-on-key-road-11794044543792.html
+  - Snippet: Bengaluru’s 58-km Blue Line, connecting Central Silk Board to the airport, is now expected to be fully operational soon. Ballari Road traffic restrictions near Hebbal are expected to continue for 18 months as work begins on a 1.7-km elevated corridor. nbsp;
+- **[CNBC Finance & Deals] Nasdaq drops into correction territory — here’s what typically happens next** (2026-11-06 20:42 UTC)
+  - Link: https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html
+  - Snippet: Nasdaq’s slide into correction territory puts its history of recoveries in focus. Here's what history shows.
+- **[Mint Markets & Capital] Muhurat Trading Picks: HDFC Bank, BSE to Zen Tech - SAHI Research’s 5 stocks to buy on Diwali 2026 for Samvat 2083** (2026-11-08 03:14 UTC)
+  - Link: https://www.livemint.com/market/stock-market-news/muhurat-trading-picks-hdfc-bank-bse-to-zen-tech-sahi-research-s-5-stocks-to-buy-on-diwali-2026-for-samvat-2083-11794106502695.html
+  - Snippet: Indian benchmark indices rose for a seventh straight session on Friday, with the Sensex gaining 2.17% and the Nifty 2.01%. For Samvat 2083, SAHI Research recommended five stocks—Zen Technologies, DLF, Adani Green Energy, BSE and HDFC Bank—for a one-to-six-month horizon.
+- **[Mint Markets & Capital] Diwali 2026 Muhurat Trading today: Stocks to buy from Centrum - BSE, L&amp;T, TVS Motor and more; targets, stop-loss** (2026-11-08 03:59 UTC)
+  - Link: https://www.livemint.com/market/stock-market-news/diwali-2026-muhurat-trading-today-stocks-to-buy-from-centrum-bse-l-t-tvs-motor-and-more-targets-stoploss-11794068530858.html
+  - Snippet: As Samvat 2083 begins after a volatile year, Centrum Finverse recommends five technical picks: BSE, Larsen amp; Toubro, TVS Motor, Union Bank of India and Persistent Systems. Each comes with staggered entry levels, upside targets and a stop-loss; investors are advised to respect the stated risks.
+- **[Mint Markets & Capital] Muhurat Trading 2026 on Diwali: From trade settlement to delivery, key rules investors should know about special trade** (2026-11-08 07:39 UTC)
+  - Link: https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-on-diwali-from-trade-settlement-to-delivery-key-rules-investors-should-know-about-special-trade-11794122357593.html
+  - Snippet: Indian markets will hold a one-hour Muhurat Trading session to mark Samvat 2083, with equity and commodity trading scheduled from 2:20 pm to 3:30 pm. The tradition, associated with prosperity and Lakshmi Puja, began at the BSE in 1957.
+- **[Mint Markets & Capital] Mint Explainer: Will Sebi’s new rules on currency derivatives help the falling rupee?** (2026-11-08 01:30 UTC)
+  - Link: https://www.livemint.com/market/will-sebi-s-new-rules-on-currency-derivatives-help-the-falling-rupee-11793955300780.html
+  - Snippet: By slashing unhedged trading limits from $100 million to $5 million, the regulator aims to curb currency speculation and ease pressure on a depreciating rupee while protecting genuine hedgers.
+- **[Mint Industry & Capex] Missed train,  ₹15,000 compensation: Why a consumer commission in Punjab ordered a refund for a passenger | Details** (2026-11-08 06:52 UTC)
+  - Link: https://www.livemint.com/industry/infrastructure/missed-train-15-000-compensation-why-a-consumer-commission-in-punjab-ordered-a-refund-for-a-passenger-details-11794119976887.html
+  - Snippet: A passenger missed his train after it allegedly departed two hours ahead of schedule without proper intimation. The Ferozepur consumer commission has now directed Northern Railway, Konkan Railway and IRCTC to pay him ₹15,000, citing deficiency in service.
+- **[Mint Markets & Capital] Muhurat Trading 2026 today: Nifty 50's 7-day bull streak sets the stage for Samvat 2083 — what should investors expect?** (2026-11-08 04:28 UTC)
+  - Link: https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-today-nifty-50s-7-day-bull-streak-sets-the-stage-for-samvat-2083-what-should-investors-expect-11794109496766.html
+  - Snippet: Indian equities are set to enter Samvat 2083 on a bullish note after the Nifty 50 rose for seven straight sessions and gained 8.58% last week. Renewed foreign buying and domestic liquidity have supported the rally, despite volatility in global AI and semiconductor stocks.
+- **[Mint Markets & Capital] Muhurat trading last 10 years data: Nifty 50, Bank Nifty, Sensex; what history tells amid Special Diwali session today** (2026-11-08 05:07 UTC)
+  - Link: https://www.livemint.com/market/stock-market-news/muhurat-trading-last-10-years-data-nifty-50-bank-nifty-sensex-what-history-tells-amid-special-diwali-session-today-11794111665133.html
+  - Snippet: India’s Muhurat trading session, a Diwali tradition dating back to 1957, welcomes Samvat 2083 on November 8 from 2:20 pm to 3:30 pm. Over the past decade, the Nifty 50, Sensex and Nifty Bank each posted gains in eight sessions, though returns were generally modest.
+- **[Mint Industry & Capex] Dhanteras special | DDA offers 445 MIG flats from  ₹43 lakh: Check booking amount and eligibility** (2026-11-06 18:13 UTC)
+  - Link: https://www.livemint.com/industry/real-estate/dhanteras-special-dda-offers-445-mig-flats-from-43-lakh-check-booking-amount-and-eligibility-11793985878697.html
+  - Snippet: The prices of the MIG flats range from approximately ₹43 lakh to ₹1.1 crore. The final cost will depend on the size of the flat, its location, category and applicable charges.
+- **[Mint Markets & Capital] Muhurat Trading 2026 time today session wise: Block Deal, Pre-Open, Normal Market, Closing, Post-Closing; significance** (2026-11-08 05:27 UTC)
+  - Link: https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-time-today-session-wise-block-deal-pre-open-normal-market-closing-post-closing-significance-11794115364250.html
+  - Snippet: The Diwali Muhurat trading session on NSE and BSE features a block deal session from 1:50 pm, followed by pre-open activity and the main trading session from 2:20 pm to 3:15 pm
+
+## Tech
+
+- **[MONEYCONTROL] [Moneycontrol] AI stocks lose their shine, India gains: FPIs pump Rs 38,971 crore into equities in a week** (2026-11-08 03:15 UTC)
+  - Link: https://www.moneycontrol.com/news/business/ai-stocks-lose-their-shine-india-gains-fpis-pump-rs-38-971-crore-into-equities-in-a-week-14074703.html
+  - Snippet: Keywords: FPI inflows India November 2026, foreign portfolio investors India, FII buying Indian stock market, Rs 38971 crore FPI inflows, AI stocks selloff, Nifty 50 rally, foreign investors return to India, FII DII data November 2026, NSDL FPI data, Indian stock market latest news
+- **[M&A / DEAL SIGNAL] [TechCrunch] OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation** (2026-11-06 22:53 UTC)
+  - Link: https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/
+  - Snippet: OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.
+- **[M&A / DEAL SIGNAL] [TechCrunch] Fox completes its $22B acquisition of Roku** (2026-11-06 16:05 UTC)
+  - Link: https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/
+  - Snippet: A few months after DOJ investigators were probing the deal, Fox just completed its $22B acquisition of the streaming giant Roku.
+- **[CAPITAL / TREASURY TREND] [TechCrunch] Ramp data shows AI spending stalling just as Anthropic nears its IPO** (2026-11-06 15:54 UTC)
+  - Link: https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/
+  - Snippet: AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.
+- **[Ars Technica] Re-releases of Wing Commander, Ultima titles hit Steam and GOG** (2026-11-06 22:08 UTC)
+  - Link: https://arstechnica.com/gaming/2026/11/ea-producer-tells-the-inside-story-behind-new-wing-commander-remasters/
+  - Snippet: It's mostly bad news from EA lately, but preservation efforts are nice to see.
+- **[TechCrunch] Physicl raises $10M to make the digital world real enough for robots** (2026-11-06 13:00 UTC)
+  - Link: https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/
+  - Snippet: Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.
+- **[TechCrunch] Pentagon offers battery startup 6K $250M loan to build US factory** (2026-11-06 16:50 UTC)
+  - Link: https://techcrunch.com/2026/11/06/pentagon-offers-battery-startup-6k-250m-loan-to-build-u-s-factory/
+  - Snippet: The Pentagon has conditionally approved a $250 million loan to help 6K scale up its microwave-plasma battery material manufacturing process.
+- **[Ars Technica] Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns** (2026-11-06 14:13 UTC)
+  - Link: https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/
+  - Snippet: Lawmakers want answers about Jensen Huang’s ties to an alleged Chinese intelligence asset.
+- **[Ars Technica] No more Cybertrucks; Musk moves on from the angular metallic flop** (2026-11-06 13:50 UTC)
+  - Link: https://arstechnica.com/cars/2026/11/the-cybertruck-is-dead-makes-way-for-cybercab-says-elon-musk/
+  - Snippet: Tesla wanted to unseat the Ford F-150, instead it made the Edsel look successful.
+- **[TechCrunch] Parents want safer phones for kids. These companies are answering the call.** (2026-11-07 19:00 UTC)
+  - Link: https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/
+  - Snippet: As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobile devices to minimalist home phones.
+- **[Ars Technica] Nvidia hardware worth $11.4M vanished between Oakland and Texas** (2026-11-06 20:05 UTC)
+  - Link: https://arstechnica.com/gadgets/2026/11/nvidia-hardware-worth-11-4m-vanished-between-oakland-and-texas/
+  - Snippet: 6 pallets of hardware vanished en route to Texas, with no arrests 2 months later.
+- **[Ars Technica] Rocket Report: Artemis II literally tore through the atmosphere; New Glenn delay** (2026-11-06 13:33 UTC)
+  - Link: https://arstechnica.com/space/2026/11/rocket-report-new-glenn-wont-fly-this-year-china-launches-mini-falcon-heavy/
+  - Snippet: Interstellar Technologies announces more government funding for the Japanese Zero rocket.
+- **[Ars Technica] The folks behind John Wick are back with Karōshi trailer** (2026-11-06 18:30 UTC)
+  - Link: https://arstechnica.com/culture/2026/11/the-folks-behind-john-wick-are-back-with-karoshi-trailer/
+  - Snippet: Stuntman/director Chad Stahelski and 87Eleven bring us an action-packed dystopian, futuristic thriller.
+- **[TechCrunch] The Duo apps are coming, says Apple** (2026-11-06 21:38 UTC)
+  - Link: https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/
+  - Snippet: There are now 100,000 Duo-optimized apps, says Apple, and thousands more arrive daily.
+- **[TechCrunch] Underdog shows off a 32MB speech model in new demo** (2026-11-06 13:02 UTC)
+  - Link: https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/
+  - Snippet: Despite its small size, Underdog's new model can generate both speech and music.
+- **[Ars Technica] You know the launch market is tough when satellite companies start building rockets** (2026-11-06 18:20 UTC)
+  - Link: https://arstechnica.com/space/2026/11/ast-spacemobile-is-so-desperate-for-launch-theyre-building-their-own-rocket/
+  - Snippet: "The Blacklift rocket is the springboard to significantly expand our total addressable market."
+- **[Ars Technica] Wisconsin reports measles death of a baby, first death in over 35 years** (2026-11-06 17:06 UTC)
+  - Link: https://arstechnica.com/health/2026/11/wisconsin-reports-measles-death-of-a-baby-first-death-in-over-35-years/
+  - Snippet: Next week, experts will determine if the US has lost its measles elimination status.
+- **[Ars Technica] Ships loiter near subsea cables amid Iran's warnings to Trump** (2026-11-06 22:41 UTC)
+  - Link: https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/
+  - Snippet: Iran threatened to attack subsea cables if US escalates military strikes again.
+- **[TechCrunch] Sequoia shutting down its Scouts program marks the end of an era** (2026-11-07 05:01 UTC)
+  - Link: https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/
+  - Snippet: Sequoia pioneered the scouts model and many VC firms followed suit, but a consensus now seems to be forming that the model has reached limits in its current form.
+- **[TechCrunch] Tesla will stop making the Cybertruck in 2027** (2026-11-06 11:50 UTC)
+  - Link: https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/
+  - Snippet: The decision to wind down the EV comes after just a few short years of underwhelming sales. Elon Musk said the company will use the factory space to make more Cybercabs.
+- **[MIT Technology Review] The Download: a humanoid cleans house and Samsung builds for the AI boom** (2026-11-06 13:10 UTC)
+  - Link: https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/
+  - Snippet: This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future. —Grace Huckins When I saw an X post about a new humanoid-robot cleaning service in
+- **[Ars Technica] The Bantu expansion changed Africa. Scientists are still tracing how.** (2026-11-07 12:15 UTC)
+  - Link: https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/
+  - Snippet: Genes and archaeology are revealing how Bantu speakers spread across much of Africa.
+- **[Ars Technica] British soldier ignored order to pull his SIM card, then got blackmailed** (2026-11-07 11:00 UTC)
+  - Link: https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/
+  - Snippet: Soldier told repeatedly to lock down devices before deploying, got sextorted, court-martialed.
+- **[TechCrunch] Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack** (2026-11-07 17:24 UTC)
+  - Link: https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/
+  - Snippet: The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurrency from Binance users.
+- **[Ars Technica] Chainalysis says hackers stole credentials and tokens for all of its customers** (2026-11-06 20:56 UTC)
+  - Link: https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/
+  - Snippet: Company said a "multifront cyberattack" included AI agents and an on-path data snatch.
+- **[TechCrunch] Crusoe sells troubled Wyoming data center project to Google** (2026-11-07 01:40 UTC)
+  - Link: https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/
+  - Snippet: The deal highlights the challenges of developing massive AI data centers.
+- **[Ars Technica] Could potential AI clones of GTA VI force a quicker official port?** (2026-11-06 16:19 UTC)
+  - Link: https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/
+  - Snippet: A former Rockstar tech director thinks the developer is facing new time pressures.
+- **[TechCrunch] After blocking Muse, Amazon now lets users text Alexa to help them shop** (2026-11-06 14:10 UTC)
+  - Link: https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/
+  - Snippet: Amazon said that the feature will roll out to millions of users in coming weeks.
+- **[Ars Technica] “Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.** (2026-11-06 17:43 UTC)
+  - Link: https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/
+  - Snippet: Meta won't force Facebook page owners to allow AI training on linked content.
+- **[TechCrunch] After the midterms, is the AI industry in for a rough two years?** (2026-11-06 17:23 UTC)
+  - Link: https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/
+  - Snippet: Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a [ ]
+- **[TechCrunch] Amazon’s new basic Kindle proves you don’t need all the bells and whistles** (2026-11-07 17:18 UTC)
+  - Link: https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/
+  - Snippet: Amazon's redesigned basic Kindle costs more than before, but its lighter build and improved display make a compelling case for skipping the pricier models.
+- **[TechCrunch] After the midterms, things are looking rocky for Elon Musk and data centers** (2026-11-07 22:07 UTC)
+  - Link: https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/
+  - Snippet: On Equity, we unpacked what the midterms mean for the tech industry.
+- **[MIT Technology Review] I watched a humanoid robot clean my apartment. It felt like a taste of the future.** (2026-11-06 10:00 UTC)
+  - Link: https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/
+  - Snippet: I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed
+- **[TechCrunch] Hundreds of Artex AI hacking tools found publicly exposed to the web** (2026-11-06 18:44 UTC)
+  - Link: https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/
+  - Snippet: Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.
+- **[Ars Technica] It's a weird time to buy a laptop, but the new MacBook Pro doesn't skimp on quality** (2026-11-06 15:28 UTC)
+  - Link: https://arstechnica.com/apple/2026/11/its-a-weird-time-to-buy-a-laptop-but-the-new-macbook-pro-doesnt-skimp-on-quality/
+  - Snippet: It has the best laptop screen we've used, but there may be reasons to wait.
+- **[TechCrunch] Meta introduces Spaces, a new way to collaborate with your Muse agent** (2026-11-06 18:44 UTC)
+  - Link: https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/
+  - Snippet: Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.
+- **[TechCrunch] Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo** (2026-11-07 21:17 UTC)
+  - Link: https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/
+  - Snippet: A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.
+- **[Ars Technica] Doctors pull knife from man's eye that went through his brain—and he's fine now** (2026-11-06 23:09 UTC)
+  - Link: https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/
+  - Snippet: It's the exact path, not the apparent severity that matters most, doctors say.
+- **[Ars Technica] Developer ends lucrative screensaver deal with Roku because Fox bought it** (2026-11-06 19:50 UTC)
+  - Link: https://arstechnica.com/gadgets/2026/11/artist-pulls-popular-screensaver-from-roku-os-because-of-fox-acquisition/
+  - Snippet: Developer: “I can’t be part of the Fox world.”
+- **[Ars Technica] Earth's churning mantle may have created the Great Unconformity** (2026-11-06 20:24 UTC)
+  - Link: https://arstechnica.com/science/2026/11/earths-churning-mantle-may-have-created-the-great-unconformity/
+  - Snippet: Explaining the Great Unconformity, where Cambrian deposits sit on top of older rocks.
+- **[TechCrunch] From the front row to the hot seat — what the midterms mean for Big Tech** (2026-11-07 04:16 UTC)
+  - Link: https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/
+  - Snippet: After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do.
+- **[Ars Technica] FAA to finally ditch floppy disks in what it calls "historic" tech upgrade** (2026-11-06 19:12 UTC)
+  - Link: https://arstechnica.com/tech-policy/2026/11/faa-to-finally-ditch-floppy-disks-in-what-it-calls-historic-tech-upgrade/
+  - Snippet: FAA information display systems to be floppy-free at 435 sites by end of 2028.
+
+## Business
+
+- **[M&A / DEAL SIGNAL] [CAPITAL / TREASURY TREND] [Economic Times Top Business] Adani Enterprises plans Rs 35,000-40,000 crore annual capex in next two years** (2026-11-08 05:09 UTC)
+  - Link: https://economictimes.indiatimes.com/news/company/corporate-trends/adani-enterprises-plans-rs-35000-40000-crore-annual-capex-in-next-two-years/articleshow/135651827.cms
+  - Snippet: Adani Enterprises intends to invest between Rs 35,000 crore and Rs 40,000 crore annually for upcoming years. The major areas of focus will be airports, data centres, and a PVC manufacturing complex. Recently, the company reported strong financial growth, with a notable increase in EBITDA and revenue. This investment cycle aims to enhance operational capabilities and generate returns from new asset...
+- **[GTM / CHANNEL SIGNAL] [Mint Money & Corporate] Diwali 2026: Buying gold and silver coins online? Top 5 things to know before making purchase via e-commerce platforms** (2026-11-08 02:51 UTC)
+  - Link: https://www.livemint.com/money/personal-finance/diwali-2026-buying-gold-and-silver-coins-online-top-5-things-to-know-before-making-purchase-via-e-commerce-platforms-11794104616313.html
+  - Snippet: Buying gold and silver coins online this Diwali 2026? Check five important factors, including purity, weight, certification, seller credentials, festive discounts, pricing and return policies before ordering gold and silver coins through e-commerce and quick-commerce platforms.
+- **[GTM / CHANNEL SIGNAL] [Mint Money & Corporate] Gold, silver prices today, 8 Nov: Check Diwali 2026 retail rate of 24K, 22K gold, 999 silver in Delhi, Mumbai, Bangalore** (2026-11-08 05:17 UTC)
+  - Link: https://www.livemint.com/money/gold-24k-22k-18k-rate-999-silver-price-today-8-november-retail-diwali-delhi-mumbai-chennai-bangalore-kolkata-coimbatore-11794112139097.html
+  - Snippet: Gold, silver prices today, 8 November: Check retail price of 18K, 22K and 24K gold and 999 Fine silver on Diwali 2026 in your cities — Ahmedabad, Bengaluru, Chennai, Coimbatore, Delhi, Hyderabad, Kolkata, and Mumbai. nbsp;
+- **[M&A / DEAL SIGNAL] [Mint Money & Corporate] Exchanging old gold for new jewellery this Diwali? 6 things to check before accepting your jeweller’s valuation | Guide** (2026-11-07 16:31 UTC)
+  - Link: https://www.livemint.com/money/personal-finance/exchanging-old-gold-for-new-jewellery-this-diwali-6-things-to-check-before-accepting-your-jeweller-s-valuation-guide-11794066226811.html
+  - Snippet: Exchanging old gold for new jewellery this Diwali? Check six things before accepting your jeweller’s offer, including gold purity, net weight, market rates, melting deductions, making charges and exchange terms to avoid losing money.
+- **[CAPITAL / TREASURY TREND] [Mint Money & Corporate] Got Diwali bonus from your employer? Clear credit card dues or start mutual fund SIP: Which money move is right for you?** (2026-11-07 10:40 UTC)
+  - Link: https://www.livemint.com/money/personal-finance/got-diwali-bonus-from-your-employer-clear-credit-card-dues-or-start-mutual-fund-sip-which-money-move-is-right-for-you-11794044653200.html
+  - Snippet: Got a Diwali bonus of ₹10,000? Should you clear credit card dues or start a mutual fund SIP? Compare the interest savings from repaying high-cost debt with the potential returns from investing to understand which money move makes more financial sense.
+- **[MONEYCONTROL] [Moneycontrol] PSU NMDC auctions over 2,000 carats of Panna diamonds** (2026-11-08 06:51 UTC)
+  - Link: https://www.moneycontrol.com/news/business/companies/psu-nmdc-auctions-over-2-000-carats-of-panna-diamonds-14074872.html
+  - Snippet: Keywords: NMDC,  Panna diamonds
+- **[M&A / DEAL SIGNAL] [Mint Money & Corporate] Farmer wins  ₹18.24 lakh land valuation tax dispute: How ITAT Surat relied on DVO report to grant relief** (2026-11-08 05:16 UTC)
+  - Link: https://www.livemint.com/money/personal-finance/farmer-wins-18-24-lakh-land-valuation-tax-dispute-how-itat-surat-relied-on-dvo-report-to-grant-relief-11794113499079.html
+  - Snippet: A farmer secured relief in a ₹18.24 lakh land valuation tax dispute after the ITAT Surat directed the tax officer to examine the Departmental Valuation Officer's (DVO) report. Here's how the ruling could help land buyers challenge excessive stamp duty valuations.
+- **[Mint Money & Corporate] Supreme Court ruling on pension: Why former Short Service Commission officers’ pro-rata pension plea was rejected** (2026-11-07 09:33 UTC)
+  - Link: https://www.livemint.com/money/personal-finance/supreme-court-ruling-on-pension-why-former-short-service-commission-officers-pro-rata-pension-plea-was-rejected-11794042987162.html
+  - Snippet: The Supreme Court has dismissed a curative petition seeking a pro rata pension for former Short Service Commission Officers (SSCOs). Here's what the October 2026 ruling means for Army veterans, pension eligibility and their long-standing demand for retirement benefits.
+- **[Mint Money & Corporate] Interesting survey! Women taking charge of household finances, Gen Z saving for a home, Gen X is focused on retirement** (2026-11-07 09:21 UTC)
+  - Link: https://www.livemint.com/money/interesting-survey-women-taking-charge-of-household-finances-gen-z-saving-for-a-home-gen-x-is-focused-on-retirement-11794040320436.html
+  - Snippet: India Saves 2026 report shows that women are taking charge of household finances, Gen Z is saving for a home, while Gen X is focused on retirement. Here's a look at the habits, goals and choices across demographics… nbsp;
+- **[Mint Money & Corporate] Looking to invest in international funds? Only one scheme remains open for new investors amid fresh subscription curbs** (2026-11-07 13:10 UTC)
+  - Link: https://www.livemint.com/money/personal-finance/looking-to-invest-in-international-funds-only-one-scheme-remains-open-for-new-investors-amid-fresh-subscription-curbs-11794052868670.html
+  - Snippet: Indian investors seeking overseas exposure through mutual funds have limited choices, with only one scheme accepting fresh SIPs. Three other international funds have suspended new investments and paused existing SIP instalments. Here's what investors should know.
+- **[Mint Money & Corporate] Got salary bonus this Diwali? 5 smart ways to strengthen your finances instead of spending it all - Top ideas to follow** (2026-11-07 15:31 UTC)
+  - Link: https://www.livemint.com/money/personal-finance/got-salary-bonus-this-diwali-5-smart-ways-to-strengthen-your-finances-instead-of-spending-it-all-top-ideas-to-follow-11794065273833.html
+  - Snippet: A Diwali salary bonus can do more than fund festive shopping. From strengthening insurance cover and preparing for upcoming expenses to boosting retirement savings and investing in skills, here are five ways to put the extra money to work.
+- **[Mint Money & Corporate] ITAT Surat ruling: Retired employee wins leave encashment tax dispute over  ₹8.02 lakh exemption claim** (2026-11-07 11:08 UTC)
+  - Link: https://www.livemint.com/money/personal-finance/itat-surat-ruling-retired-employee-wins-leave-encashment-tax-dispute-over-rs-8-02-lakh-exemption-claim-11794046534072.html
+  - Snippet: The ruling highlights the importance of following due process before the tax authorities modify an already processed income tax return
+- **[Mint Money & Corporate] Meghalaya HC denies pension to ex-Assam Rifles rifleman, says voluntary discharge leads to forfeiture of past service** (2026-11-07 13:39 UTC)
+  - Link: https://www.livemint.com/money/personal-finance/meghalaya-hc-denies-pension-to-ex-assam-rifles-rifleman-says-voluntary-discharge-leads-to-forfeiture-of-past-service-11794052829928.html
+  - Snippet: The court clarified that an employee cannot claim pensionary benefits under Rule 49(2) merely because he has completed 10 years of qualifying service if Rule 26(1), which provides for forfeiture of past service upon resignation, applies to his case
+- **[Mint Money & Corporate] PF contributions deposited late? Can the income tax department impose a penalty on your employer? ITAT clarifies** (2026-11-08 07:34 UTC)
+  - Link: https://www.livemint.com/money/personal-finance/pf-contributions-deposited-late-can-the-income-tax-department-impose-a-penalty-on-your-employer-itat-clarifies-11794122922693.html
+  - Snippet: ITAT Ahmedabad has deleted a ₹4.42 lakh penalty imposed on Nascent Info Technologies for misreporting income after disallowance of ₹7.16 lakh in delayed employees' PF and ESI contributions. The tribunal said disallowance alone does not establish misreporting.
+- **[Mint Money & Corporate] SEBI settlement rules from November 7: Who can apply online, how much to pay and the 90-day deadline explained** (2026-11-07 10:42 UTC)
+  - Link: https://www.livemint.com/money/personal-finance/sebi-settlement-rules-from-november-7-who-can-apply-online-how-much-to-pay-and-the-90-day-deadline-explained-11794046408426.html
+  - Snippet: SEBI's new settlement rules came into effect on November 7, 2026. The revised framework changes application fees, minimum settlement amounts and filing deadlines, while introducing fast-track options for eligible cases. Here's what applicants need to know.
+- **[Mint Money & Corporate] Just  ₹50 daily SIP in mutual funds: Build over  ₹20 lakh in 25 years; how small savings grow your money over 5 to 25 yrs** (2026-11-07 09:40 UTC)
+  - Link: https://www.livemint.com/money/personal-finance/just-50-daily-sip-in-mutual-funds-build-over-20-lakh-in-25-years-how-small-savings-grow-your-money-over-5-to-25-yrs-11794042504228.html
+  - Snippet: A daily SIP of just ₹50 can help build a corpus of over ₹20 lakh in 25 years, assuming 10% annual returns. But how much can your money grow in 5, 10 or 15 years? Here's how investment duration and compounding can influence your wealth creation.
+- **[Mint Money & Corporate] Sold property but received money in instalments? ITAT explains when you must pay income tax on capital gains** (2026-11-07 17:16 UTC)
+  - Link: https://www.livemint.com/money/personal-finance/sold-property-but-received-money-in-instalments-itat-explains-when-you-must-pay-income-tax-on-capital-gains-11794065759266.html
+  - Snippet: ITAT Surat deleted a ₹2.45 crore capital gains addition after a landowner showed that he received only ₹25 lakh in the relevant year, despite ₹2.86 crore appearing in Form 26AS. The tribunal considered subsequent tax returns and co-owners' cases.
+- **[Economic Times Top Business] AvenuesAI Q2 revenue jumps 47% as AI-first fintech transformation gathers momentum** (2026-11-06 16:56 UTC)
+  - Link: https://economictimes.indiatimes.com/news/company/corporate-trends/avenuesai-q2-revenue-jumps-47-as-ai-first-fintech-transformation-gathers-momentum/articleshow/135615038.cms
+  - Snippet: AvenuesAI reported a steady set of second-quarter FY27 numbers, with the company continuing to build momentum behind its broader transformation from a payments gateway-led business into an AI-first financial technology infrastructure platform.
+- **[Mint Money & Corporate] Bank holidays next week: SBI, HDFC, ICICI branches will be closed on these six days between 9-15 Nov. Check RBI calendar** (2026-11-08 02:16 UTC)
+  - Link: https://www.livemint.com/money/bank-holidays-next-week-sbi-hdfc-icici-branches-will-beopen-or-closed-from-9-15-nov-ahead-of-diwali-check-rbi-calend-11794098511014.html
+  - Snippet: Bank holidays next week: Check which six days public and private sector lenders including the State Bank of India and HDFC Bank will be closed for customers across different regions during the week 9-15 November. nbsp;
+- **[Mint Money & Corporate] DA hike: Uttarakhand increases dearness allowance by 3% to 63% for state employees, pensioners — All we know** (2026-11-08 03:19 UTC)
+  - Link: https://www.livemint.com/money/da-hike-uttarakhand-increase-dearness-allowance-3-pc-to-63-pc-state-employees-pensioners-effect-1-july-2026-arrears-pay-11794103712472.html
+  - Snippet: DA hike news: Uttarakhand government has approved a 3% increase in Dearness Allowance for state government employees, raising the component to 63% of basic pay, with effect from 1 July 2026. Here's all you need to know… nbsp;
+- **[Mint Money & Corporate] 8th Pay Commission: How salaries could increase at fitment factors of 2, 2.5, 3, 3.5 and 4 – Calculations explained** (2026-11-08 01:40 UTC)
+  - Link: https://www.livemint.com/money/personal-finance/8th-pay-commission-how-salaries-could-increase-at-fitment-factors-of-2-2-5-3-3-5-and-4-calculations-explained-11793732832267.html
+  - Snippet: The 8th Pay Commission completed one year on 3 November 2026, with about six months remaining before its expected report submission. Check how central government employees' basic pay could change at fitment factors of 2, 2.5, 3, 3.5 and 4, with level-wise salary calculations. nbsp;
+- **[Economic Times Top Business] AI slump revives Asia’s forgotten trades from China to India** (2026-11-08 01:44 UTC)
+  - Link: https://economictimes.indiatimes.com/news/company/corporate-trends/indian-stock-market-winers-ai-trade-rout-artificial-intelligence-stock-slump-revives-asias-forgotten-trades-from-china-to-india/articleshow/135649421.cms
+  - Snippet: Global investors are rethinking their Asia bets as the AI trade loses momentum following the US midterm elections. India and China are emerging as potential beneficiaries of the shift, with funds rotating towards undervalued stocks, domestic growth, healthcare, consumer companies and financials. India's limited AI exposure, easing oil prices and renewed foreign inflows are strengthening its appeal...
+- **[Mint Money & Corporate] Air pollution in India: Does health insurance cover pollution-related illnesses? What policyholders should know** (2026-11-07 11:30 UTC)
+  - Link: https://www.livemint.com/money/personal-finance/air-pollution-in-india-does-health-insurance-cover-pollution-related-illnesses-what-policyholders-should-know-11794050681101.html
+  - Snippet: Air pollution can aggravate respiratory illnesses such as asthma and COPD. Health insurance may cover hospitalisation, but policyholders should check pre-existing disease waiting periods, ICU coverage, room rent limits, restoration benefits and OPD add-ons.
+- **[Mint Money & Corporate] Diwali shopping: Should you pay upfront or choose no-cost EMI for expensive purchases? Here’s what buyers must know** (2026-11-07 13:57 UTC)
+  - Link: https://www.livemint.com/money/personal-finance/diwali-shopping-should-you-pay-upfront-or-choose-no-cost-emi-for-expensive-purchases-here-s-what-buyers-must-know-11794059555390.html
+  - Snippet: Planning expensive Diwali purchases? Paying upfront could help you secure additional discounts, while no-cost EMI can spread payments. Compare processing fees, GST, cashback and credit card rewards before deciding which option saves you more.
+- **[Mint Money & Corporate] ₹10 lakh in PPF vs  ₹10 lakh in NSC: How do maturity periods, returns and income tax benefits compare for investors?** (2026-11-08 06:51 UTC)
+  - Link: https://www.livemint.com/money/personal-finance/10-lakh-in-ppf-vs-10-lakh-in-nsc-how-do-maturity-periods-returns-and-income-tax-benefits-compare-for-investors-11794084008882.html
+  - Snippet: Compare ₹10 lakh investments in PPF and NSC in November 2026. Understand their latest interest rates, maturity periods, investment limits, Section 80C deductions, taxation rules and returns to choose the right government-backed savings scheme.
+- **[Mint Money & Corporate] Gold near interim bottom, but World Gold Council says three conditions associated with price recovery ‘already in place’** (2026-11-08 04:22 UTC)
+  - Link: https://www.livemint.com/money/gold-nears-interim-bottom-world-gold-council-broader-economy-three-historical-conditions-price-recovery-in-place-markets-11794108175909.html
+  - Snippet: The World Gold Council believes that while gold may be nearing an interim bottom, with three historical conditions already in place, the broader economic outlook supports a possible price recovery for the precious metal. nbsp;
+- **[Mint Money & Corporate] Diwali 2026: Beware of instant loan offers on WhatsApp and social media; 5 ways to avoid loan app scams today** (2026-11-08 04:03 UTC)
+  - Link: https://www.livemint.com/money/personal-finance/diwali-2026-beware-of-instant-loan-offers-on-whatsapp-and-social-media-5-ways-to-avoid-loan-app-scams-today-11794108856970.html
+  - Snippet: Fake loan apps are targeting young borrowers with instant credit offers this Diwali 2026. Know how these digital lending scams work and follow five essential precautions to protect your money, personal information and financial security.
+- **[Mint Money & Corporate] Diwali bonus: MSTRC announces  ₹10,000 each for 83,000 employees, 2% DA hike, festival advance for eligible staff** (2026-11-08 07:50 UTC)
+  - Link: https://www.livemint.com/money/personal-finance/diwali-bonus-mstrc-announces-rs-10000-each-83000-employees-2-pc-da-hike-festival-advance-rs-12500-eligible-staff-money-11794121603059.html
+  - Snippet: The Maharashtra State Road Transport Corporation will give ₹10,000 Diwali bonus to each of its 83,000 employees. It has also raised DA to 60% and announced ₹12,500 festival advance for eligible staff. nbsp;
+- **[Mint Money & Corporate] Diwali gift tax rules 2026: Will gifts worth over  ₹50,000 from friends attract tax on the entire amount? Expert explains** (2026-11-08 00:56 UTC)
+  - Link: https://www.livemint.com/money/personal-finance/diwali-gift-tax-rules-2026-will-gifts-worth-over-50-000-from-friends-attract-tax-on-the-entire-amount-expert-explains-11793736589287.html
+  - Snippet: Diwali gifts worth over ₹50,000 from friends can attract income tax on the entire amount. CA Swati Jain explains the ₹50,000 annual exemption, tax rules for gifts from relatives and employers, and how recipients can avoid unexpected tax liabilities. Read on to learn more. nbsp;
+

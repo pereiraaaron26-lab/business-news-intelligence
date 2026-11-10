@@ -1,0 +1,94 @@
+/* Antigravity Business Intelligence - Classy Editorial Design System */
+@import url('https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;0,6..72,700;1,6..72,400;1,6..72,500&family=Plus+Jakarta+Sans:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap');
+
+:root {
+  --font-serif: 'Newsreader', Georgia, Cambria, 'Times New Roman', serif;
+  --font-sans: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-mono: 'JetBrains Mono', ui-monospace, SFMono-Regular, monospace;
+}
+
+body {
+  font-family: var(--font-sans);
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.font-editorial {
+  font-family: var(--font-serif);
+}
+
+.font-mono-code {
+  font-family: var(--font-mono);
+}
+
+/* Subtle newspaper line-height and rhythm */
+.editorial-headline {
+  font-family: var(--font-serif);
+  letter-spacing: -0.02em;
+  line-height: 1.25;
+}
+
+.editorial-deck {
+  font-family: var(--font-serif);
+  line-height: 1.6;
+}
+
+.narrative-body p {
+  margin-bottom: 1.25rem;
+  line-height: 1.8;
+  font-size: 1.05rem;
+}
+
+.narrative-body p:last-child {
+  margin-bottom: 0;
+}
+
+/* Custom Thin Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(148, 163, 184, 0.3);
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(148, 163, 184, 0.6);
+}
+
+/* Classy Hairline Rules */
+.hairline-b {
+  border-bottom: 1px solid rgba(226, 232, 240, 0.8);
+}
+
+.dark .hairline-b {
+  border-bottom: 1px solid rgba(38, 44, 58, 0.8);
+}
+
+.hairline-r {
+  border-right: 1px solid rgba(226, 232, 240, 0.8);
+}
+
+.dark .hairline-r {
+  border-right: 1px solid rgba(38, 44, 58, 0.8);
+}
+
+/* Subtle link hover */
+.hover-underline {
+  background-image: linear-gradient(currentColor, currentColor);
+  background-position: 0% 100%;
+  background-repeat: no-repeat;
+  background-size: 0% 1px;
+  transition: background-size 0.25s ease;
+}
+
+.hover-underline:hover {
+  background-size: 100% 1px;
+}
