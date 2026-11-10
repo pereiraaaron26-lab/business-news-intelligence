@@ -1,0 +1,582 @@
+﻿# Verified Daily Business, GTM, M&A & Moneycontrol Pro Feed Input (2026-11-10)
+Generated UTC: 2026-11-10 08:02
+
+## Marketing_GTM
+
+- **[GTM / CHANNEL SIGNAL] [Harvard Business Review] How Consumer and Retail Leaders Can Close the Transformation Value Gap** (2026-11-09 15:35 UTC)
+  - Link: http://feeds.harvardbusiness.org/sponsored/2026/11/how-consumer-and-retail-leaders-can-close-the-transformation-value-gap
+  - Snippet: SPONSOR CONTENT FROM EY.
+- **[GTM / CHANNEL SIGNAL] [Modern Retail (GTM & Commerce)] How Azuna’s strong supply chain fuels its 9-figure sales** (2026-11-09 15:00 UTC)
+  - Link: https://www.modernretail.co/operations/how-azunas-strong-supply-chain-fuels-its-9-figure-sales/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss
+  - Snippet: For the 7-year-old air-freshener alternative brand Azuna, topping nine figures in annual online revenue has required aggressive inventory strategies that enable buffer time and vertical control.
+- **[Harvard Business Review] To Land a C-Suite Job, Craft Your Career Story** (2026-11-09 13:15 UTC)
+  - Link: http://feeds.harvardbusiness.org/2026/11/to-land-a-c-suite-job-craft-your-career-story
+  - Snippet: You’ve built the career. Here’s how to sell it.
+- **[Adweek] Week of Oct. 26 Cable News Ratings: MS NOW Up Across All Dayparts** (2026-11-09 16:08 UTC)
+  - Link: https://www.adweek.com/tvnewser/week-of-oct-26-2026-cable-news-ratings/
+  - Snippet: Fox News was the only network with double digit growth in one of the measured demos.
+- **[ET Brand Equity] The Dark Diwali of Indian Media Measurement** (2026-11-10 03:34 UTC)
+  - Link: https://brandequity.economictimes.indiatimes.com/news/research/advertising/the-dark-diwali-of-indian-media-measurement/135697663
+  - Snippet: With uncertainty looming large over BARC and with the IRS still a work-in-progress, this Diwali left marketers groping in the dark.
+- **[Adweek] The Trade Desk Clears Wall Street&#8217;s Low Expectations as Revenue Stalls** (2026-11-09 18:42 UTC)
+  - Link: https://www.adweek.com/programmatic/the-trade-desk-clears-wall-streets-low-expectations-as-revenue-stalls/
+  - Snippet: Third-quarter revenue beat forecasts by about $85 million, helped by record political spending.
+- **[Adweek] The AI-or-Not Debate Is Advertising’s Most Pointless Argument** (2026-11-09 14:24 UTC)
+  - Link: https://www.adweek.com/brand-marketing/the-ai-or-not-debate-is-advertisings-most-pointless-argument/
+  - Snippet: Almost nothing you watch or read is AI-free any more.
+- **[ET Brand Equity] The benevolence business: When brands turn celebration into a transaction** (2026-11-10 03:51 UTC)
+  - Link: https://brandequity.economictimes.indiatimes.com/news/research/advertising/the-benevolence-business-when-brands-turn-celebration-into-a-transaction/135698206
+  - Snippet: Brands are increasingly blending commerce with emotional purpose during Diwali, reshaping the gifting culture to emphasize personal expression over obligation. Campaigns like Dainik Bhaskar’s #GiftBeforeDiwali highlight the importance of recognizing often-overlooked relationships, while environmental initiatives promote responsible celebrations. The focus is shifting from price reductions to addin...
+- **[Adweek] SiriusXM Taps Tubi’s Anjali Sud as CEO to Replace Jennifer Witz** (2026-11-09 16:28 UTC)
+  - Link: https://www.adweek.com/convergent-tv/siriusxm-taps-tubis-anjali-sud-as-ceo-to-replace-jennifer-witz/
+  - Snippet: Outgoing CEO Jennifer Witz leaves amid rising revenue, record-low customer churn, and near-record free cash flow.
+- **[Marketing Week] Why It Works: Air Up and the power of influencing our five senses** (2026-11-09 07:15 UTC)
+  - Link: https://www.marketingweek.com/why-it-works-air-up/
+  - Snippet: Brands too often focus on just one sense when building a strategy around product, however, all five senses play their part in influencing consumer behaviour. Source
+- **[Harvard Business Review] Why Leaders Need to Rethink Their Approach to AI Oversight** (2026-11-09 13:25 UTC)
+  - Link: http://feeds.harvardbusiness.org/2026/11/why-leaders-need-to-rethink-their-approach-to-ai-oversight
+  - Snippet: Strict AI policies can inadvertently fuel employee resistance. To encourage adoption, companies should focus on building employee trust, developing their AI skills, and giving them more autonomy.
+- **[Marketing Week] Your brand is only as strong as the compromises you refuse to make** (2026-11-10 07:00 UTC)
+  - Link: https://www.marketingweek.com/brand-strong-compromises/
+  - Snippet: Culture is shaped by everyday decisions made under pressure. CMOs must ensure the pursuit of speed doesn’t come at the expense of quality. Source
+- **[ET Brand Equity] Why BIAL is making crisis response part of its larger brand strategy** (2026-11-10 03:41 UTC)
+  - Link: https://brandequity.economictimes.indiatimes.com/news/marketing/why-bial-is-making-crisis-response-part-of-its-larger-brand-strategy/135697946
+  - Snippet: Bengaluru Airport is transforming the airport advertising space and enhancing the passenger journey through cutting-edge installations that emphasize brand identity. Chief Marketing Officer Shalini Rao highlights the significance of merging marketing efforts with operational strategies to boost communication and strengthen reputation, particularly in challenging times. The airport s goal is to del...
+- **[Adweek] Your Brand Is Your Most Powerful Differentiator** (2026-11-09 09:25 UTC)
+  - Link: https://www.adweek.com/brand-marketing/your-brand-is-your-most-powerful-differentiator/
+  - Snippet: NAPIER’s founder on why independent shops can no longer afford to neglect their own brands
+- **[Adweek] Week of Oct. 26 Evening News Ratings: Newscasts Lose Viewers** (2026-11-09 16:31 UTC)
+  - Link: https://www.adweek.com/tvnewser/week-of-oct-26-2026-evening-news-ratings/
+  - Snippet: Across-the-board declines took place the week before the midterm elections.
+- **[Harvard Business Review] When Rising Interest Rates Signal Economic Strength—and When They Signal Risk** (2026-11-09 13:05 UTC)
+  - Link: http://feeds.harvardbusiness.org/2026/11/when-rising-interest-rates-signal-economic-strength-and-when-they-signal-risk
+  - Snippet: The U.S. and France have both seen interest rates top 5%, but the underlying economies are very different.
+- **[ET Retail (India Channel & D2C)] Diwali on Zepto: Festive hamper orders triple, laddu tops &#039;Mithai&#039; chart** (2026-11-10 02:47 UTC)
+  - Link: https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/diwali-on-zepto-festive-hamper-orders-triple-laddu-tops-mithai-chart/135697216
+  - Snippet: Gifting showed the sharpest growth. Festive hamper orders rose threefold compared with last Diwali, which Zepto said reflects a growing preference for curated gifts.
+- **[Modern Retail (GTM & Commerce)] Exclusive: TikTok Shop launches a paid premium tier for 1M of its top US shoppers** (2026-11-09 18:50 UTC)
+  - Link: https://www.modernretail.co/operations/exclusive-tiktok-shop-launches-a-paid-premium-tier-for-1m-of-its-top-us-shoppers/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss
+  - Snippet: TikTok Shop is opening up a new paid membership program called TikTok Shop Plus in time for the competitive holiday season.
+- **[ET Retail (India Channel & D2C)] FSSAI seizes 3,280 tonnes of banned food products worth Rs 82 crore in nationwide inspection drive** (2026-11-10 03:31 UTC)
+  - Link: https://retail.economictimes.indiatimes.com/news/food-entertainment/food-services/fssai-seizes-3280-tonnes-of-banned-food-products-worth-82-crore-in-nationwide-inspection-drive/135698037
+  - Snippet: FSSAI conducted a nationwide inspection drive from September 1 to November 5 to ensure food safety.
+- **[Marketing Week] Disney looks to revive Christmas magic with 2026 festive short** (2026-11-09 13:00 UTC)
+  - Link: https://www.marketingweek.com/disnry-brings-the-magic/
+  - Snippet: With music from Robin Hood, shots from Frozen and toys from Toy Story, Disney is leaning on its rich catalogue of classics for its Christmas short. Source
+- **[Marketing Week] ‘Strategic consistency’: Inside Waitrose’s Christmas rom-com return** (2026-11-10 06:30 UTC)
+  - Link: https://www.marketingweek.com/waitrose-christmas-rom-com-2026/
+  - Snippet: With a six-minute advert this year, Waitrose is treating its Christmas marketing like a film release, as its top marketer explains how the "multi-dimensional campaign" ties back to its overarching brand platform. Source
+- **[Adweek] ADWEEK Agencies Advantage: As Reviews Give Way to Handshakes, Clients Will Decide The Fate of the Pitch** (2026-11-09 12:10 UTC)
+  - Link: https://www.adweek.com/agencies/adweek-agencies-advantage-as-reviews-give-way-to-handshakes-clients-will-decide-the-fate-of-the-pitch/
+  - Snippet: As agencies argue about the value of the pitch, clients ultimately hold the keys to overhaul the agency selection process
+- **[Marketing Week] AI citations, salary transparency, cyber weekend: 5 interesting stats to start your week** (2026-11-09 14:05 UTC)
+  - Link: https://www.marketingweek.com/ai-citations-salary-transparency-cyber-weekend-5-interesting-stats-to-start-your-week/
+  - Snippet: We arm you with all the stats you need to tackle the week ahead. Source
+- **[Adweek] Oct. 31- Nov. 1 Daily Cable News Ratings: Real Time Wins Saturday** (2026-11-09 12:08 UTC)
+  - Link: https://www.adweek.com/tvnewser/oct-31-nov-1-2026-daily-cable-news-ratings/
+  - Snippet: Fox News finished in first place on Sunday
+- **[Adweek] OpenAI’s Monetization Chief to Ad Partners: User Trust Means Some Things ‘We Just Can’t’ Do** (2026-11-09 13:04 UTC)
+  - Link: https://www.adweek.com/media/openais-monetization-chief-to-ad-partners-user-trust-means-some-things-we-just-cant-do/
+  - Snippet: OpenAI’s monetization chief says the company’s privacy rules mean ad partners won’t always get what they want, and he wouldn’t own the reported $100 billion ad revenue target.
+- **[Modern Retail (GTM & Commerce)] Poppi founder Allison Ellsworth on launching Jetty, a new hydration brand** (2026-11-09 05:00 UTC)
+  - Link: https://www.modernretail.co/operations/poppi-founder-allison-ellsworth-on-launching-jetty-a-new-hydration-brand/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss
+  - Snippet: Poppi founder Allison Ellsworth is launching Jetty, a better-for-you lower-sodium hydration brand targeted at everyday consumer use.
+- **[ET Retail (India Channel & D2C)] NCLT declares Videocon promoter Venugopal Dhoot bankrupt on SBI plea; appoints bankruptcy trustee** (2026-11-10 02:51 UTC)
+  - Link: https://retail.economictimes.indiatimes.com/news/industry/nclt-declares-videocon-promoter-venugopal-dhoot-bankrupt-on-sbi-plea-appoints-bankruptcy-trustee/135697331
+  - Snippet: The Tribunal, comprising Judicial Member Vinay Goel and Technical Member Charanjeet Singh Gulati, passed the bankruptcy order on November 5 under the Insolvency and Bankruptcy Code (IBC).
+- **[ET Retail (India Channel & D2C)] HUL hikes prices of detergent brands Surf Excel, Rin, Wheel by up to 11 pc** (2026-11-10 03:10 UTC)
+  - Link: https://retail.economictimes.indiatimes.com/news/food-entertainment/personal-care-pet-supplies-liquor/hul-hikes-prices-of-detergent-brands-surf-excel-rin-wheel-by-up-to-11-pc/135697652
+  - Snippet: Last month, MD and CEO Priya Nair said Hindustan Unilever Ltd (HUL) will continue to take calibrated price hikes depending on the movement in input costs, as elevated commodity inflation poses a challenge even as demand remains resilient.
+- **[ET Retail (India Channel & D2C)] India&#039;s investment outlook strengthens as credit, exports rebound; inflation relief likely: HSBC** (2026-11-10 03:37 UTC)
+  - Link: https://retail.economictimes.indiatimes.com/news/industry/indias-investment-outlook-strengthens-as-credit-exports-rebound-inflation-relief-likely-hsbc/135698097
+  - Snippet: India s investment outlook is improving as credit growth and corporate revenue increase, pointing towards stronger private capital spending. The report from HSBC highlights that funds to the commercial sector have risen significantly compared to previous years. Additionally, rising services exports have helped maintain a steady current account deficit in the economy. However, challenges such as we...
+- **[Adweek] Monday, Nov. 2 Daily Cable News Ratings: Rachel Maddow takes Total Viewers and Demo** (2026-11-09 12:14 UTC)
+  - Link: https://www.adweek.com/tvnewser/monday-nov-2-2026-daily-cable-news-ratings/
+  - Snippet: MS NOW and CNN finish ahead of Fox News at 7 p.m. ET in the demo
+
+## Finance_MA
+
+- **[MONEYCONTROL] [CAPITAL / TREASURY TREND] [Moneycontrol] Buying gold coins? Check purity, design premiums and buyback policies** (2026-11-10 06:55 UTC)
+  - Link: https://www.moneycontrol.com/news/business/personal-finance/buying-gold-coins-check-purity-design-premiums-and-buyback-policies-14076091.html
+  - Snippet: Keywords: purity, design premiums and buyback policies gold coin buying guide, gold coin purity, BIS certification for gold coins, designer gold coin premiums, gold coin buyback policies
+- **[M&A / DEAL SIGNAL] [CAPITAL / TREASURY TREND] [Mint Companies & M&A Deals] BDR Pharma buys majority stake in Acme’s oral solids formulations business** (2026-11-09 14:27 UTC)
+  - Link: https://www.livemint.com/companies/news/bdr-pharma-buys-majority-stake-in-acme-s-oral-solids-formulations-business-11794231899041.html
+  - Snippet: Existing investors, including private equity firm PAG, are selling their stakes in Acme's oral solids formulations business in a transaction that is expected to value the business at about $250 million.
+- **[MONEYCONTROL] [MC-PRO] [Moneycontrol] SEBI moves to keep spoofing orders out, protect genuine investors in pre-open trading and time priority** (2026-11-10 07:35 UTC)
+  - Link: https://www.moneycontrol.com/news/business/markets/sebi-moves-to-keep-spoofing-orders-out-protect-genuine-investors-in-pre-open-trading-and-time-priority-14076084.html
+  - Snippet: Keywords: SEBI, Spoofing of orders, Pre-Open Session, margin confirmation, BSE, NSE, MSE, Clearing Corporations
+- **[GTM / CHANNEL SIGNAL] [CAPITAL / TREASURY TREND] [Mint Companies & M&A Deals] Anthropic sends out $69.3 billion IPO details, then retracts, tells banks they will update new figures** (2026-11-10 03:14 UTC)
+  - Link: https://www.livemint.com/companies/news/anthropic-sends-out-69-3-billion-ipo-details-then-retracts-tells-banks-they-will-update-new-figures-11794280119925.html
+  - Snippet: Anthropic reportedly circulated and then retracted details of its planned IPO, including a proposed sale of 867 million shares at $70 to $80 each. The company said the pricing information was inaccurate and would be updated. Investors have discussed valuations of $1.1 trillion to $1.3 trillion.
+- **[MONEYCONTROL] [MC-PRO] [Moneycontrol] Vodafone raises profit forecast after cost cutting campaign** (2026-11-10 07:55 UTC)
+  - Link: https://www.moneycontrol.com/news/business/vodafone-raises-profit-forecast-after-cost-cutting-campaign-14076132.html
+  - Snippet: Keywords: Vodafone, Vodafone news, Vodafone latest news, Vodafone share price
+- **[MONEYCONTROL] [MC-PRO] [Moneycontrol] 2 job exits, failed startup and multiple promotions: Techie's salary journey from Rs 37k to Rs 2.2 crore** (2026-11-10 05:52 UTC)
+  - Link: https://www.moneycontrol.com/news/trends/2-job-exits-failed-startup-and-multiple-promotions-techie-s-salary-journey-from-rs-37k-to-rs-2-2-crore-14076038.html
+  - Snippet: Keywords: Rs 37,000 monthly salary    Software professional salary journey    Rs 2 crore tech salary    FAANG salary India    Rs 1.5 crore job offer    Rs 1.2 crore startup package    Indian tech professional    Reddit salary flex    Salary growth in IT sector    Software engineer career journey    Fintech startup founder    Rs 44 LPA salary
+- **[MONEYCONTROL] [Moneycontrol] GIFT Nifty gains 0.6% as falling crude prices lift sentiment; US futures subdued ahead of inflation data** (2026-11-10 05:14 UTC)
+  - Link: https://www.moneycontrol.com/news/business/markets/gift-nifty-gains-0-6-as-falling-crude-prices-lift-sentiment-us-futures-subdued-ahead-of-inflation-data-14076004.html
+  - Snippet: Keywords: gift nifty today, nifty key levels, gift nifty levels today, us futures, nividia shares.
+- **[CAPITAL / TREASURY TREND] [Mint Markets & Capital] HUL dividend 2026: Tomorrow is the last day to buy | Check payout amount, record date, history, yield and returns** (2026-11-10 03:45 UTC)
+  - Link: https://www.livemint.com/market/stock-market-news/hul-dividend-2026-tomorrow-is-the-last-day-to-buy-check-payout-amount-record-date-history-yield-and-returns-11794278924006.html
+  - Snippet: HUL dividend 2026: HUL announced the interim dividend alongside its September-quarter results on October 28. The dividend amounts to 1,900% of the face value of ₹1 per equity share.
+- **[MONEYCONTROL] [Moneycontrol] 'Give me Rs 3,000, I don't need sweets': Driver rejects employer's Diwali gift, sparks debate online** (2026-11-10 06:06 UTC)
+  - Link: https://www.moneycontrol.com/news/trends/give-me-rs-3-000-i-don-t-need-sweets-driver-rejects-employer-s-diwali-gift-sparks-debate-online-14076047.html
+  - Snippet: Keywords: Driver asks for ₹3,000 Diwali bonus    Employer pays driver ₹18,000    Diwali bonus for domestic workers    Driver refuses sweets    Employer driver dispute viral post    Domestic workers festive bonus    Diwali salary bonus debate    Reddit viral post India    Driver salary India    Diwali gifts and bonuses
+- **[MONEYCONTROL] [Moneycontrol] From earning Rs 30 a month to designing NSE’s new HQ: How Padma Bhushan recipient Hafeez Contractor became one of India’s leading architects** (2026-11-10 05:30 UTC)
+  - Link: https://www.moneycontrol.com/news/business/from-earning-rs-30-a-month-to-designing-nse-s-new-hq-how-padma-bhushan-recipient-hafeez-contractor-became-one-of-india-s-leading-architects-14076014.html
+  - Snippet: Keywords: Hafeez Contractor, Hafeez Contractor biography, Hafeez Contractor projects, Hafeez Contractor salary, Hafeez Contractor first salary, Hafeez Contractor Padma Bhushan, NSE new headquarters, NSE new HQ architect, Hafeez Contractor DLF Camellias, 23 Marina Dubai, DY Patil Stadium, Hafeez Contractor architecture
+- **[MONEYCONTROL] [Moneycontrol] From Bengaluru to Britain: Akshata Murty reflects on celebrating Diwali across continents** (2026-11-10 06:51 UTC)
+  - Link: https://www.moneycontrol.com/news/trends/from-bengaluru-to-britain-akshata-murty-reflects-on-celebrating-diwali-across-continents-14076086.html
+  - Snippet: Keywords: Bengaluru, Diwali, Deepavali, Akshata Murty, Britain, Bengaluru Diwali, Bengaluru Deepavali, Akshata Murty news, Britain Diwali news
+- **[GTM / CHANNEL SIGNAL] [Mint Industry & Capex] TRAI caps telecom interconnection charges at  ₹42.3 lakh: What changes from January 2027?** (2026-11-09 13:32 UTC)
+  - Link: https://www.livemint.com/industry/telecom/trai-caps-telecom-interconnection-charges-at-rs-42-3-lakh-what-changes-from-january-2027-11794230350252.html
+  - Snippet: TRAI has put a ceiling on what telecom operators can charge for network connections. Here's the new pricing.
+- **[MONEYCONTROL] [Moneycontrol] From Rs 28,000 a year to Rs 1 crore: 24-year-old shares how he built Rs 63.5 lakh net worth in six years** (2026-11-10 05:43 UTC)
+  - Link: https://www.moneycontrol.com/news/trends/from-rs-28-000-a-year-to-rs-1-crore-24-year-old-s-shares-how-he-build-rs-63-5-lakh-net-worth-14076029.html
+  - Snippet: Keywords: Reddit viral post, personal finance, Rs 1 crore earnings, Rs 63.5 lakh net worth, 24-year-old success story, freelancing, career growth, financial journey, wealth creation, startup salary,
+- **[CAPITAL / TREASURY TREND] [Mint Markets & Capital] Upcoming IPOs: SEBI clears 8 issues, including Mahanadi Coalfields, Veritas Finance and Sagar Defence; details here** (2026-11-10 04:26 UTC)
+  - Link: https://www.livemint.com/market/stock-market-news/upcoming-ipos-sebi-clears-8-issues-including-mahanadi-coalfields-veritas-finance-and-sagar-defence-details-here-11794281756897.html
+  - Snippet: India’s IPO pipeline is gaining pace, with eight companies—including Mahanadi Coalfields, Veritas Finance, Razorpay and MakeMyTrip’s Indian subsidiary—moving closer to public offerings. Their proposed issues range from fresh capital raises to offers for sale, and vary widely in size and structure.
+- **[GTM / CHANNEL SIGNAL] [Mint Markets & Capital] Retail investors shed stocks, but crowd into Reliance, HDFC Bank** (2026-11-10 07:21 UTC)
+  - Link: https://www.livemint.com/market/stock-market-news/retail-investors-reliance-hdfc-bank-fpis-stock-markets-india-11794288650697.html
+  - Snippet: Retail stakes fell in nearly half of listed companies in September, even as Reliance Industries, HDFC Bank and a handful of other stocks attracted more small shareholders.
+- **[MONEYCONTROL] [Moneycontrol] 'Salary aane se pehle tax cut': Woman says financial freedom remains out of reach for India's 30-year-olds** (2026-11-10 07:45 UTC)
+  - Link: https://www.moneycontrol.com/news/trends/salary-aane-se-pehle-tax-cut-woman-says-financial-freedom-remains-out-of-reach-for-india-s-30-year-olds-14076115.html
+  - Snippet: Keywords: Financial independence, financial freedom, Indian middle class, rising cost of living, housing affordability, home loans, EMIs, salary, urban lifestyle, cost of living crisis, young professionals, 30-year-olds, savings, job insecurity, India economy,
+- **[MONEYCONTROL] [Moneycontrol] NRI moved to Dubai and exercised Indian bank ESOPs worth Rs 1.56 crore: Know why ITAT ruled they are taxable in India** (2026-11-10 07:25 UTC)
+  - Link: https://www.moneycontrol.com/news/business/personal-finance/nri-moved-to-dubai-and-exercised-indian-bank-esops-worth-rs-1-56-crore-know-why-itat-ruled-they-are-taxable-in-india-14076111.html
+  - Snippet: Keywords: esop taxability in india, itat ruling esop nri, double taxation avoidance agreement article 15, section 90 income tax act, esop perquisite calculation india, tax on stock options for non residents, non resident indian esop taxation, income tax appellate tribunal mumbai
+- **[MONEYCONTROL] [Moneycontrol] 'Pollutyens Delhi', 'Haze Khas': Shashi Tharoor shares hilarious Delhi pollution memes, internet reacts** (2026-11-10 07:48 UTC)
+  - Link: https://www.moneycontrol.com/news/trends/pollutyens-delhi-haze-khas-shashi-tharoor-shares-hilarious-delhi-pollution-memes-internet-reacts-14075996.html
+  - Snippet: Keywords: Shashi Tharoor viral post, Shashi Tharoor X post, Delhi pollution, Delhi AQI, Delhi air quality, Pollutyens Delhi, Haze Khas, Dhua Kuan, Chandni Choke, Delhi pollution memes, viral memes on X, Delhi air pollution jokes, Shashi Tharoor memes, Delhi AQI memes, Lutyens Delhi, Hauz Khas, Dhaula Kuan, Chandni Chowk
+- **[MONEYCONTROL] [Moneycontrol] Rare earth price gap flags supply strains ahead of Trump-Xi meet** (2026-11-10 07:17 UTC)
+  - Link: https://www.moneycontrol.com/news/business/rare-earth-price-gap-flags-supply-strains-ahead-of-trump-xi-meet-14076107.html
+  - Snippet: Keywords: Rare earth, Rare earth news, Rare earth latest news, Donald Trump, Xi Jinping
+- **[CAPITAL / TREASURY TREND] [Mint Industry & Capex] Inside Vikas Khanna's New York home: The story behind his stunning skyline views, sister's memories and Indian roots** (2026-11-08 13:50 UTC)
+  - Link: https://www.livemint.com/industry/real-estate/inside-vikas-khannas-new-york-home-the-story-behind-his-stunning-skyline-views-sisters-memories-and-indian-roots-11794144882698.html
+  - Snippet: Chef Vikas Khanna has offered a glimpse inside his New York apartment, which overlooks landmarks such as the Empire State Building and Chrysler Building. The home also reflects his bond with his late sister, his mother and Indian culture.
+- **[MONEYCONTROL] [Moneycontrol] HUL Rs 19 interim dividend: Last date to buy shares, ex-date, record date and payment date** (2026-11-10 07:57 UTC)
+  - Link: https://www.moneycontrol.com/news/business/stocks/hul-rs-19-interim-dividend-last-date-to-buy-shares-ex-date-record-date-and-payment-date-14076130.html
+  - Snippet: Keywords: HUL, hindustan unilever, HUL dividend, hul share today, hul buy or sell
+- **[CAPITAL / TREASURY TREND] [Mint Markets & Capital] IPO Lock-in Expiry: $35 billion in shares set to unlock across 116 companies; Jio, NSE, Zetwerk in focus** (2026-11-10 06:17 UTC)
+  - Link: https://www.livemint.com/market/ipo-lock-in-expiry-35-billion-in-shares-set-to-unlock-across-116-companies-jio-nse-zetwerk-in-focus-11794289275423.html
+  - Snippet: Upcoming IPO lock-in expiries could bring shares worth an estimated $35 billion onto investors’ radar, including holdings in Jio Platforms, Shiprocket and SBI Funds Management. The actual market impact will depend on which shareholders choose to sell and prevailing conditions.
+- **[MONEYCONTROL] [Moneycontrol] Stock market holiday today: Are NSE, BSE open or closed today? Check GIFT Nifty levels** (2026-11-10 05:56 UTC)
+  - Link: https://www.moneycontrol.com/news/business/markets/stock-market-holiday-today-are-nse-bse-open-or-closed-on-november-10-for-diwali-balipratipada-today-check-mcx-trading-details-14075983.html
+  - Snippet: Keywords: stock market holidays, stock market today, stock market holiday in November 2026, stock market open today, stock market news, stock market holidays 2026
+- **[CAPITAL / TREASURY TREND] [Mint Markets & Capital] JPMorgan Weighs Big Discount to Lure Lenders for Software Debt** (2026-11-09 22:13 UTC)
+  - Link: https://www.livemint.com/market/jpmorgan-weighs-big-discount-to-lure-lenders-for-software-debt-11794262406093.html
+  - Snippet: Banks led by JPMorgan Chase Co. could offer one of the year’s biggest discounts to sell some of the $5 billion in debt for software firm Qualtrics International Inc. that the underwriters were stuck holding a few months ago.
+- **[MONEYCONTROL] [Moneycontrol] Who takes over if Jensen Huang exits? Nvidia's succession question comes into focus** (2026-11-10 06:19 UTC)
+  - Link: https://www.moneycontrol.com/news/business/who-takes-over-if-jensen-huang-exits-nvidia-s-succession-question-comes-into-focus-14076072.html
+  - Snippet: Keywords: Nvidia, Jensen Huang, Alice Huang, China, spy scandal, sex scandal, Donald Trump, Nvidia news
+- **[MONEYCONTROL] [Moneycontrol] Crude oil prices fall to $91 a barrel as Trump signals pause in further military strikes on Iran** (2026-11-10 07:27 UTC)
+  - Link: https://www.moneycontrol.com/news/business/markets/crude-oil-prices-fall-to-91-a-barrel-as-trump-signals-pause-in-further-military-strikes-on-iran-14076070.html
+  - Snippet: Keywords: Crude oil prices today, Crude today, Crude oil today
+- **[GTM / CHANNEL SIGNAL] [Mint Industry & Capex] Who is Aaryamann Sethi? Meet Archana Puran Singh’s son who built his dream home with YouTube** (2026-11-10 05:56 UTC)
+  - Link: https://www.livemint.com/industry/real-estate/who-is-aaryamann-sethi-meet-archana-puran-singh-s-son-who-built-his-dream-home-with-youtube-11794290038152.html
+  - Snippet: Aaryamann Sethi nbsp;runs a YouTube channel named “Aary Vlogs,” where he shares family moments, personal life updates, and original music. He has 3,84,000 followers as of November 2026.
+- **[CAPITAL / TREASURY TREND] [Mint Companies & M&A Deals] Brazils Braskem creditors, shareholders target Wednesday deadline for debt deal, sources say** (2026-11-09 19:48 UTC)
+  - Link: https://www.livemint.com/companies/brazils-braskem-creditors-shareholders-target-wednesday-deadline-for-debt-deal-sources-say-11794253700070.html
+  - Snippet: BRASKEM-BRAZIL/ (PI
+- **[CAPITAL / TREASURY TREND] [Mint Companies & M&A Deals] Yes Bank AT-1 bondholders still await clarity on their money nearly a month after SC verdict** (2026-11-10 00:30 UTC)
+  - Link: https://www.livemint.com/companies/news/yes-bank-at-1-bondholders-still-await-clarity-on-their-money-nearly-a-month-after-sc-verdict-11794213239487.html
+  - Snippet: Investors are still waiting for Yes Bank to restore their ₹8,415 crore AT-1 bond investments nearly a month after the Supreme Court overturned the 2020 write-off.
+- **[MONEYCONTROL] [Moneycontrol] 18-hour workdays to retirement at 30: Man buys 14 old flats, earns Rs 29 lakh rent annually. Now, he wants out** (2026-11-10 07:44 UTC)
+  - Link: https://www.moneycontrol.com/news/trends/18-hour-workdays-to-retirement-at-30-man-buys-14-old-flats-earns-rs-29-lakh-rent-annually-now-he-wants-out-14076112.html
+  - Snippet: Keywords: Chinese man retires at 30, 30-year-old landlord, 14 flats in China, rental income from property, Rs 3 crore property investment, early retirement through rental income, Financial Independence Retire Early (FIRE), dividend stocks, dividend income, Chinese real estate market
+- **[CAPITAL / TREASURY TREND] [Mint Markets & Capital] Canadian dollar underperforms most G10 currencies as oil falls** (2026-11-09 19:33 UTC)
+  - Link: https://www.livemint.com/market/canadian-dollar-underperforms-most-g10-currencies-as-oil-falls-11794252780817.html
+  - Snippet: CANADA-FOREX/:CANADA FX DEBT-Canadian dollar underperforms most G10 currencies as oil falls
+- **[GTM / CHANNEL SIGNAL] [Mint Companies & M&A Deals] ‘Temple is made for the world’: Deepinder Goyal says doesn’t expect more than 1% sale in India amid debate over pricing** (2026-11-10 04:37 UTC)
+  - Link: https://www.livemint.com/companies/news/temple-is-made-for-the-world-deepinder-goyal-says-doesn-t-expect-more-than-1-sale-in-india-amid-debate-over-pricing-11794284802672.html
+  - Snippet: Temple founder Deepinder Goyal defended the forehead-worn wellness device’s ₹85,000 price, saying it was designed for global markets. Pre-orders opened November 1, with shipping expected in early 2027. Goyal describes Temple as a fitness and AI device, not a medical product.
+- **[Mint Markets & Capital] Why Gokaldas Exports shares will be in top focus tomorrow; what it said in exchange filing? Stock down over 5% in 5 days** (2026-11-10 07:58 UTC)
+  - Link: https://www.livemint.com/market/stock-market-news/why-gokaldas-exports-shares-will-be-in-top-focus-tomorrow-what-it-said-in-exchange-filing-stock-down-over-5-in-5-days-11794295409461.html
+  - Snippet: Gokaldas Exports shares have witnessed mixed performance across different time periods, declining 4.26% over the past week despite gaining 1.54% in the last one month.
+- **[Mint Markets & Capital] Stock recommendations for 11 November from MarketSmith India** (2026-11-10 00:30 UTC)
+  - Link: https://www.livemint.com/market/stock-market-news/stock-recommendations-for-11-november-from-marketsmith-india-11794226262086.html
+  - Snippet: MarketSmith India reveals its top stock recommendations for today, 11 November. Get expert insights into the best-performing stocks to guide your investment decisions.
+- **[Mint Industry & Capex] Why Bengaluru-Goa Vande Bharat Express is likely to delay 13 trains and affect 15,000 passengers** (2026-11-09 16:54 UTC)
+  - Link: https://www.livemint.com/industry/infrastructure/why-bengaluru-goa-vande-bharat-express-is-likely-to-delay-13-trains-and-affect-15-000-passengers-11794234443472.html
+  - Snippet: The new service is likely to get priority on the Western Ghats section, particularly the 55-km Sakleshpur-Subrahmanya Road stretch; existing trains may face delays of up to 25 minutes.
+- **[Mint Companies & M&A Deals] Pay by the mile! GMR proposes nearly doubling UDF at Bhogapuram airport, drawing IndiGo's ire** (2026-11-10 00:30 UTC)
+  - Link: https://www.livemint.com/companies/news/pay-by-the-mile-gmr-proposes-nearly-doubling-udf-at-bhogapuram-airport-drawing-indigos-ire-11794235217890.html
+  - Snippet: Airlines and experts warn that higher fees could make flying less affordable, dampen passenger demand and push short-haul travellers towards trains.
+- **[Mint Markets & Capital] Stock market holiday: Closed today on Tuesday 10 November 2026 on Diwali-Balipratipada; no trading in NSE, BSE exchanges** (2026-11-10 02:17 UTC)
+  - Link: https://www.livemint.com/market/stock-market-news/stock-market-holiday-closed-today-on-tuesday-10-november-2026-on-diwali-balipratipada-no-trading-in-nse-bse-exchanges-11794275379042.html
+  - Snippet: Stock market holiday: The Indian stock market will remain closed for trading on Tuesday, November 10, on account of Diwali-Balipratipada.
+- **[Mint Economy & Policy] Why it will take more than just signing FTAs to boost India’s exports** (2026-11-09 11:27 UTC)
+  - Link: https://www.livemint.com/economy/why-indian-exporters-struggle-to-benefit-from-ftas-11794222712302.html
+  - Snippet: Exporters across industrial hubs are gearing up to tap the opportunities arising from India’s many free trade pacts. In doing so, they hope to rewrite the script. Earlier FTAs did not do much for exporters, and only served to widen the trade deficit with India’s partners.
+- **[Mint Markets & Capital] Zerodha CEO Nithin Kamath on cryptocurrency, prediction markets boom: ‘Nothing expands the markets like greed, FOMO'** (2026-11-10 06:02 UTC)
+  - Link: https://www.livemint.com/market/stock-market-news/zerodha-ceo-nithin-kamath-on-cryptocurrency-prediction-markets-boom-nothing-expands-the-markets-like-greed-fomo-11794289135575.html
+  - Snippet: Nithin Kamath says the US market has changed sharply since COVID, as crypto derivatives, ETFs and prediction markets attract mainstream participation. He sees speculative assets as a potential gateway to investing, while warning that their risks and volatility can harm individuals and society.
+- **[Mint Markets & Capital] Sensex, Nifty 50 rise over 6% in past 5 sessions: More rally from tomorrow or profit booking will dent returns hopes?** (2026-11-10 07:13 UTC)
+  - Link: https://www.livemint.com/market/stock-market-news/sensex-nifty-50-rise-over-6-in-past-5-sessions-more-rally-from-tomorrow-or-profit-booking-will-dent-returns-hopes-11794292057445.html
+  - Snippet: Sensex, Nifty 50 outlook: On Monday, November 9, the Sensex advanced 107.25 points, or 0.13%, to close at 81,106.65, while the Nifty 50 gained 58.25 points, or 0.23%, to settle at 25,044.65.
+- **[Mint Companies & M&A Deals] Why Tesla is set to refund deposit money of many customers of this car, Elon Musk reveals** (2026-11-10 07:42 UTC)
+  - Link: https://www.livemint.com/companies/people/why-tesla-is-set-to-refund-deposit-money-of-many-customers-of-this-car-elon-musk-reveals-11794295811650.html
+  - Snippet: Tesla CEO Elon Musk said the company will refund deposits to many Cybertruck buyers as orders exceed production capacity. Tesla plans to wind down production by mid-2027 and redirect factory capacity towards its Cybercab autonomous vehicle.
+- **[Mint Industry & Capex] Short tenures, high expectations. The growing challenge for Indian CEOs** (2026-11-09 04:42 UTC)
+  - Link: https://www.livemint.com/industry/short-tenures-high-expectations-the-growing-challenge-for-india-incs-corner-office-czars-11793788321079.html
+  - Snippet: Two in every three top executives leave within five years of taking charge, a Mint analysis of annual reports of BSE 500 companies has found. The study covered 481 executive heads, including CEOs, managing directors and chairpersons, who exited these companies between 2017 and 2026.
+- **[Mint Companies & M&A Deals] What is Megaspeed? The Nvidia partner at the centre of Jensen Huang’s China espionage controversy** (2026-11-09 14:21 UTC)
+  - Link: https://www.livemint.com/companies/news/what-is-megaspeed-the-nvidia-partner-at-the-centre-of-jensen-huang-s-china-espionage-controversy-11794230028279.html
+  - Snippet: What is Megaspeed, the Singapore-based Nvidia chip buyer linked to Jensen Huang's alleged 'honeytrap' scandal? Here's why it is under US scrutiny.
+- **[Mint Companies & M&A Deals] What is WuXi AppTec? Why Chinese biotech giant was removed from Pentagon's military list** (2026-11-09 14:52 UTC)
+  - Link: https://www.livemint.com/companies/news/what-is-wuxi-apptec-why-chinese-biotech-giant-was-removed-from-pentagons-military-list-11794233040160.html
+  - Snippet: What is WuXi AppTec? Why was the Chinese drugmaker on the Pentagon's military list, and what does its removal mean for investors and global pharma?
+- **[Mint Industry & Capex] When should a hit show end? OTT platforms weigh the cost of another season** (2026-11-09 05:27 UTC)
+  - Link: https://www.livemint.com/industry/media/koffee-with-karan-karan-johar-jiostar-jiohotstar-ott-platforms-streaming-television-content-economics-11794042705362.html
+  - Snippet: Koffee With Karan’s exit after 22 years highlights how OTT platforms weigh audience demand, retention and costs before renewing shows. Yet a show’s commercial life can continue through back-catalogue licensing, advertising and digital clips.
+- **[Mint Markets & Capital] US ETFs to Buy for Samvat 2083: Samco recommends 2 ETFs  with potential upside of up to 60% for Indian investors** (2026-11-10 04:17 UTC)
+  - Link: https://www.livemint.com/market/stock-market-news/us-etfs-to-buy-for-samvat-2083-samco-recommends-2-etfs-with-potential-upside-of-up-to-60-for-indian-investors-11794283267027.html
+  - Snippet: Samco Wealth recommends US-listed energy ETF XLE and healthcare ETF XLV as long-term hedges against oil-price volatility and rupee depreciation. It sees potential upside of 47% and 60%, respectively, and suggests holding both for at least two years. nbsp;
+- **[Mint Markets & Capital] Viking Loses 1.2% in October After Eschewing Many Big AI Bets** (2026-11-09 20:33 UTC)
+  - Link: https://www.livemint.com/market/viking-loses-1-2-in-october-after-eschewing-many-big-ai-bets-11794256428481.html
+  - Snippet: Viking Global Investors’ flagship hedge fund dropped 1.2% last month, faring better than many of its rivals after largely avoiding high-flying artificial-intelligence stocks.
+- **[Mint Companies & M&A Deals] UK boy's tomato-growing hobby turns into booming business, with orders coming from as far away as Australia** (2026-11-09 18:28 UTC)
+  - Link: https://www.livemint.com/companies/news/uk-boys-tomato-growing-hobby-turns-into-booming-business-with-orders-coming-from-as-far-away-as-australia-11794240788080.html
+  - Snippet: Jacob's journey from growing a few plants during the pandemic to running a business with thousands of plants highlights how a childhood interest has developed into an entrepreneurial venture with an expanding customer base.
+- **[Mint Companies & M&A Deals] Who are James Gunn and Peter Safran of DC Studios — Why are they stepping down? Who from Marvel is replacing them?** (2026-11-10 03:54 UTC)
+  - Link: https://www.livemint.com/companies/people/who-are-james-gunn-and-peter-safran-of-dc-studios-why-are-they-stepping-down-who-from-marvel-is-replacing-them-11794278446119.html
+  - Snippet: Former Marvel executive Jeremy Latcham has been appointed as the new president and chief creative officer of DC Studios
+- **[Mint Industry & Capex] The remake strategy is evolving and Bollywood must take note** (2026-11-10 06:17 UTC)
+  - Link: https://www.livemint.com/industry/media/bollywood-remakes-hindi-cinema-ott-platforms-drishyam-3-remake-rights-regional-cinema-entertainment-11794116565474.html
+  - Snippet: With originals widely available on streaming platforms, Hindi remakes must offer more than a copy. Experts say a fresh take on proven IP can draw audiences, citing Drishyam 3’s strong opening.
+- **[Mint Markets & Capital] TCPL Packaging shares: High-conviction stock! 60% returns in 6 months, InCred sees 18% more gain | Check target price** (2026-11-10 06:24 UTC)
+  - Link: https://www.livemint.com/market/stock-market-news/tcpl-packaging-shares-incred-equities-recommends-this-high-conviction-stock-with-18-upside-check-target-returns-11794287696958.html
+  - Snippet: TCPL Packaging reported a strong performance for the September quarter of FY27, with consolidated sales growing 21.8% year-on-year and 13.8% sequentially to ₹560 crore.
+- **[Mint Companies & M&A Deals] Who is RamG Vallath? Meet ex-Airtel COO who left corporate life to become a speaker; what he said about work stress** (2026-11-10 03:51 UTC)
+  - Link: https://www.livemint.com/companies/people/who-is-ramg-vallath-meet-ex-airtel-coo-who-left-corporate-life-to-become-a-speaker-what-he-said-about-work-stress-11794281943743.html
+  - Snippet: Former Airtel COO RamG Vallath once dreamed of becoming the CEO of a Fortune 500 company. But a rare autoimmune disorder left him paralysed in his 40s, forcing him to step away from corporate life. He has now spoken about workplace stress, his health battle, and rebuilding his career.
+- **[Mint Markets & Capital] Top Yen Forecaster Predicts 147 Per Dollar as Rate Gap Narrows** (2026-11-09 21:22 UTC)
+  - Link: https://www.livemint.com/market/top-yen-forecaster-predicts-147-per-dollar-as-rate-gap-narrows-11794259355721.html
+  - Snippet: Neil Parker has spent nearly three decades tracking the yen, through financial crises and sharp currency swings. Now, the top dollar-yen forecaster in Bloomberg’s latest rankings sees the Japanese currency rallying toward 147 per dollar next year as Japan’s interest-rate gap with the US narrows.
+- **[Mint Companies & M&A Deals] Timex Marlin California dial watch launched, priced at roughly  ₹28,000: Here’s how to buy, special features and more** (2026-11-10 06:47 UTC)
+  - Link: https://www.livemint.com/companies/news/timex-marlin-california-dial-watch-launched-priced-at-roughly-28-000-here-s-how-to-buy-special-features-and-more-11794292447527.html
+  - Snippet: Timex has launched a limited-edition Marlin California Dial watch in the US, featuring a black dial with Roman and Arabic numerals. Priced at $299 (approximately ₹28,085), the hand-wound mechanical watch is limited to just 200 individually numbered pieces.
+- **[Mint Companies & M&A Deals] Three workers die at Tata iPhone factory in Tamil Nadu's Hosur** (2026-11-10 05:20 UTC)
+  - Link: https://www.livemint.com/companies/news/three-workers-die-at-tata-iphone-factory-in-tamil-nadus-hosur-11794287606590.html
+  - Snippet: The deaths are the latest incident to affect Apple's iPhone supply chain in India, where Tata Electronics accounts for roughly 40% of iPhone assembly and Foxconn makes up the rest.
+- **[Mint Markets & Capital] Oil down more than $7 a barrel in post settlement trade as Trump signals restraint on Iran** (2026-11-09 20:03 UTC)
+  - Link: https://www.livemint.com/market/oil-down-more-than-7-a-barrel-in-post-settlement-trade-as-trump-signals-restraint-on-iran-11794254623929.html
+  - Snippet: GLOBAL-OIL:Oil down more than $7 a barrel in post settlement trade as Trump signals restraint on Iran
+- **[Mint Markets & Capital] Dividend Stocks Record Date Alert 12 Nov Thursday: Bayer CropScience, HUL, ONGC, more; full list | Amount, key dates** (2026-11-10 07:52 UTC)
+  - Link: https://www.livemint.com/market/stock-market-news/dividend-stocks-record-date-alert-12-nov-thursday-bayer-cropscience-hul-ongc-more-full-list-amount-key-dates-11794291448718.html
+  - Snippet: Thirteen companies across sectors are scheduled to turn ex-dividend on November 12, 2026, with payouts ranging from ₹0.05 to ₹90 per share. Under T+1 settlement, investors must buy shares by November 11 to qualify. Record dates and payment schedules should be checked before investing.
+- **[Mint Industry & Capex] Diwali firecrackers disrupt Mumbai’s Western Railway: 35 trains cancelled, 150 delayed — Here’s what WR said** (2026-11-10 06:45 UTC)
+  - Link: https://www.livemint.com/industry/infrastructure/diwali-firecrackers-disrupt-mumbai-s-western-railway-35-trains-cancelled-150-delayed-here-s-what-wr-said-11794290600336.html
+  - Snippet: The blaze was reported at 11:20 pm on Sunday after unidentified individuals allegedly burst crackers near the rail lines. The fire had already compromised the signalling network close to the tracks despite a prompt response
+- **[Mint Industry & Capex] Corporate India turns to non-permanent hiring as business uncertainty deepens** (2026-11-10 00:31 UTC)
+  - Link: https://www.livemint.com/industry/corporate-india-leans-on-contract-hiring-as-business-uncertainty-deepens-11793878192895.html
+  - Snippet: Non-permanent employees accounted for 17% of the workforce at 353 BSE 500 companies in FY26, up from 11% three years earlier, as companies prioritise flexibility over long-term employment commitments.
+- **[Mint Markets & Capital] Data Patterns shares surge 55% in 2026: Should you buy stock after Q2 results? What brokerages say: check target price** (2026-11-10 07:20 UTC)
+  - Link: https://www.livemint.com/market/stock-market-news/data-patterns-shares-surge-55-in-2026-should-you-buy-stock-after-q2-results-what-brokerages-say-check-target-price-11794290061612.html
+  - Snippet: Data Patterns shares have risen 54.48% in 2026 despite a weak Q2, when revenue fell 57% and net profit dropped 55%. Orders jumped to ₹929 crore, supporting management’s outlook for a stronger second half. Brokerages say meeting FY27 targets depends on improved execution and order conversion.
+- **[Mint Economy & Policy] Fertilizer availability comfortable for <i>rabi </i>sowing, stock position exceeds requirement across key nutrients** (2026-11-09 10:52 UTC)
+  - Link: https://www.livemint.com/economy/fertiliser-availability-comfortable-for-rabi-sowing-stock-position-exceeds-requirement-across-key-nutrients-11793963234460.html
+  - Snippet: India enters the rabi season with comfortable fertilizer stocks despite early ground-level shortages and delayed crop sowing. The supply buffer arrives as the nation's annual fertilizer subsidy spending climbs past ₹2.17 trillion.
+- **[Mint Companies & M&A Deals] Forest Essentials: How the business started by a 45-year-old single mother with  ₹2 lakh became a  ₹500 crore empire** (2026-11-10 06:29 UTC)
+  - Link: https://www.livemint.com/companies/people/forest-essentials-how-the-business-started-by-a-45-year-old-single-mother-with-rs-2-lakh-became-a-rs-500-crore-empire-11794291477303.html
+  - Snippet: Mira Kulkarni founded Forest Essentials in 2000 with ₹2 lakh and two employees, building a luxury Ayurvedic skincare brand from handmade soaps. After an early hotel order helped raise its profile, the company expanded internationally and attracted investment from Estée Lauder.
+- **[Mint Companies & M&A Deals] Donald Trump says FBI is investigating Jensen Huang’s affair with alleged Chinese spy as trouble mounts for Nvidia CEO** (2026-11-10 01:32 UTC)
+  - Link: https://www.livemint.com/companies/news/donald-trump-says-fbi-is-investigating-jensen-huang-s-affair-with-alleged-chinese-spy-as-trouble-mounts-for-nvidia-ceo-11794273697767.html
+  - Snippet: US President Donald Trump says the FBI is looking into allegations involving Nvidia CEO Jensen Huang and a Singapore-based businesswoman suspected of links to Chinese intelligence. Nvidia’s board has launched an inquiry into whether Huang was a target of foreign intelligence.
+- **[Mint Markets & Capital] EIB’s Calvino Says US Turmoil Is Driving Capital to Europe** (2026-11-09 22:10 UTC)
+  - Link: https://www.livemint.com/market/eibs-calvino-says-us-turmoil-is-driving-capital-to-europe-11794262213745.html
+  - Snippet: Europe is set to benefit from recent market turmoil in the US as investors seek a safe haven, according to European Investment Bank President Nadia Calvino.
+- **[Mint Companies & M&A Deals] Boeing to Cut 5% of Commercial Workforce Amid Ramp Up Delays** (2026-11-09 18:50 UTC)
+  - Link: https://www.livemint.com/companies/boeing-to-cut-5-of-commercial-workforce-amid-ramp-up-delays-11794250202697.html
+  - Snippet: Boeing Co. will cut 5% of its commercial airplane workforce as the company struggles to stabilize the pace of its production ramps.
+- **[Mint Markets & Capital] AMFI Rejig: Reliance's Jio Platforms, NSE, Lenskart, LG among 7 stocks set for large cap upgrade - Vedanta in mid cap?** (2026-11-10 05:15 UTC)
+  - Link: https://www.livemint.com/market/stock-market-news/amfi-rejig-reliances-jio-platforms-nse-lenskart-lg-among-7-stocks-set-for-large-cap-upgrade-vedanta-in-mid-cap-11794286571524.html
+  - Snippet: AMFI’s upcoming stock categorisation may bring substantial changes across market-cap segments. Nuvama predicts seven possible additions to the large-cap category and seven potential downgrades, alongside shifts between mid-cap and small-cap stocks.
+- **[Mint Industry & Capex] As SpaceX gets cheaper, are India’s rockets taking different flight paths?** (2026-11-09 02:30 UTC)
+  - Link: https://www.livemint.com/industry/as-spacex-gets-cheaper-are-india-s-rockets-taking-different-flight-paths-11793971208680.html
+  - Snippet: While Elon Musk's SpaceX targets the large-capacity mass-launch market, there may be a different field for smaller rocket companies to play
+- **[Mint Industry & Capex] AI pushes mid-sized IT firms to rethink sales playbook** (2026-11-10 07:59 UTC)
+  - Link: https://www.livemint.com/industry/infotech/ai-mid-sized-it-firms-coforge-ltm-infosys-tcs-hexaware-incentives-business-11794282254837.html
+  - Snippet: As AI reshapes client demand and competition for contracts intensifies, mid-sized IT services firms are revamping sales incentives and exploring new channels to win business.
+- **[Mint Industry & Capex] Airtel recharge offers: Users can get Buy 1 Get 1 Free on  ₹349,  ₹399 plans but there is a condition** (2026-11-09 14:47 UTC)
+  - Link: https://www.livemint.com/industry/airtel-recharge-offers-users-can-get-buy-1-get-1-free-on-rs-349-rs-399-plans-but-there-is-a-condition-11794231282133.html
+  - Snippet: A limited-time offer is available to select subscribers through the Airtel Thanks app; customers can get 56 days of service by paying for a single recharge.
+- **[Mint Companies & M&A Deals] BNPL makes a comeback as payment apps try to fix its broken economics** (2026-11-10 00:30 UTC)
+  - Link: https://www.livemint.com/companies/start-ups/bnpl-makes-a-comeback-as-payment-apps-try-to-fix-its-broken-economics-11793872644805.html
+  - Snippet: The latest proposition combines payments, shopping and credit: acquire customers through UPI, finance their purchases and use repayment behaviour to assess them for larger loans.
+- **[Mint Companies & M&A Deals] Boeing layoffs: Company to cut 5% of commercial airplane workforce as production delays threaten recovery plans** (2026-11-10 01:55 UTC)
+  - Link: https://www.livemint.com/companies/news/boeing-layoffs-company-to-cut-5-of-commercial-airplane-workforce-as-production-delays-threaten-recovery-plans-11794274201520.html
+  - Snippet: Boeing plans to cut around 5% of its commercial airplanes workforce through attrition and layoffs as it struggles to ramp up jetliner production, delays its 737 output targets and pushes back its $10 billion free cash flow goal to 2029.
+- **[Mint Markets & Capital] Asian Stock Markets Today 10 Nov Tuesday: Kospi up 5%, Nikkei jumps 4% after Wall Street's best day in 7 months; factors** (2026-11-10 04:57 UTC)
+  - Link: https://www.livemint.com/market/stock-market-news/asian-markets-today-kospi-surges-5-nikkei-gains-3-after-wall-streets-best-day-in-7-months-whats-fuelling-rally-11794284822074.html
+  - Snippet: Asian markets rallied on Tuesday, led by South Korea and Japan, after Wall Street’s strongest session in seven months. Technology shares rebounded and lower oil prices eased inflation concerns. Indian markets were closed for Diwali-Balipratipada.
+- **[Mint Markets & Capital] Asian stocks ride tech rally higher as oil falls** (2026-11-10 06:30 UTC)
+  - Link: https://www.livemint.com/market/stock-market-news/asian-stocks-ride-tech-rally-higher-as-oil-falls-11794291620755.html
+  - Snippet: Asian stocks were on course for their biggest two-day advance in more than three months as a resurgent tech rally and falling oil prices lifted sentiment.
+- **[Mint Markets & Capital] Four stocks with high dividend payout ratios to watch** (2026-11-10 03:30 UTC)
+  - Link: https://www.livemint.com/market/stock-market-news/four-stocks-with-high-dividend-payout-ratios-to-watch-11794220722375.html
+  - Snippet: Dividend-paying companies can be an important part of an investor's portfolio, particularly for those looking for regular income.
+- **[Mint Markets & Capital] LG Electronics is moving beyond its two-track strategy** (2026-11-10 07:01 UTC)
+  - Link: https://www.livemint.com/market/mark-to-market/lg-electronics-india-q2fy27-results-premiumization-mass-premium-strategy-revenue-growth-ebitda-margin-home-appliances-11794289508385.html
+  - Snippet: LG Electronics is expanding into information displays and vehicle solutions as premiumization drives growth, but rising input costs and a sequential margin decline remain key risks.
+- **[Mint Companies & M&A Deals] Meet Chirag Munjani: From corporate job to rural tourism, how Gujarat man built experiential travel company** (2026-11-10 04:34 UTC)
+  - Link: https://www.livemint.com/companies/people/meet-chirag-munjani-from-corporate-job-to-rural-tourism-how-gujarat-man-built-experiential-travel-company-11794284698124.html
+  - Snippet: In January 2017, Chirag Munjan received the India Responsible Tourism Award for being “Best in Cultural Immersion” nbsp;at the India Responsible Tourism Summit.
+- **[Mint Industry & Capex] L&amp;T bags Noida Metro Rail order for Aqua Line: 10 elevated stations; Botanical Garden, Sec 142, Depot, Boraki – details** (2026-11-09 13:21 UTC)
+  - Link: https://www.livemint.com/industry/infrastructure/lt-bags-noida-metro-rail-order-for-aqua-line-10-elevated-stations-botanical-garden-sec-142-depot-boraki-ke-11794223765121.html
+  - Snippet: Larsen amp; Toubro to construct 15.1-km elevated corridor; project targeted for completion in 36 months.
+- **[Mint Companies & M&A Deals] Leak, conflict and loss of arbitration: inside a Tata Power Mumbai FIR** (2026-11-10 00:20 UTC)
+  - Link: https://www.livemint.com/companies/tata-power-arbitrator-russia-trips-claimant-11794224233257.html
+  - Snippet: Tata Power has accused an arbitrator and former employees of undisclosed ties and leaking confidential data in its dispute with Kleros Capital. The allegations follow a Singapore ruling awarding Kleros $490 million plus interest, and an order to seize shares in two Tata Power arms.
+- **[Mint Companies & M&A Deals] Nvidia’s Jensen Huang faces board scrutiny: Can the chipmaker remove its CEO? Here’s what the board can and cannot do** (2026-11-09 16:10 UTC)
+  - Link: https://www.livemint.com/companies/news/nvidias-jensen-huang-faces-board-scrutiny-can-the-chipmaker-remove-its-ceo-here-s-what-the-board-can-and-cannot-do-11794239847524.html
+  - Snippet: Nvidia's board has launched an independent investigation into reports that CEO Jensen Huang was targeted by a foreign intelligence effort. Here's what the company's bylaws say about removing him as CEO and director.
+- **[Mint Companies & M&A Deals] Nvidias investigation into CEO Huangs affair puts a spotlight on chip billionaires personal life** (2026-11-09 19:03 UTC)
+  - Link: https://www.livemint.com/companies/nvidias-investigation-into-ceo-huangs-affair-puts-a-spotlight-on-chip-billionaires-personal-life-11794251012834.html
+  - Snippet: Nvidia's investigation into CEO Huang's affair puts a spotlight on chip billionaire's personal life
+- **[Mint Economy & Policy] Netherlands says 'difficult' to track product origin, remains among top buyers as India continues Russian oil purchase** (2026-11-10 00:31 UTC)
+  - Link: https://www.livemint.com/economy/netherlands-difficult-to-track-product-origin-remains-among-top-buyers-as-india-continues-russian-oil-purchase-11794216109816.html
+  - Snippet: The Netherlands says tracking the origin of petroleum products is difficult because of blending across the supply chain, raising questions about how effectively EU sanctions on Russian crude oil can be enforced. nbsp;
+- **[Mint Companies & M&A Deals] Nvidia chips, Alibaba ties and Jensen Huang scandal: Inside Alice Huang's $100 million-plus pitch** (2026-11-09 15:52 UTC)
+  - Link: https://www.livemint.com/companies/news/nvidia-chips-alibaba-ties-and-jensen-huang-scandal-inside-alice-huangs-100-million-plus-pitch-11794237553842.html
+  - Snippet: Alice Huang reportedly pitched a multi-million-dollar data centre project using Nvidia GPU access and Alibaba ties. Report reveals details of her business dealings amid the Jensen Huang controversy.
+- **[Mint Industry & Capex] Kochi Metro: Pink Line to feature dual-sided road access at 10 of its 11 stations — Check top updates of the project** (2026-11-09 08:28 UTC)
+  - Link: https://www.livemint.com/industry/infotech/kochi-metro-pink-line-to-feature-dual-sided-road-access-at-10-of-its-11-stations-check-top-updates-of-the-project-11794209258274.html
+  - Snippet: Official sources told The Hindu that pending work across all 11 stations will gather momentum to meet the revised August 2027 completion deadline.
+- **[CNBC Finance & Deals] Goldman CEO Solomon says AI financing remains strong despite market jitters** (2026-11-09 18:14 UTC)
+  - Link: https://www.cnbc.com/2026/11/09/goldman-ceo-ai-financing-market.html
+  - Snippet: Goldman CEO David Solomon says investor appetite for AI infrastructure remains strong despite a reset in AI stocks and political uncertainty around data centers.
+- **[Mint Industry & Capex] Hyderabad's Lakdi-ka-pul one-way traffic trial: How 73-year-old retired banker's sketch set plan in action** (2026-11-10 07:22 UTC)
+  - Link: https://www.livemint.com/industry/infrastructure/hyderabads-lakdi-ka-pul-one-way-traffic-trial-how-73-year-old-retired-bankers-sketch-set-plan-in-action-11794294915708.html
+  - Snippet: Hyderabad's Lakdi-ka-pul one-way traffic trial: The proposed changes will reportedly cover the stretch between Ravindra Bharathi, Lakdi-ka-pul and Iqbal Minar junctions. nbsp;
+- **[Mint Industry & Capex] From earthy interiors to warm settings: Playback singer Shreya Ghoshal shares a glimpse of her  ₹29 crore Worli home** (2026-11-10 05:42 UTC)
+  - Link: https://www.livemint.com/industry/real-estate/from-earthy-interiors-to-warm-settings-playback-singer-shreya-ghoshal-shares-a-glimpse-of-her-29-crore-worli-home-11794288260350.html
+  - Snippet: Playback singer Shreya Ghoshal recently offered a glimpse of her ₹29-crore Worli home during Farah Khan's YouTube visit. From earthy interiors and a cosy balcony to a piano and a functional guest room, here's a look inside her Mumbai residence.
+- **[Mint Markets & Capital] Gold rates today 10 Nov Tuesday: Can price rise to  ₹1.48 lakh per 10 gm? What experts say about rally as crude cools** (2026-11-10 05:08 UTC)
+  - Link: https://www.livemint.com/market/commodities/gold-rates-today-10-nov-tuesday-can-price-rise-to-1-48-lakh-per-10-gm-what-experts-say-about-rally-as-crude-cools-11794285337553.html
+  - Snippet: Gold rates today: The recovery in gold prices comes after a sharp correction in October, with investors assessing whether the recent rebound can sustain itself.
+- **[CNBC Finance & Deals] Jensen Huang exit odds are low on prediction markets after Nvidia probe** (2026-11-09 18:46 UTC)
+  - Link: https://www.cnbc.com/2026/11/09/jensen-huang-nvidia-exit-prediction-markets.html
+  - Snippet: Prediction markets traders price relatively low odds that the Nvidia CEO will depart in the near term.
+- **[Mint Industry & Capex] Jio's  ₹10,000 3-year recharge plan: 2.5GB daily data, unlimited calling, and multiple benefits: Here's what's included** (2026-11-08 12:00 UTC)
+  - Link: https://www.livemint.com/industry/telecom/jios-new-10-000-recharge-plan-3-year-validity-and-multiple-benefits-heres-whats-included-11794137159488.html
+  - Snippet: The plan is for active Jio prepaid subscribers across India. Unlimited 5G access, however, requires a compatible 5G smartphone and availability of Jio True 5G coverage in the subscriber's area.
+- **[Mint Companies & M&A Deals] Indian bike makers rev up their Latin America push** (2026-11-10 07:46 UTC)
+  - Link: https://www.livemint.com/companies/indias-two-wheeler-giants-shift-gears-to-capture-latin-america-bajaj-here-ktm-tvs-11794281224121.html
+  - Snippet: Hero MotoCorp, Bajaj Auto, TVS Motor Company and Royal Enfield are all scaling investments in Latin America with new factories, broader product portfolios and deeper presence in Brazil, Mexico, and Colombia
+- **[Mint Economy & Policy] India's forex reserves fall $2.69 billion to $717 billion: Why RBI is selling dollars and what it means for the rupee** (2026-11-08 10:40 UTC)
+  - Link: https://www.livemint.com/economy/indias-forex-reserves-fall-2-69-billion-to-717-billion-why-rbi-is-selling-dollars-and-what-it-means-for-the-rupee-11794125996170.html
+  - Snippet: India's forex reserves fell $2.69 billion to $717.06 billion in the week ended 30 October. RBI dollar sales, FCNR(B) fund deployment and changes in asset valuations are contributing to the decline. Here's what it means for the rupee and consumers.
+
+## Tech
+
+- **[M&A / DEAL SIGNAL] [CAPITAL / TREASURY TREND] [TechCrunch] Anthropic reportedly plans to move forward with IPO plans** (2026-11-10 01:27 UTC)
+  - Link: https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/
+  - Snippet: The AI company is expected to set its valuation range this week, the Wall Street Journal reported.
+- **[MONEYCONTROL] [Moneycontrol] SoftBank logs $7 billion loss after US data center costs swell** (2026-11-10 07:07 UTC)
+  - Link: https://www.moneycontrol.com/news/business/softbank-group-swings-to-loss-after-ai-worries-hit-tech-stocks-14076101.html
+  - Snippet: Keywords: SoftBank, SoftBank Group, SoftBank news, SoftBank quarterly results
+- **[M&A / DEAL SIGNAL] [Ars Technica] DCU shake-up: James Gunn and Peter Safran out post-merger** (2026-11-09 21:55 UTC)
+  - Link: https://arstechnica.com/culture/2026/11/dcu-shake-up-james-gunn-and-peter-safran-out-post-merger/
+  - Snippet: Producer and former Kevin Feige protege Jeremy Latcham will replace Gunn and Safran.
+- **[MONEYCONTROL] [Moneycontrol] Parag Parikh Flexi Cap cuts overseas exposure after AI stock rout: Meta out, Netflix in, Microsoft trimmed** (2026-11-10 06:36 UTC)
+  - Link: https://www.moneycontrol.com/news/business/personal-finance/parag-parikh-flexi-cap-fund-october-2026-meta-netflix-microsoft-portfolio-changes-14076016.html
+  - Snippet: Keywords: Parag Parikh Flexi Cap Fund, PPFAS Mutual Fund, Parag Parikh Flexi Cap October portfolio, PPFAS Meta exit, PPFAS Netflix investment, PPFAS Microsoft holding, PPFAS cash holdings, mutual fund portfolio changes
+- **[M&A / DEAL SIGNAL] [TechCrunch] Uber launches parking service following SpotHero acquisition, with an eye on robotaxis** (2026-11-09 17:00 UTC)
+  - Link: https://techcrunch.com/2026/11/09/uber-launches-parking-service-following-spothero-acquisition-with-an-eye-on-robotaxis/
+  - Snippet: Uber Parking is the latest example of the company offering products beyond its core ride-hailing service.
+- **[M&A / DEAL SIGNAL] [TechCrunch] AI hardware startup Nominal triples valuation to $3B in 8 months** (2026-11-09 19:21 UTC)
+  - Link: https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/
+  - Snippet: Nominal, a startup that offers an AI platform for hardware engineering and claims Anduril as a major customer, has raised another big round of financing that triples its valuation.
+- **[TechCrunch] Meta releases Muse Ember, a new lightweight model for agent execution** (2026-11-09 18:00 UTC)
+  - Link: https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/
+  - Snippet: At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.
+- **[MIT Technology Review] Nancy Pelosi’s replacement is ready to regulate AI** (2026-11-09 17:05 UTC)
+  - Link: https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/
+  - Snippet: As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy. I spoke with Wiener on Friday, only a
+- **[Ars Technica] Pentagon mulls placing fleet of military satellites around the Moon** (2026-11-09 19:08 UTC)
+  - Link: https://arstechnica.com/space/2026/11/us-military-notionally-interested-in-satellite-constellation-around-moon/
+  - Snippet: "Please jump on my cislunar bandwagon because I need some more friends here."
+- **[Ars Technica] New Democratic Congress will likely strip the gilding from Trump's Golden Dome** (2026-11-09 12:00 UTC)
+  - Link: https://arstechnica.com/space/2026/11/new-democratic-congress-will-likely-strip-the-gilding-from-trumps-golden-dome/
+  - Snippet: "There’s no doubt that whatever it’s going to be called, it won’t be called Golden Dome."
+- **[Ars Technica] Nvidia CEO's affair becomes a national security problem** (2026-11-09 15:23 UTC)
+  - Link: https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/
+  - Snippet: Nvidia is probing whether Chinese intelligence targeted its CEO through an affair.
+- **[TechCrunch] Otter AI can now follow conversations across 30+ languages** (2026-11-10 07:00 UTC)
+  - Link: https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/
+  - Snippet: Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.
+- **[Ars Technica] Physicists listened to electrical noise to crack a superconductor mystery** (2026-11-08 12:15 UTC)
+  - Link: https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/
+  - Snippet: Tuning in to electronic noise can tell us whether electrons have paired up or not.
+- **[TechCrunch] The race is on to sue Nvidia** (2026-11-09 22:23 UTC)
+  - Link: https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/
+  - Snippet: Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn into a very expensive problem.
+- **[Ars Technica] Vulnerability that lets hackers SSH into Linux devices is under active exploitation** (2026-11-09 19:41 UTC)
+  - Link: https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/
+  - Snippet: "*sshole" poses a serious threat to Internet security.
+- **[TechCrunch] YouTube streaming data returns to Billboard charts, ending major disagreement** (2026-11-09 19:39 UTC)
+  - Link: https://techcrunch.com/2026/11/09/youtube-streaming-data-returns-to-billboard-charts-ending-major-disagreement/
+  - Snippet: YouTube will resume sharing streaming data with Billboard in 2027 after changes to the chart formula give more weight to free, ad-supported music streams.
+- **[MIT Technology Review] The Download: empty AI climate claims, and an Nvidia investigation** (2026-11-09 13:15 UTC)
+  - Link: https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/
+  - Snippet: This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Opinion: The climate case for AI has not been made —By Mary Nichols, distinguished counsel at the UCLA School of Law and the former chair of the California Air Resources Board,
+- **[Ars Technica] SpaceX now fundamentally an "infrastructure company," senior official says** (2026-11-09 15:39 UTC)
+  - Link: https://arstechnica.com/space/2026/11/spacex-now-fundamentally-an-infrastructure-company-senior-official-says/
+  - Snippet: "Grok analyzing the same video is 99.9 percent perfect."
+- **[MIT Technology Review] The backlash about data centers might really just be about electricity** (2026-11-09 19:35 UTC)
+  - Link: https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/
+  - Snippet: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It’s also where
+- **[MIT Technology Review] The climate case for AI has not been made** (2026-11-09 10:00 UTC)
+  - Link: https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/
+  - Snippet: This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence. The host has already called on countries to commit to ensuring that AI is designed, powered, and deployed in ways that support climate action. But so far, industries around the world
+- **[TechCrunch] Meta expands Instagram’s AI age-guessing tech globally** (2026-11-09 15:32 UTC)
+  - Link: https://techcrunch.com/2026/11/09/meta-expands-instagrams-ai-age-guessing-tech-globally/
+  - Snippet: Meta says it will use its AI technology to look for clues about people it suspects to be teenagers — even if they use an adult birthday.
+- **[Ars Technica] Claude Code is accidentally exposing secrets all over GitHub** (2026-11-09 17:24 UTC)
+  - Link: https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/
+  - Snippet: "Do not ask again" prompt leads to passwords, API keys, and more being shared.
+- **[TechCrunch] California’s proposed ‘billionaire tax’ fails to pass** (2026-11-10 05:18 UTC)
+  - Link: https://techcrunch.com/2026/11/09/californias-proposed-billionaire-tax-fails-to-pass/
+  - Snippet: California voters rejected Proposition 40, the one-time 5% tax on billionaires, the AP reported Monday. Tech leaders outspent backers roughly 10 to 1 to defeat it, and the founders and economists TechCrunch interviewed before the vote were split on whether it would have driven out wealthy residents or just trimmed their fortunes.
+- **[TechCrunch] Fervo now has $12B in orders for its geothermal power tech** (2026-11-09 20:55 UTC)
+  - Link: https://techcrunch.com/2026/11/09/fervo-now-has-12b-in-orders-for-its-geothermal-power-tech/
+  - Snippet: Geothermal company Fervo is targeting natural gas as it brings down geothermal drilling costs at its 8.4 GW resource in Utah.
+- **[Ars Technica] F1 in Brazil: You’ve got to keep your tires alive** (2026-11-09 15:16 UTC)
+  - Link: https://arstechnica.com/cars/2026/11/f1-in-brazil-drivers-at-their-very-best-in-tricky-conditions/
+  - Snippet: A topsy-turvy grid and intermittent rain resulted in a very entertaining race.
+- **[TechCrunch] A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal** (2026-11-09 22:46 UTC)
+  - Link: https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/
+  - Snippet: Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.
+- **[Ars Technica] A Sam Altman parody offers an amusing lesson in memory management** (2026-11-09 20:49 UTC)
+  - Link: https://arstechnica.com/gadgets/2026/11/a-sam-altman-parody-offers-an-amusing-lesson-in-memory-management/
+  - Snippet: We verified the RAM numbers are real without sending any emails to OpenAI.
+- **[TechCrunch] Anthropic releases new Mythos and Fable models amid RSI concerns** (2026-11-09 19:24 UTC)
+  - Link: https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/
+  - Snippet: Anthropic says the new models "show improvements in areas like coding, reasoning, and vision," as well as in communicating more clearly with users.
+- **[TechCrunch] Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines** (2026-11-09 16:56 UTC)
+  - Link: https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/
+  - Snippet: Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse.
+- **[TechCrunch] France blames Iran for mass-hacks targeting freezers in grocery stores and blood banks** (2026-11-09 19:19 UTC)
+  - Link: https://techcrunch.com/2026/11/09/france-blames-iran-for-mass-hacks-targeting-freezers-in-grocery-stores-and-blood-banks/
+  - Snippet: France's foreign minister blamed Iran for launching at least two waves of cyberattacks targeting industrial refrigerated and freezer units across France and wider Europe.
+- **[TechCrunch] Jensen Huang’s alleged honeypot scandal has inspired some top-notch memes** (2026-11-10 04:34 UTC)
+  - Link: https://techcrunch.com/2026/11/09/jensen-huangs-alleged-honeypot-scandal-has-inspired-some-top-notch-memes/
+  - Snippet: The internet is having a field day with Nvidia's Jensen Huang's alleged honeypot scandal.
+- **[TechCrunch] Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny** (2026-11-09 18:09 UTC)
+  - Link: https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/
+  - Snippet: Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market.
+- **[TechCrunch] Medium’s new TK app brings AI assistance directly into the writing process** (2026-11-09 16:12 UTC)
+  - Link: https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/
+  - Snippet: Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing.
+- **[Ars Technica] Man who lost $308,000 on sports bets sues Kalshi for offering illegal gambling** (2026-11-09 21:13 UTC)
+  - Link: https://arstechnica.com/tech-policy/2026/11/man-who-lost-308000-on-sports-bets-sues-kalshi-for-offering-illegal-gambling/
+  - Snippet: Lawsuit demands Kalshi return losses because online betting is illegal in Washington.
+- **[MIT Technology Review] Innovating with AI in the special chemicals industry** (2026-11-09 13:00 UTC)
+  - Link: https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/
+  - Snippet: As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufacturer Lubrizol, digital transformation is all about giving researchers the tools to test ideas faster, ...
+- **[TechCrunch] Hotel giant Wyndham exposed customer data after app security lapse** (2026-11-09 23:03 UTC)
+  - Link: https://techcrunch.com/2026/11/09/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse/
+  - Snippet: Exclusive: Wyndham left a hardcoded credential in its customer app, allowing anyone to access customer data. The hotel giant wouldn't say if it has the ability to check for any past unauthorized access.
+- **[TechCrunch] Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago** (2026-11-09 23:28 UTC)
+  - Link: https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/
+  - Snippet: The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.
+- **[TechCrunch] Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy** (2026-11-09 20:09 UTC)
+  - Link: https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/
+  - Snippet: The Nvidia CEO also pulled out of an Anthropic event earlier.
+
+## Business
+
+- **[MONEYCONTROL] [MC-PRO] [Moneycontrol] Boeing cuts 2,500 jobs as 737 MAX production slowdown derails recovery** (2026-11-10 06:25 UTC)
+  - Link: https://www.moneycontrol.com/news/business/companies/boeing-cuts-2-500-jobs-as-737-max-production-slowdown-derails-recovery-14076068.html
+  - Snippet: Keywords: boeing, airbus, indigo, interglobal, layoffs, hiring, airlines, boeing 737
+- **[GTM / CHANNEL SIGNAL] [Mint Money & Corporate] Gold, silver prices today, 10 Nov Tuesday: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata** (2026-11-10 03:55 UTC)
+  - Link: https://www.livemint.com/money/personal-finance/gold-silver-prices-today-10-nov-tuesday-check-retail-rates-of-24k-22k-gold-999-silver-in-delhi-mumbai-and-kolkata-11794279668430.html
+  - Snippet: Gold and silver prices declined on 10 November as investors awaited key US inflation data. Check the latest 24K and 22K gold rates and silver prices across major Indian cities and key factors influencing international bullion prices.
+- **[CAPITAL / TREASURY TREND] [Mint Money & Corporate] ₹2,000 monthly SIP to  ₹4.8 crore corpus: How a 38-year-old achieved financial independence without stock-picking** (2026-11-09 09:27 UTC)
+  - Link: https://www.livemint.com/money/personal-finance/rs-2-000-monthly-sip-to-rs-4-8-crore-corpus-how-a-38-year-old-achieved-financial-independence-without-stockpicking-11794214315839.html
+  - Snippet: A 38-year-old investor has built a ₹4.8 crore investment portfolio after starting with a ₹2,000 monthly SIP. His wealth creation journey highlights disciplined mutual fund investing, career growth, regular savings and financial independence without individual stock-picking or IPO bets.
+- **[Mint Money & Corporate] Planning a big wedding? One unexpected event could derail it; can insurance save the day? All you need to know** (2026-11-09 16:17 UTC)
+  - Link: https://www.livemint.com/money/personal-finance/planning-a-big-wedding-one-unexpected-event-could-derail-it-can-insurance-save-the-day-all-you-need-to-know-11794237363923.html
+  - Snippet: Wedding insurance can help Indian families recover costs if unforeseen events such as fire, theft, severe illness or extreme weather disrupt celebrations. Here's how it works.
+- **[Mint Money & Corporate] Penny stocks look cheap, but the risks can be expensive** (2026-11-10 05:43 UTC)
+  - Link: https://www.livemint.com/money/personal-finance/penny-stocks-look-cheap-but-the-risks-can-be-expensive-investors-funds-liquidity-11794282365228.html
+  - Snippet: Low prices can disguise weak businesses, poor liquidity and manipulation risks. Sebi’s proposed clean-up is a reminder that penny stocks can be costly bets.
+- **[Mint Money & Corporate] Parag Parikh Flexi Cap adds Netflix, exits Meta: What changed in its October portfolio? Check latest stock picks** (2026-11-09 16:37 UTC)
+  - Link: https://www.livemint.com/money/personal-finance/parag-parikh-flexi-cap-adds-netflix-exits-meta-what-changed-in-its-october-portfolio-check-latest-stock-picks-11794241378418.html
+  - Snippet: PPFAS Flexi Cap Fund added Netflix, exited Meta Platforms and reduced Microsoft in October 2026. It also increased investments in DLF, Maruti Suzuki, M amp;M and other Indian stocks. Here's a look at its latest portfolio and long-term rolling returns.
+- **[Mint Money & Corporate] Nifty 50 ETFs or index funds? Compare returns, expense ratios and tracking errors before choosing where to invest** (2026-11-09 10:36 UTC)
+  - Link: https://www.livemint.com/money/personal-finance/nifty-50-etfs-or-index-funds-compare-returns-expense-ratios-and-tracking-errors-before-choosing-where-to-invest-11794214691739.html
+  - Snippet: Nifty 50 ETFs and index funds track the same benchmark but differ in trading, liquidity and investment convenience. Anand Rathi Wealth's Protima Dhawan explains five parameters to compare and why she prefers actively managed equity funds.
+- **[Mint Money & Corporate] NPS returns: Choosing a pension fund for retirement? Why subscribers should look beyond one-year performance** (2026-11-09 15:13 UTC)
+  - Link: https://www.livemint.com/money/personal-finance/nps-returns-choosing-a-pension-fund-for-retirement-why-subscribers-should-look-beyond-one-year-performance-11794235842342.html
+  - Snippet: Choosing an NPS pension fund based on one-year returns can be misleading. Investors should assess rolling returns, upside and downside performance, and volatility to understand how consistently a scheme has beaten its benchmark across different market cycles.
+- **[Economic Times Top Business] Need for rules comes to fore as India corporate landscape clutters up with family feuds** (2026-11-10 04:08 UTC)
+  - Link: https://economictimes.indiatimes.com/news/company/corporate-trends/need-for-rules-comes-to-fore-as-india-corporate-landscape-clutters-up-with-family-feuds/articleshow/135698629.cms
+  - Snippet: India's corporate landscape is witnessing a surge in family disputes that threaten the very foundation of long-established businesses. Following the exit or passing of key patriarchs, internal discord often erupts, underscoring the critical requirement for legislative mechanisms that favour transparent succession planning.
+- **[Mint Money & Corporate] UPI charges after Diwali: Will customers pay extra on payments above  ₹2,000? NPCI's MDR rollout likely in Nov** (2026-11-10 06:53 UTC)
+  - Link: https://www.livemint.com/money/personal-finance/upi-charges-after-diwali-will-customers-pay-extra-on-payments-above-2-000-npcis-mdr-rollout-likely-in-nov-11794289795387.html
+  - Snippet: With Diwali over, NPCI has yet to announce the implementation date for MDR on select UPI payments above ₹2,000. Here's what you need to know about the proposed 0.4% charge, sector-specific rates, and whether merchants or customers will bear the additional cost.
+- **[Mint Money & Corporate] Will your old cheque book become invalid after December 31, 2026? RBI debunks viral claim** (2026-11-09 09:14 UTC)
+  - Link: https://www.livemint.com/money/will-old-your-cheque-book-become-invalid-after-december-31-2026-big-development-from-rbi-11794210127344.html
+  - Snippet: Will old your cheque book become invalid after December 31, 2026? The RBI has clarified claims that existing CTS cheque books become invalid from the new year. Here's all you need to know… nbsp;
+- **[Mint Money & Corporate] Wrong details in PF account can delay your money; EPFO explains how to correct them online in 5 easy steps** (2026-11-10 07:29 UTC)
+  - Link: https://www.livemint.com/money/personal-finance/wrong-details-in-pf-account-can-delay-your-money-epfo-explains-how-to-correct-them-online-in-5-easy-steps-11794293434161.html
+  - Snippet: Incorrect personal or employment details in your EPF account could create hurdles when withdrawing money, transferring PF balance, or settling claims. EPFO has highlighted its Joint Declaration facility, allowing members to request corrections to their records through the Member Portal.
+- **[Mint Money & Corporate] Sold your house and accepted  ₹11 lakh in cash? ITAT deletes penalty, citing seller's lack of awareness of tax rules** (2026-11-09 11:38 UTC)
+  - Link: https://www.livemint.com/money/personal-finance/sold-your-house-and-accepted-11-lakh-in-cash-itat-deletes-penalty-citing-sellers-lack-of-awareness-of-tax-rules-11794216038696.html
+  - Snippet: ITAT Jaipur deleted an ₹11 lakh penalty on a farmer who accepted cash while selling his house for ₹22.5 lakh. The tribunal cited his lack of awareness of tax rules and held that reasonable cause justified relief under Section 273B.
+- **[Mint Money & Corporate] Received cash from customers and deposited it in your bank account? When can income tax authorities tax it** (2026-11-09 17:23 UTC)
+  - Link: https://www.livemint.com/money/personal-finance/received-cash-from-customers-and-deposited-it-in-your-bank-account-when-can-income-tax-authorities-tax-it-11794244686185.html
+  - Snippet: An insurance agent's ₹35.09 lakh cash deposits during demonetisation were treated as unexplained income. ITAT Jaipur deleted the addition after accepting records showing the money came from policyholder premiums.
+- **[Mint Money & Corporate] Received Diwali bonus or cash from your employer? Know  ₹15,000 exemption limit and when income tax applies | Explained** (2026-11-10 03:09 UTC)
+  - Link: https://www.livemint.com/money/personal-finance/received-diwali-bonus-or-cash-from-your-employer-know-15-000-exemption-limit-and-when-income-tax-applies-explained-11794275279531.html
+  - Snippet: With Diwali celebrations over, salaried employees should understand how employers' festive gifts, vouchers and cash bonuses are taxed. The rules prescribe different tax treatments for these benefits, which can affect employees' taxable income and overall tax liability.
+- **[Mint Money & Corporate] Senior citizen FD rates: Suryoday Bank offers 8.6% on five-year deposits; compare rates at SBI, HDFC Bank and others** (2026-11-09 18:14 UTC)
+  - Link: https://www.livemint.com/money/personal-finance/senior-citizen-fd-rates-suryoday-bank-offers-8-6-on-five-year-deposits-compare-rates-at-sbi-hdfc-bank-and-others-11794246408961.html
+  - Snippet: Senior citizens can earn up to 8.6% on five-year FDs. Suryoday Small Finance Bank offers the highest rate, followed by Jana and DCB Bank at 8%. Here is a comparison of FD rates across small finance, private and public sector banks.
+- **[Mint Money & Corporate] LTCG tax: India taxes capital gains. These countries don't: Singapore, Hong Kong and more** (2026-11-09 09:51 UTC)
+  - Link: https://www.livemint.com/money/personal-finance/ltcg-tax-india-taxes-capital-gains-these-countries-dont-singapore-hong-kong-and-more-11794215773712.html
+  - Snippet: After a pause of 14 long years, it was reintroduced in 2018 by then finance minister Arun Jaitley, who argued that the 'return on investment in equity is already quite attractive' and there's a strong case for bringing long-term capital gains from listed equities into the tax net.
+- **[Mint Money & Corporate] Bank holiday today, 10 Nov Tuesday: Bank branches closed in Ahmedabad, Bengaluru, Mumbai and 4 other cities; here's why** (2026-11-10 01:17 UTC)
+  - Link: https://www.livemint.com/money/personal-finance/bank-holiday-today-10-nov-tuesday-bank-branches-closed-in-ahmedabad-bengaluru-mumbai-and-3-other-cities-heres-why-11794270057057.html
+  - Snippet: Bank branches in several cities across India will remain closed on Tuesday, 10 November due to a regional bank holiday. Check the complete list of affected cities, whether online banking services will continue and what customers should know before planning branch visits.
+- **[Mint Money & Corporate] Bank locker found surrendered, jewellery missing? How to protect your valuables, avoid costly dispute | Experts explain** (2026-11-09 17:58 UTC)
+  - Link: https://www.livemint.com/money/personal-finance/bank-locker-found-surrendered-jewellery-missing-how-to-protect-your-valuables-avoid-costly-dispute-experts-explain-11794236376468.html
+  - Snippet: A Delhi consumer commission ordered a bank to compensate a woman after her joint bank locker was surrendered without her consider and jewellery allegedly went missing from it. Here's how to protect your valuables in such cases.
+- **[Mint Money & Corporate] Buying gold jewellery? Government makes hallmarking mandatory in six more districts across India. Check the full list** (2026-11-09 14:20 UTC)
+  - Link: https://www.livemint.com/money/personal-finance/buying-gold-jewellery-government-makes-hallmarking-mandatory-in-six-more-districts-across-india-check-the-full-list-11794233861691.html
+  - Snippet: The government has expanded mandatory gold jewellery hallmarking to six more districts, taking coverage to 398 districts across 26 states and UTs. Here's the complete list of additions and what buyers should check before purchasing gold jewellery.
+- **[Mint Money & Corporate] ₹670-cr investment fraud: How a former mason allegedly lured 7,400 investors with 4% monthly returns** (2026-11-09 10:56 UTC)
+  - Link: https://www.livemint.com/money/670cr-investment-fraud-how-a-former-mason-allegedly-lured-7-400-investors-with-4-monthly-returns-11794218973740.html
+  - Snippet: Hyderabad businessman Nanavath Bhupal Naik is accused of running a ₹670-crore investment fraud that affected about 7,400 people. Here's how he pulled off the massive fraud. nbsp;
+- **[Economic Times Top Business] 56% of global business leaders expect disruptions to severely hit operations: KPMG** (2026-11-08 09:26 UTC)
+  - Link: https://economictimes.indiatimes.com/news/company/corporate-trends/56-of-global-business-leaders-expect-disruptions-to-severely-hit-operations-kpmg/articleshow/135655830.cms
+  - Snippet: A recent KPMG International report indicates that 56 percent of global business leaders anticipate severe disruptions affecting operations. The report highlights increasing risk exposure, with 70 percent of leaders noting escalated risks in recent years. Technology disruption and geopolitical tensions are identified as primary concerns for the near future. Companies are prioritizing AI and predict...
+- **[Mint Money & Corporate] Amex credit card points clawback: Why customers are losing Membership Rewards points and what they should do next** (2026-11-10 05:47 UTC)
+  - Link: https://www.livemint.com/money/personal-finance/amex-credit-card-points-clawback-why-customers-are-losing-membership-rewards-points-and-what-they-should-do-next-11794285406196.html
+  - Snippet: American Express India has deducted Membership Rewards points linked to cancelled cards, leaving some customers with negative balances. The move has raised concerns about pooled reward points, the 30-day forfeiture rule, and how affected cardholders can challenge the deductions.
+- **[Mint Money & Corporate] Claude Personal Finance vs ChatGPT Finances: 5 key differences in privacy, features and bank access** (2026-11-09 11:09 UTC)
+  - Link: https://www.livemint.com/money/claude-personal-finance-vs-chatgpt-finances-5-key-differences-in-privacy-features-and-bank-access-11794221025910.html
+  - Snippet: Anthropic's Claude Personal Finance and OpenAI's ChatGPT Finances offer AI-powered budgeting, spending analysis and financial planning through linked bank accounts. However, they differ in data privacy settings, advertising policies and plans to expand financial services.
+- **[Economic Times Top Business] In Noel's crosshairs, Chandra and Mehli reconnect at Tata HQ** (2026-11-09 05:33 UTC)
+  - Link: https://economictimes.indiatimes.com/news/company/corporate-trends/in-noels-crosshairs-chandra-and-mehli-reconnect-at-tata-hq/articleshow/135672088.cms
+  - Snippet: Tata Sons chairman N Chandrasekaran met Mehli Mistry at Bombay House last week in a move aimed at rebuilding trust after more than a year of strained relations. The two discussed issues that affected their equation following Mistry's removal from two key Tata trusts, a challenge that remains pending before the Maharashtra Charity Commissioner.
+- **[Economic Times Top Business] India’s product landscape is changing: Which products are setting the benchmark across technology, finance, and consumer markets?** (2026-11-10 06:56 UTC)
+  - Link: https://economictimes.indiatimes.com/news/company/corporate-trends/indias-product-landscape-is-changing-which-products-are-setting-the-benchmark-across-technology-finance-and-consumer-markets/articleshow/135701526.cms
+  - Snippet: The ET Product of the Year Awards 2026 showcase India's rapidly growing product ecosystem by honoring groundbreaking innovations across diverse sectors such as enterprise technology, financial services, and consumer markets. These awards place emphasis on products that have made a significant market impact, gained customer adoption, and demonstrated exceptional innovation, motivating companies to ...
+- **[Mint Money & Corporate] Indian travellers can avail 10% discount on UPI payments at Dubai Duty Free — Check offer cap, other details** (2026-11-09 09:38 UTC)
+  - Link: https://www.livemint.com/money/indian-travellers-avail-10-pc-discount-upi-transactions-dubai-duty-free-shopping-offer-cap-100-uae-dirhams-npci-payments-11794215635618.html
+  - Snippet: Indian travellers can now avail a 10% discount while shopping at Dubai Duty Free on eligible purchases through UPI, according to an official statement by NPCI International Payments. Here's all you need to know. nbsp;
+- **[Mint Money & Corporate] Diwali firecracker injuries: Will health insurance cover burns, eye damage and hospital bills? Know what is covered** (2026-11-09 13:09 UTC)
+  - Link: https://www.livemint.com/money/personal-finance/diwali-firecracker-injuries-will-health-insurance-cover-burns-eye-damage-and-hospital-bills-know-what-is-covered-11794214216549.html
+  - Snippet: Firecracker injuries during Diwali can lead to significant medical bills. While health insurance covers serious burns and eye injuries requiring hospitalisation, minor outpatient treatment and consumables may be excluded.
+- **[Mint Money & Corporate] EPF account correction: How to fix incorrect name, date of birth online in 5 steps** (2026-11-09 08:41 UTC)
+  - Link: https://www.livemint.com/money/personal-finance/epf-account-correction-how-to-fix-wrong-name-date-of-birth-online-in-5-steps-11794210671131.html
+  - Snippet: Wrong details in your EPF account? Follow EPFO’s 5-step joint declaration process to correct them online, plus 2.36 lakh grievances resolved in October.
+- **[Mint Money & Corporate] F&amp;F payout tax rules: Switched jobs, received full and final settlement? Know which components are taxable** (2026-11-09 14:19 UTC)
+  - Link: https://www.livemint.com/money/personal-finance/ff-payout-tax-rules-switched-jobs-received-full-and-final-settlement-know-which-components-are-taxable-11794230428281.html
+  - Snippet: When employment ends, employers settle outstanding dues after the last working day and deduct applicable TDS. Here's how each component of the payout is taxed.
+

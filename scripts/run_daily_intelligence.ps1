@@ -34,7 +34,7 @@ Write-Host "`n[Step 3/4] Formatting and publishing cards to Notion..." -Foregrou
 powershell.exe -ExecutionPolicy Bypass -File .\scripts\sync_to_notion.ps1 -Limit $NotionSyncLimit
 
 # Step 4: Build Web App Data (GitHub Pages Web Portal)
-Write-Host "`n[Step 4/4] Compiling briefings for GitHub Pages Web Portal..." -ForegroundColor Yellow
+Write-Host "`n[Step 4/5] Compiling briefings for GitHub Pages Web Portal..." -ForegroundColor Yellow
 if (Get-Command node -ErrorAction SilentlyContinue) {
     node .\scripts\build_web_data.js
     Copy-Item -Path ".\index.html", ".\styles.css", ".\app.js" -Destination ".\docs" -Force -ErrorAction SilentlyContinue
@@ -44,6 +44,18 @@ if (Get-Command node -ErrorAction SilentlyContinue) {
     Write-Warning "Node.js not found in PATH; skipping web compilation."
 }
 
+# Step 5: Deploy to GitHub Pages
+Write-Host "`n[Step 5/5] Committing and deploying to GitHub Pages..." -ForegroundColor Yellow
+if (Get-Command git -ErrorAction SilentlyContinue) {
+    git add workspace/briefings/ data/ docs/ web/ workspace/daily_inputs/
+    $dateStr = (Get-Date).ToString("yyyy-MM-dd")
+    git commit -m "feat(daily): publish 10-story executive briefing for $dateStr"
+    git push origin main
+    Write-Host "Pushed to GitHub main! GitHub Pages build triggered." -ForegroundColor Green
+} else {
+    Write-Warning "Git not found in PATH; skipping remote deployment."
+}
+
 Write-Host "`n==========================================================" -ForegroundColor Green
-Write-Host "  PIPELINE COMPLETE: Sheets, Notion & Web are in sync!" -ForegroundColor Green
+Write-Host "  PIPELINE COMPLETE: Sheets, Notion & GitHub Pages in sync!" -ForegroundColor Green
 Write-Host "==========================================================" -ForegroundColor Green
